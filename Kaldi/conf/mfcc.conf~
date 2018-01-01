@@ -1,0 +1,4 @@
+--use-energy=false   # only non-default option.
+--sample-frequency=16000
+--frame-length=25
+--frame-shift=10
