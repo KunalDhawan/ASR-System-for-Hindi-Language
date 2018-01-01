@@ -1,0 +1,3 @@
+RN regTree 
+LS /home/chief/htk/verifyPrompted/log/stateOcc.stat 
+RC 4 regTree {sil.state[2-4].mix}

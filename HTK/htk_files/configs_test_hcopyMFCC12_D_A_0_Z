@@ -1,0 +1,20 @@
+# Configuration file for hcopy command 
+# 12 mel frequency cep coeffs + cep(0); channel normalization done.
+# Cepstral liftering is used to achieve quefrency weighted cep coeffs.
+# Delta cep coeffs: window range is [-40msec ... 40msec].
+# frame shift = 10ms;  window duration = 25ms.
+# Sampling frequency = 16000Hz.
+#
+SOURCEFORMAT = WAV
+SOURCERATE   = 625
+TARGETKIND = MFCC_D_A_0_Z
+TARGETRATE = 100000.0
+WINDOWSIZE = 250000.0
+USEHAMMING = T
+PREEMCOEF = 0.97
+NUMCHANS = 26
+NUMCEPS = 12
+CEPLIFTER = 22
+SAVECOMPRESSED = T
+SAVEWITHCRC = T
+DELTAWINDOW = 4
