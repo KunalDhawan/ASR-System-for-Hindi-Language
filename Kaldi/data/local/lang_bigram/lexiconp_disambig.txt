@@ -1,0 +1,773 @@
+aa	1.0	aa_S
+aacaarya	1.0	aa_B c_I aa_I r_I y_I a_E
+aadhaara	1.0	aa_B dh_I aa_I r_E
+aadhaarashilaa	1.0	aa_B dh_I aa_I r_I a_I sh_I i_I l_I aa_E
+aadhii	1.0	aa_B dh_I ii_E
+aadivaasii	1.0	aa_B d_I i_I w_I aa_I s_I ii_E
+aaiisiiesaii	1.0	aa_B ii_I s_I ii_I ee_I s_I a_I ii_E
+aaja	1.0	aa_B j_I aa_E
+aajaqada	1.0	aa_B z_I aa_I d_E
+aakaasha	1.0	aa_B k_I aa_I sh_E
+aakhira	1.0	aa_B kh_I i_I r_E
+aakrusxtxa	1.0	aa_B k_I r_I u_I sx_I tx_E
+aalasii	1.0	aa_B l_I s_I ii_E
+aapane	1.0	aa_B p_I n_I ee_E
+aaqdolana	1.0	aa_B n_I d_I o_I l_I a_I n_E
+aarambha	1.0	aa_B r_I a_I m_I bh_E
+aashcarya	1.0	aa_B sh_I c_I a_I r_I y_E
+aashiirvaada	1.0	aa_B sh_I ii_I r_I w_I aa_I d_E
+aastiina	1.0	aa_B s_I t_I ii_I n_E
+aavaaja	1.0	aa_B w_I aa_I j_E
+aayaa	1.0	aa_B y_I aa_E
+aayii	1.0	aa_B y_I ii_E
+aba	1.0	a_B b_E
+abhuutapuurva	1.0	a_B bh_I uu_I t_I a_I p_I uu_I r_I w_E
+acchaa	1.0	a_B c_I ch_I aa_E
+acchii	1.0	a_B c_I ch_I ii_E
+adhikaaqs	1.0	a_B dh_I i_I k_I aa_I nj_I sh_E
+adhikaaqsha	1.0	a_B dh_I i_I k_I aa_I nj_I sh_I aa_E
+advitiiya	1.0	a_B d_I w_I i_I t_I ii_I y_E
+agale	1.0	a_B g_I a_I l_I ee_E
+aksara	1.0	a_B k_I s_I a_I r_E
+alabattaa	1.0	a_B l_I a_I b_I a_I tt_I aa_E
+alookika	1.0	a_B l_I au_I k_I i_I k_E
+alpasaqkhyaka	1.0	a_B l_I p_I a_I s_I a_I ng_I kh_I y_I a_I k_E
+ammaa	1.0	a_B mm_I aa_E
+amruta	1.0	a_B m_I r_I u_I t_E
+amuulya	1.0	a_B m_I uu_I l_I y_E
+anuccheda	1.0	a_B n_I u_I c_I ch_I ee_I d_E #1
+anucheda	1.0	a_B n_I u_I c_I ch_I ee_I d_E #2
+anusaara	1.0	a_B n_I u_I s_I aa_I r_E
+anya	1.0	a_B n_I y_E
+apanaa	1.0	a_B p_I a_I n_I aa_E
+apane	1.0	a_B p_I n_I e_E
+apanii	1.0	a_B p_I n_I ii_E
+aparaadhii	1.0	a_B p_I r_I aa_I dh_I ii_E
+apsaraaoq	1.0	a_B p_I s_I a_I r_I aa_I on_E
+ashubha	1.0	a_B sh_I u_I bh_E
+baabaa	1.0	b_B aa_I b_I aa_E
+baada	1.0	b_B aa_I d_E
+baagha	1.0	b_B aa_I gh_E
+baaghoq	1.0	b_B aa_I gh_I on_E
+baahara	1.0	b_B aa_I h_I a_I r_E
+baaki	1.0	b_B aa_I k_I i_E
+baalaka	1.0	b_B aa_I l_I a_I k_E
+baalikaaoq	1.0	b_B aa_I l_I i_I k_I aa_I on_E
+baaraha	1.0	b_B aa_I r_I a_I h_E
+baare	1.0	b_B aa_I r_I e_E
+baata	1.0	b_B aa_I t_E
+baataciita	1.0	b_B aa_I t_I a_I c_I ii_I t_E
+bacapana	1.0	b_B a_I c_I a_I p_I a_I n_E
+baccoq	1.0	b_B a_I cc_I on_E
+badala	1.0	b_B a_I d_I a_I l_E
+badxaa	1.0	b_B a_I dx_I aa_E #1
+badxae	1.0	b_B a_I dx_I ee_E
+badxaii	1.0	b_B a_I dx_I a_I ii_E
+badxaqa	1.0	b_B a_I dx_I aa_E #2
+badxhaeqge	1.0	b_B a_I dxh_I aa_I ee_I ng_I g_I ee_E
+badxhaqte	1.0	b_B a_I dxh_I a_I t_I ee_E
+bahaneq	1.0	b_B ee_I h_I n_I ee_E
+bahuta	1.0	b_B a_I h_I u_I t_E
+banaa	1.0	b_B a_I n_I aa_E
+banii	1.0	b_B a_I n_I ii_E
+bapootii	1.0	b_B a_I p_I au_I t_I ii_E
+baqdhaayaa	1.0	b_B a_I n_I dh_I aa_I y_I aa_E
+baqdhu	1.0	b_B a_I ng_I dh_I u_E
+baraata	1.0	b_B aa_I r_I aa_I t_E
+barasa	1.0	b_B a_I r_I a_I s_E
+bartana	1.0	b_B a_I r_I t_I a_I n_E
+basaa	1.0	b_B a_I s_I aa_E
+behataashaa	1.0	b_B ee_I h_I a_I t_I aa_I sh_I aa_E
+behatara	1.0	b_B ee_I h_I a_I t_I a_I r_E
+beitxhe	1.0	b_B ei_I txh_I ee_E
+beitxhii	1.0	b_B ei_I txh_I ii_E
+betxara	1.0	b_B e_I tx_I a_I r_E
+bhaaga	1.0	bh_B aa_I g_E
+bhaage	1.0	bh_B aa_I g_I e_E
+bhaamqtii	1.0	bh_B aa_I ng_I t_I i_E
+bhaarata	1.0	bh_B aa_I r_I a_I t_E
+bhaasxaa	1.0	bh_B aa_I sx_I aa_E
+bhaatii	1.0	bh_B aa_I t_I ii_E
+bhagata	1.0	bh_B a_I g_I a_I t_E
+bhagatajii	1.0	bh_B a_I g_I a_I t_I a_I j_I ii_E
+bhagavaan	1.0	bh_B a_I g_I a_I w_I aa_I n_E
+bhagavaana	1.0	bh_B a_I g_I w_I aa_I n_E
+bhara	1.0	bh_B a_I r_E
+bhare	1.0	bh_B a_I r_I ee_E
+bhedxaiyoq	1.0	bh_B e_I dx_I i_I y_I on_E
+bheja	1.0	bh_B e_I j_E
+bhii	1.0	bh_B ii_E
+bhuula	1.0	bh_B uu_I l_E
+bhuumi	1.0	bh_B uu_I m_I i_E
+bhuuta	1.0	bh_B uu_I t_E
+biica	1.0	b_B ii_I c_E
+biijoq	1.0	b_B ii_I j_I on_E
+biimaarii	1.0	b_B ii_I m_I aa_I r_I ii_E
+biisa	1.0	b_B ii_I s_E
+bijaliyaamq	1.0	b_B i_I j_I l_I i_I y_I aan_E
+bilakula	1.0	b_B i_I l_I k_I u_I l_E
+bistara	1.0	b_B i_I s_I t_I a_I r_E
+bolaa	1.0	b_B o_I l_I aa_E
+bolate	1.0	b_B o_I l_I t_I ee_E
+botala	1.0	b_B o_I t_I a_I l_E
+bulaayaa	1.0	b_B u_I l_I aa_I y_I a_E
+buudxhaii	1.0	b_B uu_I dxh_I ii_E
+buunda	1.0	b_B uu_I n_I d_E
+byaaja	1.0	b_B y_I aa_I j_E
+caahataa	1.0	c_B aa_I h_I a_I t_I aa_E
+caahatii	1.0	c_B aa_I h_I a_I t_I ii_E
+caahie	1.0	c_B aa_I h_I i_I ee_E
+caara	1.0	c_B aa_I r_E
+caava	1.0	c_B aa_I w_E
+caaya	1.0	c_B aa_I y_E
+cadxdxaa	1.0	c_B a_I ddx_I aa_E #1
+cadxdxhaa	1.0	c_B a_I ddx_I aa_E #2
+cadxhaqa	1.0	c_B a_I dxh_I aa_E
+cadxhe	1.0	c_B a_I dxh_I a_E
+cale	1.0	c_B a_I l_I ee_E
+calegaa	1.0	c_B a_I l_I e_I g_I aa_E
+calii	1.0	c_B a_I l_I ii_E
+calo	1.0	c_B a_I l_I o_E
+capadxaq	1.0	c_B a_I p_I a_I dx_E
+caraagaahoq	1.0	c_B a_I r_I aa_I g_I aa_I h_I on_E
+catura	1.0	c_B a_I t_I u_I r_E
+cavannii	1.0	c_B a_I w_I a_I n_I n_I ii_E
+chaha	1.0	ch_B a_I h_I a_E
+chatipuurti	1.0	ch_B a_I t_I i_I p_I uu_I r_I t_I i_E
+chatxhaa	1.0	ch_B a_I txh_I aa_E
+chodxaq	1.0	ch_B o_I dxq_E
+chodxaqa	1.0	ch_B o_I dxq_I aa_E
+chotxaa	1.0	ch_B o_I tx_I aa_E
+ciikha	1.0	c_B ii_I kh_E
+coodharii	1.0	c_B ou_I dh_I r_I ii_E
+cookaa	1.0	c_B ou_I k_I aa_E
+coothe	1.0	c_B ou_I th_I ee_E
+cotxa	1.0	c_B o_I tx_E
+cubhanaa	1.0	c_B u_I bh_I a_I n_I aa_E
+cupa	1.0	c_B u_I p_E
+cuudxaqamanxi	1.0	c_B uu_I dxq_I aa_I m_I a_I nx_I i_E
+cuuq	1.0	c_B uun_E
+daastaana	1.0	d_B aa_I s_I t_I aa_I n_E
+dahaadxaq	1.0	d_B a_I h_I aa_I dxq_E
+daksxinxa	1.0	d_B a_I k_I sx_I i_I nx_E
+dara	1.0	d_B a_I r_E
+daravaaje	1.0	d_B a_I r_I w_I aa_I j_I ee_E
+dasa	1.0	d_B a_I s_E
+dabaava	1.0	d_B a_I b_I aa_I w_E
+de	1.0	d_B ee_E
+deivii	1.0	d_B ei_I w_I ii_E
+dekha	1.0	d_B ee_I kh_E
+dekhaa	1.0	d_B ee_I kh_I aa_E
+dekhabhaala	1.0	d_B ee_I kh_I a_I bh_I aa_I l_E
+dekhakara	1.0	d_B ee_I kh_I a_I k_I a_I r_E
+dekhate	1.0	d_B ee_I kh_I t_I ee_E
+dekhatii	1.0	d_B ee_I kh_I t_I ii_E
+dekho	1.0	d_B ee_I kh_I o_E
+denaa	1.0	d_B ee_I n_I aa_E
+dene	1.0	d_B ee_I n_E
+desha	1.0	d_B ee_I sh_E
+deshabhara	1.0	d_B ee_I sh_I a_I bh_I a_I r_E
+detaa	1.0	d_B ee_I t_I aa_E
+detii	1.0	d_B ee_I t_I ii_E
+dhaaranxaa	1.0	dh_B aa_I r_I a_I nx_I aa_E
+dhanii	1.0	dh_B a_I n_I ii_E
+dhanurdhaarinxii	1.0	dh_B a_I n_I u_I r_I dh_I aa_I r_I i_I nx_I ii_E
+dharma	1.0	dh_B a_I r_I m_E
+dhiiraja	1.0	dh_B ii_I r_I a_I j_E
+dhiire	1.0	dh_B ii_I r_I ee_E
+dhobina	1.0	dh_B o_I b_I i_I n_E
+dhulavaakara	1.0	dh_B u_I l_I w_I aa_I k_I a_I r_E
+dhyeya	1.0	dh_B y_I ee_I y_E
+dii	1.0	d_B ii_E
+diipacaqda	1.0	d_B ii_I p_I a_I c_I a_I n_I d_I axx_E
+diivaanajii	1.0	d_B ii_I w_I aa_I n_I j_I ii_E
+dikhaa	1.0	d_B i_I kh_I aa_E
+dikhaaii	1.0	d_B i_I kh_I aa_I ii_E
+dikhaayii	1.0	d_B i_I kh_I aa_I y_I ii_E
+dila	1.0	d_B i_I l_E
+dimaagii	1.0	d_B i_I m_I aa_I g_I ii_E
+dina	1.0	d_B i_I n_E
+dinoq	1.0	d_B i_I n_I on_E
+diyaa	1.0	d_B i_I y_I aa_E
+do	1.0	d_B o_E
+donoq	1.0	d_B o_I n_I on_E
+doodxaqkara	1.0	d_B au_I dx_I a_I k_I a_I r_E
+doore	1.0	d_B au_I r_I ee_E
+dopahara	1.0	d_B o_I p_I a_I h_I a_I r_E
+dostii	1.0	d_B o_I s_I t_I ii_E
+drushya	1.0	d_B r_I u_I sh_I y_I a_E
+drusxtxi	1.0	d_B r_I u_I sx_I tx_I i_E
+dukhii	1.0	d_B u_I kh_I ii_E
+duudha	1.0	d_B uu_I dh_E
+duura	1.0	d_B uu_I r_E
+duusaraa	1.0	d_B uu_I s_I a_I r_I aa_E
+dxaakasevaa	1.0	dx_B aa_I k_I a_I s_I ee_I w_I aa_E
+dxaalakara	1.0	dx_B aa_I l_I k_I a_I r_I a_E
+dxaale	1.0	dx_B aa_I l_I ee_E
+dxedxhaq	1.0	dx_B ee_I dxhq_E
+eicchika	1.0	ei_B cch_I i_I k_E
+eisaa	1.0	ei_B s_I aa_E
+eise	1.0	ai_B s_I ee_E
+eka	1.0	e_B k_E
+ekadama	1.0	e_B k_I a_I d_I a_I m_E
+ekadxaq	1.0	e_B k_I a_I dxq_E
+gaamqva	1.0	g_B aan_I w_E
+gaamqva	1.0	g_B aa_I on_E
+gae	1.0	g_B a_I ee_E
+gaii	1.0	g_B a_I ii_E
+gale	1.0	g_B a_I l_I ee_E
+gaqguu	1.0	g_B a_I ng_I g_I uu_E
+garimaa	1.0	g_B a_I r_I i_I m_I aa_E
+gatxhana	1.0	g_B a_I txh_I a_I n_E
+gayaa	1.0	g_B a_I y_I aa_E
+gayii	1.0	g_B a_I y_I ii_E
+ghaasa	1.0	gh_B aa_I s_E
+ghaata	1.0	gh_B aa_I t_E
+ghaayala	1.0	gh_B aa_I y_I a_I l_E
+ghamaqdxii	1.0	gh_B a_I m_I a_I n_I d_I ii_E
+ghaqtxe	1.0	gh_B ax_I t_I ee_E
+ghara	1.0	gh_B a_I r_E
+ghatxanaa	1.0	gh_B a_I tx_I a_I n_I aa_E
+ghatxita	1.0	gh_B a_I tx_I i_I t_E
+ghiisuu	1.0	gh_B ii_I s_I uu_E
+ghodxe	1.0	gh_B o_I dx_I ee_E
+ghosxanxaa	1.0	gh_B o_I sx_I nx_I aa_E
+ghosxita	1.0	gh_B o_I sx_I i_I t_E
+ghuse	1.0	gh_B u_I s_I ee_E
+ghutxa	1.0	gh_B u_I tx_E
+ghuumakara	1.0	gh_B uu_I m_I k_I a_I r_E
+gira	1.0	g_B i_I r_E
+girane	1.0	g_B i_I r_I aa_I n_I e_E
+girjaaghara	1.0	g_B i_I r_I j_I aa_I gh_I a_I r_E
+gola	1.0	g_B o_I l_E
+gurudeva	1.0	g_B u_I r_I u_I d_I ee_I v_E
+haatha	1.0	h_B aa_I th_E
+hajaara	1.0	h_B a_I j_I aa_I r_E
+hama	1.0	h_B a_I m_E
+hamaaraa	1.0	h_B a_I m_I aa_I r_I aa_E
+hamaare	1.0	h_B a_I m_I aa_I r_I ee_E
+hamaarii	1.0	h_B a_I m_I aa_I r_I ii_E
+harii	1.0	h_B a_I r_I ii_E
+hei	1.0	h_B ei_E
+heiq	1.0	h_B ei_I n_E
+hii	1.0	h_B aa_I y_E
+hinduu	1.0	h_B i_I n_I d_I uu_E
+hiqdii	1.0	h_B i_I n_I d_I ii_E
+ho	1.0	h_B o_E
+hogaa	1.0	h_B o_I g_I aa_E
+hogii	1.0	h_B o_I g_I ii_E
+hone	1.0	h_B o_I n_I ee_E
+hoq	1.0	h_B on_E
+hotaa	1.0	h_B oo_I t_I aa_E
+hote	1.0	h_B o_I t_I ee_E
+hotii	1.0	h_B o_I t_I ii_E
+huaa	1.0	h_B u_I aa_E
+hue	1.0	h_B u_I ee_E
+huumq	1.0	h_B oo_I n_E
+huyii	1.0	h_B u_I ii_E
+icchaa	1.0	i_B cchx_I aa_E
+idhara	1.0	i_B dh_I a_I r_E
+iiqtxe	1.0	ii_B nx_I tx_I ei_E
+iirsxyaa	1.0	ii_B r_I sx_I y_I aa_E
+iishvara	1.0	ii_B sh_I v_I a_I r_E
+ika	1.0	ee_B k_E
+ikatxhtxhii	1.0	i_B k_I a_I ttxh_I ii_E
+inakaa	1.0	i_B n_I k_I aa_E
+iqgleiqdxa	1.0	i_B ng_I l_I ei_I nx_I dx_E
+iqsaana	1.0	i_B n_I s_I aa_I n_E
+isa	1.0	i_B s_E
+isake	1.0	i_B s_I a_I k_I ee_E
+isakii	1.0	i_B s_I a_I k_I ii_E
+isalie	1.0	i_B s_I l_I i_I ei_E
+isameq	1.0	i_B s_I m_I en_E
+isase	1.0	i_B s_I s_I ee_E
+ise	1.0	i_B s_I ee_E
+isiilie	1.0	i_B s_I ii_I l_I i_I ee_E
+ispaata	1.0	i_B s_I p_I aa_I t_E
+itanaa	1.0	i_B t_I a_I n_I aa_E
+itane	1.0	i_B t_I a_I n_I e_E
+itanii	1.0	i_B t_I a_I n_I ii_E
+itihaasa	1.0	i_B t_I i_I h_I aa_I s_E
+jaa	1.0	j_B aa_E
+jaae	1.0	j_B aa_I ee_E
+jaaegii	1.0	j_B aa_I ee_I g_I ii_E
+jaakara	1.0	j_B aa_I k_I a_I r_E
+jaana	1.0	j_B aa_I n_E
+jaanaa	1.0	j_B aa_I n_I aa_E
+jaane	1.0	j_B aa_I n_I ee_E
+jaataa	1.0	j_B aa_I t_I aa_E
+jaate	1.0	j_B aa_I t_I ee_E
+jaatii	1.0	j_B aa_I t_I ii_E
+jaatiyoq	1.0	j_B aa_I t_I i_I y_I on_E
+jaauumqgaa	1.0	j_B aa_I uu_I ng_I g_I aa_E
+jaaye	1.0	j_B aa_I y_I ee_E
+jaba	1.0	j_B a_I b_E
+jagaha	1.0	j_B a_I g_I a_I h_E
+jagata	1.0	j_B a_I g_I a_I t_E
+jagatpati	1.0	j_B a_I g_I a_I t_I a_I p_I a_I t_I i_E
+jailoq	1.0	j_B i_I l_I on_E
+jaiqdagii	1.0	z_B i_I nx_I d_I a_I g_I ii_E
+janavarii	1.0	j_B a_I n_I a_I w_I a_I r_I ii_E
+jaqgala	1.0	j_B a_I ng_I g_I a_I l_E
+jaqraa	1.0	z_B a_I r_I aa_E
+jaruura	1.0	j_B a_I r_I uu_I r_E
+javaaba	1.0	j_B a_I v_I aa_I b_E
+jeise	1.0	j_B ei_I s_I ee_E
+jhuutxhaa	1.0	jh_B uu_I txh_I aa_E
+jhuutxhe	1.0	jh_B uu_I txh_I ei_E
+jhuutxhii	1.0	jh_B uu_I txh_I ii_E
+jiitaa	1.0	j_B ii_I t_I aa_E
+jiivana	1.0	j_B ii_I v_I a_I n_E
+jiivita	1.0	j_B ii_I v_I i_I t_E
+jijnyaasaa	1.0	j_B i_I g_I y_I aa_I s_I aa_E
+jisase	1.0	j_B i_I s_I a_I s_I ee_E
+jo	1.0	j_B o_E
+juunuuna	1.0	j_B u_I n_I uu_I n_E
+jyaadaa	1.0	j_B y_I aa_I d_I aa_E
+kaa	1.0	k_B aa_E
+kaala	1.0	k_B aa_I la_E
+kaama	1.0	k_B aa_I m_E
+kaamqtxaa	1.0	k_B aa_I nx_I tx_I aa_E
+kaaphii	1.0	k_B aa_I ph_I ii_E
+kaaqgresa	1.0	k_B aa_I ng_I r_I e_I s_E
+kaaranxa	1.0	k_B aa_I r_I a_I nx_E
+kaaryakartaaoq	1.0	k_B aa_I r_I y_I a_I k_I a_I r_I t_I aa_I on_E
+kaatxa	1.0	k_B aa_I tx_E
+kaatxaa	1.0	k_B aa_I tx_I aa_E
+kaauqtxaroq	1.0	k_B aa_I u_I nx_I tx_I a_I r_I on_E
+kabhii	1.0	k_B a_I b_I h_I ii_E
+kabuutaroq	1.0	k_B a_I b_I uu_I t_I a_I r_I on_E
+kacce	1.0	k_B a_I cc_I ee_E
+kadxaii	1.0	k_B a_I dx_I aa_I ii_E
+kaha	1.0	k_B a_I h_I a_E
+kahaa	1.0	k_B a_I h_I aa_E
+kahaanii	1.0	k_B a_I h_I aa_I n_I ii_E
+kahakara	1.0	k_B a_I h_I a_I k_I a_I r_E
+kahane	1.0	k_B a_I h_I a_I n_I ee_E
+kahiiq	1.0	k_B a_I h_I iin_E
+kaho	1.0	k_B a_I h_I o_E
+kaii	1.0	k_B a_I ii_E
+kalaa	1.0	k_B a_I l_I aa_E
+kalara	1.0	k_B a_I l_I a_I r_E
+kanaatxa	1.0	k_B a_I n_I au_I tx_E
+kapadxe	1.0	k_B a_I p_I a_I dx_I ee_E
+kaqtla	1.0	k_B a_I t_I l_I axx_E
+kara	1.0	k_B a_I r_E
+karanaa	1.0	k_B a_I r_I a_I n_I aa_E
+karane	1.0	k_B a_I r_I a_I n_I ee_E
+karate	1.0	k_B a_I r_I a_I t_I ee_E
+karuumqgaa	1.0	k_B a_I r_I uu_I mq_I g_I aa_E
+kasootxii	1.0	k_B a_I s_I ou_I tx_I ii_E
+kathana	1.0	k_B a_I th_I a_I n_E
+katxaghara	1.0	k_B a_I tx_I gh_I a_I r_E
+katxe	1.0	k_B a_I tx_I ee_E
+ke	1.0	k_B ee_E
+keidii	1.0	k_B ei_I d_I ii_E
+keqdriiya	1.0	k_B ee_I ng_I d_I r_I ii_I y_E
+kevala	1.0	k_B ee_I v_I a_I l_E
+khadxae	1.0	kh_B a_I dx_I ee_E
+khadxaqa	1.0	kh_B a_I dx_I aa_E
+khanxdxa	1.0	kh_B a_I nx_I dx_E
+khariidaa	1.0	kh_B a_I r_I ii_I d_I aa_E
+khariidate	1.0	kh_B a_I r_I ii_I d_I a_I t_I ee_E
+khela	1.0	kh_B ee_I l_E
+khetii	1.0	kh_B ee_I t_I ii_E
+khilaapha	1.0	kh_B ii_I l_I aa_I ph_E
+khoja	1.0	kh_B o_I j_E
+khuda	1.0	kh_B u_I d_E
+ki	1.0	k_B i_E
+kii	1.0	k_B ii_E
+kiijiye	1.0	k_B ii_I j_I i_I y_I ee_E
+kisa	1.0	k_B i_I s_E
+kishtoq	1.0	k_B i_I sh_I t_I on_E
+kisii	1.0	k_B i_I s_I ii_E
+kiyaa	1.0	k_B i_I y_I aa_E
+kiye	1.0	k_B i_I y_I ee_E
+ko	1.0	k_B o_E
+koii	1.0	k_B o_I ii_E
+koovaa	1.0	k_B au_I w_I aa_E
+kosa	1.0	k_B o_I s_E
+kosoq	1.0	k_B o_I s_I on_E
+kotxhii	1.0	k_B o_I txh_I ii_E
+koyalaa	1.0	k_B o_I y_I a_I l_I aa_E
+krusxi	1.0	k_B r_I u_I sx_I i_E
+kuaamq	1.0	k_B u_I aan_E
+kucha	1.0	k_B u_I ch_E
+kushalataa	1.0	k_B u_I sh_I a_I l_I t_I aa_E
+kyaa	1.0	k_B y_I aa_E
+kyoq	1.0	k_B y_I on_E
+laadxa	1.0	l_B aa_I dx_E
+laakha	1.0	l_B aa_I kh_E
+laalamanxi	1.0	l_B aa_I l_I a_I m_I a_I nx_I i_E
+laaqdxrii	1.0	l_B au_I nx_I dx_I r_I ii_E
+ladxaqkii	1.0	l_B a_I dx_I k_I ii_E
+ladxaqkiyoq	1.0	l_B a_I dx_I k_I i_I y_I on_E
+lagaa	1.0	l_B a_I g_I aa_E
+lagaae	1.0	l_B a_I g_I ee_E #1
+lagabhaga	1.0	l_B a_I g_I bh_I a_I g_E
+lagatii	1.0	l_B a_I g_I a_I t_I ii_E
+lage	1.0	l_B a_I g_I ee_E #2
+lagii	1.0	l_B a_I g_I ii_E
+lajjita	1.0	l_B a_I jj_I i_I t_E
+lambaaii	1.0	l_B a_I m_I b_I aa_I ii_E
+lekara	1.0	l_B ee_I k_I a_I r_E
+lene	1.0	l_B ee_I n_I ee_E
+lie	1.0	l_B aa_I ii_E
+likhe	1.0	l_B i_I kh_I ee_E
+lipatxa	1.0	l_B i_I p_I a_I tx_E
+lo	1.0	l_B o_E
+loga	1.0	l_B o_I g_I a_E
+lohe	1.0	l_B o_I h_I ee_E
+lokakalaa	1.0	l_B o_I k_I k_I a_I l_I aa_E
+lutxeroq	1.0	l_B u_I tx_I ee_I r_I on_E
+maadaka	1.0	m_B aa_I d_I a_I k_E
+maadhava	1.0	m_B aa_I dh_I a_I w_E
+maakapaa	1.0	m_B aa_I k_I a_I p_I aa_E
+maaluuma	1.0	m_B aa_I l_I uu_I m_E
+maamalaa	1.0	m_B aa_I m_I a_I l_I aa_E
+maanava	1.0	m_B aa_I n_I a_I w_E
+maane	1.0	m_B aa_I n_I ee_E
+maanii	1.0	m_B aa_I n_I ii_E
+maaxla	1.0	m_B aa_I l_E
+madhushaalaa	1.0	m_B a_I dh_I u_I sh_I aa_I l_I aa_E
+magara	1.0	m_B a_I g_I a_I r_E
+mahaaraaja	1.0	m_B a_I h_I aa_I r_I aa_I j_I a_E
+mahaaraajaa	1.0	m_B a_I h_I aa_I r_I aa_I j_I aa_E
+mahaaraanii	1.0	m_B a_I h_I aa_I r_I aa_I n_I ii_E
+mahaaraanxaa	1.0	m_B a_I h_I aa_I r_I aa_I nx_I aa_E
+mahala	1.0	m_B a_I h_I a_I l_E
+mahattvapuurnxa	1.0	m_B a_I h_I a_I tw_I a_I p_I uu_I r_I nx_I a_E
+mahatva	1.0	m_B a_I h_I a_I tw_E
+mahiinaa	1.0	m_B a_I h_I ii_I n_I aa_E
+mahiine	1.0	m_B a_I h_I ii_I n_I ee_E
+mahilaa	1.0	m_B a_I h_I i_I l_I aa_E
+majabuura	1.0	m_B a_I j_I a_I b_I uu_I r_E
+makaana	1.0	m_B a_I k_I aa_I n_E
+mamqje	1.0	m_B a_I nj_I jh_I ee_E
+mana	1.0	m_B a_I n_E
+mandiroq	1.0	m_B a_I n_I d_I i_I r_I on_E
+manusxya	1.0	m_B a_I n_I u_I sx_I y_E
+manxipurii	1.0	m_B a_I nx_I i_I p_I u_I r_I ii_E
+maqdxala	1.0	m_B a_I ng_I dx_I a_I l_E
+maqdxapa	1.0	m_B a_I ng_I dx_I a_I p_E
+maqgala	1.0	m_B a_I ng_I g_I a_I l_E
+maqtrii	1.0	m_B a_I n_I t_I r_I ii_E
+marammata	1.0	m_B a_I r_I a_I mm_I a_I t_E
+mata	1.0	m_B a_I t_E
+megha	1.0	m_B ee_I gh_E
+meine	1.0	m_B ei_I n_I ee_E #1
+meiq	1.0	m_B ei_I n_E
+meiqne	1.0	m_B ei_I n_I ee_E #2
+meq	1.0	m_B ee_I n_E
+mere	1.0	m_B ee_I r_I ee_E
+miila	1.0	m_B ii_I l_E
+miinaara	1.0	m_B i_I n_I aa_I r_E
+mila	1.0	m_B i_I l_I aa_E
+milataa	1.0	m_B i_I l_I a_I t_I aa_E
+milate	1.0	m_B i_I l_I a_I t_I e_E
+mishra	1.0	m_B i_I sh_I r_E
+mitrataa	1.0	m_B i_I t_I r_I axx_I t_I aa_E
+mitroq	1.0	m_B i_I t_I r_I on_E
+mitxtxii	1.0	m_B i_I ttx_I ii_E
+modii	1.0	m_B o_I d_I ii_E
+mohara	1.0	m_B o_I h_I a_I r_E
+mujhe	1.0	m_B u_I jh_I ee_E
+mukhiyaa	1.0	m_B u_I kh_I i_I y_I aa_E
+mukhya	1.0	m_B u_I kh_I y_E
+murkha	1.0	m_B uu_I r_I kh_I a_E
+mutxhabhedxaq	1.0	m_B u_I txh_I bh_I ee_I dx_E
+muulyoq	1.0	m_B uu_I l_I y_I on_E
+muurtiyoq	1.0	m_B uu_I r_I t_I i_I y_I on_E
+na	1.0	n_B a_E
+naa	1.0	n_B aa_E
+naagra	1.0	n_B aa_I g_I a_I r_E
+nae	1.0	n_B a_I ee_E
+nahii	1.0	n_B a_I h_I ii_I n_E #1
+nahiiq	1.0	n_B a_I h_I ii_I n_E #2
+namuune	1.0	n_B a_I m_I uu_I n_I ee_E
+ne	1.0	n_B ee_E
+nigaaha	1.0	n_B i_I g_I aa_I h_E
+nikala	1.0	n_B i_I k_I a_I l_E
+nikatxa	1.0	n_B i_I k_I a_I tx_E
+nirbhara	1.0	n_B i_I r_I bh_I a_I r_E
+nirnxaya	1.0	n_B i_I r_I nx_I a_I y_E
+nivesha	1.0	n_B i_I v_I ee_I sh_E
+noo	1.0	n_B ou_E
+noojavaana	1.0	n_B ou_I j_I a_I v_I aa_I n_E
+nyaaya	1.0	n_B y_I aa_I y_E
+oora	1.0	ou_B r_E
+oorata	1.0	ou_B r_I a_I t_E
+ora	1.0	o_B r_E
+paakhaqdxii	1.0	p_B aa_I kh_I a_I nx_I dx_I ii_E
+paamqca	1.0	p_B a_I ng_I kh_I aa_E
+paanii	1.0	p_B aa_I n_I ii_E
+paaqca	1.0	p_B aa_I ng_I c_E
+paartxii	1.0	p_B aa_I r_I tx_I ii_E
+paasa	1.0	p_B aa_I s_I aa_E
+pacaasa	1.0	p_B a_I c_I aa_I s_E
+pacaraqgii	1.0	p_B a_I c_I r_I a_I n_I g_I ii_E
+padaartha	1.0	p_B a_I d_I aa_I r_I th_E
+padxaa	1.0	p_B dxhq_I aa_E
+padxaqtaa	1.0	p_B dxhq_I aa_I t_I aa_E
+padxhaqa	1.0	p_B dxhq_I ng_I aa_E
+padxhaqate	1.0	p_B dxhq_I aa_I t_I ei_E
+padxii	1.0	p_B dxhq_I ii_E
+pahacaana	1.0	p_B e_I h_I ch_I aa_I n_I aa_E
+pahacaananaa	1.0	p_B e_I h_I ch_I aa_I n_I n_I aa_E
+pahale	1.0	p_B a_I h_I l_I ei_E
+pahanuuqgii	1.0	p_B e_I h_I ei_I n_I u_I n_I g_I ii_E
+pahumqce	1.0	p_B a_I h_I u_I n_I c_I ei_E
+pakkaa	1.0	p_B a_I kk_I aa_E
+pakkii	1.0	p_B a_I kk_I ii_E
+paqjaaba	1.0	p_B a_I nj_I j_I aa_I b_E
+para	1.0	p_B a_I r_E
+parinxaama	1.0	p_B a_I r_I ii_I nx_I aa_I m_E
+pashcima	1.0	p_B a_I sh_I c_I i_I m_E
+pataa	1.0	p_B a_I t_I aa_E
+patiyoq	1.0	p_B a_I t_I ii_I y_I on_E
+patra	1.0	p_B a_I t_I r_E
+patxasana	1.0	p_B a_I t_I s_I aa_I n_E
+patxavaa	1.0	p_B a_I t_I w_I aa_E
+pedxaq	1.0	p_B ee_I dxq_E
+peidaa	1.0	p_B ei_I d_I aa_E
+peiqtare	1.0	p_B ei_I n_I t_I r_I ee_E
+peira	1.0	p_B ei_I r_E
+pheiktxarii	1.0	p_B i_I c_I k_I aa_I r_I ii_E
+phira	1.0	ph_B i_I r_E
+phoorana	1.0	p_B uu_I r_I aa_I n_I aa_E #1
+phutxa	1.0	ph_B uu_I txh_E
+pichavaadxae	1.0	p_B ii_I ch_I w_I aa_I d_I ei_E
+piinaa	1.0	p_B ii_I n_I aa_E
+plesa	1.0	p_B l_I ee_I s_E
+praaciina	1.0	p_B r_I aa_I c_I ii_I n_E
+pradarshana	1.0	p_B r_I a_I d_I a_I r_I sh_I a_I n_E
+pradesha	1.0	p_B r_I a_I d_I ei_I sh_E
+pradhaana	1.0	p_B r_I a_I d_I aa_I n_E
+prashaashana	1.0	p_B r_I a_I sh_I aa_I sh_I a_I n_E
+pratisxtxhaa	1.0	p_B r_I a_I t_I ii_I k_I jhq_I aa_E
+prativarsxa	1.0	p_B r_I a_I t_I ii_I w_I a_I r_I sh_E
+prema	1.0	p_B r_I ee_I m_E
+preranxaa	1.0	p_B r_I ee_I r_I nx_I aa_E
+priqsa	1.0	p_B a_I r_I ii_I k_I sh_I aa_E
+prkaara	1.0	p_B r_I a_I k_I aa_I r_E
+prukruti	1.0	p_B r_I a_I k_I r_I i_I t_I ii_E
+punarjiivita	1.0	p_B uu_I n_I a_I r_I j_I ii_I w_I i_I t_E
+puraanaa	1.0	p_B uu_I r_I aa_I n_I aa_E #2
+puujaa	1.0	p_B uu_I j_I aa_E
+puure	1.0	p_B uu_I r_I ee_E
+puurii	1.0	p_B uu_I r_I ii_E
+puurnxa	1.0	p_B uu_I r_I nx_E
+puurva	1.0	p_B uu_I r_I w_E
+pyaara	1.0	p_B y_I aa_I r_I aa_E
+raaja	1.0	r_B aa_I j_E
+raajaa	1.0	r_B aa_I j_I aa_E
+raajya	1.0	r_B aa_I j_I y_E
+raashi	1.0	r_B aa_I sh_I ii_E
+raata	1.0	r_B aa_I t_E
+raatoq	1.0	r_B aa_I t_I on_E
+ragadxaqa	1.0	r_B a_I g_I a_I dxq_I aa_E
+rahaa	1.0	r_B a_I h_I aa_E
+rahanaa	1.0	r_B a_I h_I n_I aa_E
+rahataa	1.0	r_B a_I h_I t_I aa_E
+rahatii	1.0	r_B a_I h_I t_I ii_E
+rahe	1.0	r_B a_I h_I ee_E
+rahii	1.0	r_B a_I h_I ii_E
+rakhaa	1.0	r_B a_I kh_I aa_E
+rakhane	1.0	r_B a_I kh_I n_I ei_E
+rakhate	1.0	r_B a_I kh_I t_I ei_E
+rakhii	1.0	r_B a_I kh_I ii_E
+rasa	1.0	r_B a_I s_E
+rishte	1.0	r_B i_I sh_I t_I ei_E
+riyaasata	1.0	r_B i_I y_I aa_I s_I a_I t_E
+rupayaa	1.0	r_B uu_I p_I y_I aa_E
+ruupa	1.0	r_B uu_I p_E
+ruupakumaarii	1.0	r_B uu_I p_I a_I k_I u_I m_I aa_I r_I ii_E
+saadhana	1.0	s_B aa_I dh_I a_I n_I aa_E
+saaga	1.0	s_B aa_I g_E
+saahasa	1.0	s_B aa_I h_I a_I s_E
+saahasii	1.0	s_B aa_I h_I a_I s_I ii_E
+saakha	1.0	s_B a_I kh_I aa_E
+saala	1.0	s_B aa_I l_E
+saamane	1.0	s_B aa_I m_I a_I n_I ei_E
+saapha	1.0	s_B aa_I ph_E
+saaraa	1.0	s_B aa_I r_I aa_E
+saata	1.0	s_B aa_I t_E
+saatha	1.0	s_B aa_I th_E
+saba	1.0	s_B a_I b_E
+sabase	1.0	s_B a_I b_I s_I ee_E
+sabuuta	1.0	s_B aa_I b_I u_I t_E
+sacamuca	1.0	s_B a_I c_I m_I u_I c_E
+saccaaii	1.0	s_B a_I cc_I aa_I ii_E
+saccii	1.0	s_B a_I cc_I ii_E
+sacetaka	1.0	s_B a_I c_I ee_I t_I a_I k_E
+sadana	1.0	s_B aa_I dh_I n_I aa_E
+sadxaqka	1.0	s_B a_I dxq_I a_I k_E
+sahakaarii	1.0	s_B a_I h_I a_I k_I aa_I r_I ii_E
+sakate	1.0	s_B a_I k_I t_I ei_E
+samaacaara	1.0	s_B a_I m_I aa_I c_I aa_I r_E
+samaapta	1.0	s_B a_I m_I aa_I p_I t_I axx_E
+samajha	1.0	s_B a_I m_I a_I jh_E
+samaya	1.0	s_B a_I m_I a_I y_E
+sambandhii	1.0	s_B a_I m_I b_I a_I n_I dh_I ii_E
+sammmaana	1.0	s_B aa_I m_I aa_I n_E
+samruddha	1.0	s_B a_I m_I r_I u_I dh_E
+samruddhi	1.0	s_B a_I m_I r_I a_I dh_I ii_E
+saqbhava	1.0	s_B a_I m_I bh_I a_I v_E
+saqghatxana	1.0	s_B a_I ng_I gh_I a_I txh_I a_I n_E
+saqgrahaalaya	1.0	s_B a_I ng_I g_I r_I aa_I l_I a_I y_E
+saqkalpa	1.0	s_B a_I ng_I k_I a_I l_I p_E
+saqkatxamocana	1.0	s_B a_I n_I k_I a_I tx_I a_I m_I o_I c_I a_I n_E
+saqketa	1.0	s_B a_I n_I k_I ei_I t_E
+saqsthaana	1.0	s_B a_I n_I s_I th_I aan_E
+saqtusxtxa	1.0	s_B a_I n_I t_I u_I sx_I tx_I axx_E
+saqvidhaana	1.0	s_B a_I m_I v_I ii_I dh_I aan_E
+sarakaara	1.0	s_B a_I r_I k_I aa_I r_E
+sashakta	1.0	s_B a_I sh_I a_I k_I t_I axx_E
+sastii	1.0	s_B a_I s_I t_I ii_E
+sattaa	1.0	s_B a_I tt_I aa_E
+savere	1.0	s_B a_I v_I ei_I r_I ei_E
+se	1.0	s_B ei_E
+sela	1.0	s_B ei_I l_E
+setxhajii	1.0	s_B ei_I txh_I a_I j_I ii_E
+setxhanii	1.0	s_B ei_I txh_I aa_I n_I ii_E
+shaadii	1.0	sh_B aa_I d_I ii_E
+shaama	1.0	sh_B aa_I m_E
+shabda	1.0	sh_B a_I b_I d_I axx_E
+shakla	1.0	sh_B a_I k_I l_I axx_E
+shava	1.0	sh_B a_I v_E
+sheilii	1.0	sh_B ei_I l_I ii_E
+shekhacillii	1.0	sh_B ei_I kh_I c_I i_I ll_I ii_E
+shilpa	1.0	sh_B i_I l_I p_I axx_E
+shivaalaya	1.0	sh_B i_I v_I aa_I l_I y_I axx_E
+shresxtxha	1.0	sh_B r_I e_I sx_I txh_I axx_E
+shrruqgaara	1.0	sh_B rr_I i_I n_I g_I aa_I r_E
+shuruu	1.0	sh_B u_I r_I u_E
+sii	1.0	s_B ii_E
+siimaabandii	1.0	s_B ii_I m_I aa_I b_I a_I n_I d_I ii_E
+skuula	1.0	s_B k_I uu_I l_E
+so	1.0	s_B o_E
+socaa	1.0	s_B o_I c_I aa_E
+sokara	1.0	s_B o_I k_I a_I r_E
+soo	1.0	s_B oo_E
+sooqdarya	1.0	s_B oo_I n_I d_I a_I r_I y_I axx_E
+spasxtxa	1.0	s_B p_I a_I sx_I tx_I axx_E
+staqbhoq	1.0	s_B t_I a_I m_I bh_I on_E
+stara	1.0	s_B t_I a_I r_E
+sthaana	1.0	s_B th_I aa_I n_E
+stxiilsa	1.0	s_B tx_I ii_I l_I s_E
+subaha	1.0	s_B u_I b_I a_I h_E
+sukha	1.0	s_B u_I kh_E
+sukhii	1.0	s_B u_I kh_I ii_E
+sunaayii	1.0	s_B u_I n_I aa_I y_I ii_E
+sundara	1.0	s_B u_I n_I d_I a_I r_E
+suqdaralaala	1.0	s_B u_I n_I d_I a_I r_I a_I l_I aa_I l_E
+suqdarii	1.0	s_B u_I n_I d_I a_I r_I ii_E
+suucanaa	1.0	s_B uu_I c_I n_I aa_E
+suukhaa	1.0	s_B uu_I kh_I aa_E
+svabhaava	1.0	s_B w_I a_I bh_I aa_I w_E
+svara	1.0	s_B w_I a_I r_E
+taalaabaqdii	1.0	t_B aa_I l_I aa_I b_I a_I n_I d_I ii_E
+taalamela	1.0	t_B aa_I l_I m_I e_I l_E
+taaqkhula	1.0	t_B aa_I kh_I u_I l_E
+taba	1.0	t_B a_I b_E
+taka	1.0	t_B a_I k_E
+taraha	1.0	t_B a_I r_I a_I h_E
+tathaa	1.0	t_B a_I th_I aa_E
+tatvoq	1.0	t_B a_I t_I v_I on_E
+teiyaara	1.0	t_B ei_I y_I aa_I r_E
+thaa	1.0	th_B aa_E
+thaapatii	1.0	th_B aa_I p_I a_I t_I ii_E
+the	1.0	th_B ee_E
+theile	1.0	th_B ei_I l_I ee_E
+thii	1.0	th_B ii_E
+thiiq	1.0	th_B iin_E
+thodxae	1.0	th_B o_I dx_I ee_E
+tiina	1.0	t_B ii_I n_E
+tiira	1.0	t_B ii_I r_E
+to	1.0	t_B o_E
+tumhaarii	1.0	t_B u_I m_I h_I aa_I r_I ii_E
+turanta	1.0	t_B u_I r_I a_I n_I t_E #1
+turaqta	1.0	t_B u_I r_I a_I n_I t_E #2
+tuu	1.0	t_B uu_E
+txhaakura	1.0	txh_B aa_I k_I u_I r_E
+txhappa	1.0	txh_B a_I p_I axx_E
+txhaqdxii	1.0	txh_B ng_I dx_I ii_E
+txiivii	1.0	tx_B ii_I v_I ii_E
+txikaa	1.0	tx_B i_I k_I aa_E
+txukadxe	1.0	tx_B u_I k_I a_I dx_I ee_E
+tyaaga	1.0	t_B y_I aa_I g_E
+uccakotxi	1.0	u_B ccx_I a_I k_I oo_I tx_I i_E
+ucita	1.0	u_B c_I i_I t_E
+udhara	1.0	u_B dh_I a_I r_E
+udxaiisaa	1.0	u_B dxq_I ii_I s_I aa_E
+udyoga	1.0	u_B d_I y_I o_I g_E
+udyogoq	1.0	u_B d_I y_I o_I g_I on_E
+uge	1.0	u_B g_I ee_E
+ujaalii	1.0	u_B j_I aa_I l_I ii_E
+una	1.0	u_B n_E
+unake	1.0	u_B n_I k_I ee_E
+unakii	1.0	u_B n_I k_I ii_E
+unako	1.0	u_B n_I k_I on_E
+unase	1.0	u_B n_I s_I ee_E
+unheq	1.0	u_B n_I h_I ee_E
+unhoqne	1.0	u_B n_I h_I o_I n_I ee_E
+upaaya	1.0	u_B p_I aa_I y_E
+upabhoktaaoq	1.0	u_B p_I a_I bh_I o_I k_I t_I aa_I on_E
+upadesha	1.0	u_B p_I a_I d_I ee_I sh_I a_E
+upajaauupana	1.0	u_B p_I a_I j_I aa_I uu_I p_I a_I n_E
+upalabdha	1.0	u_B p_I a_I l_I a_I b_I dh_I axx_E
+usa	1.0	u_B s_E
+usakii	1.0	u_B s_I k_I ii_E
+usame	1.0	u_B s_I m_I ee_E
+usane	1.0	u_B s_I n_I ee_E
+usase	1.0	u_B ss_I ee_E
+use	1.0	u_B s_I ee_E
+utpaadana	1.0	u_B t_I p_I aa_I d_I a_I n_E
+uttara	1.0	u_B tt_I a_I r_E
+utxhaakara	1.0	u_B tx_I h_I aa_I k_I a_I r_E
+utxhatii	1.0	u_B tx_I h_I a_I t_I ii_E
+uumqcaa	1.0	uu_B nj_I c_I aa_E
+uumqcaaii	1.0	uu_B nj_I c_I aa_I ii_E
+uumqce	1.0	uu_B nj_I c_I ee_E
+uumqcii	1.0	uu_B nj_I c_I ii_E
+uupara	1.0	uu_B p_I a_I r_E
+uuparii	1.0	uu_B p_I a_I r_I ii_E
+vaalii	1.0	w_B aa_I l_I ii_E
+vaastava	1.0	w_B aa_I s_I t_I a_I w_E
+vaastushilpa	1.0	w_B aa_I s_I t_I u_I sh_I i_I l_I p_E
+vaha	1.0	w_B a_I h_E
+vahaamq	1.0	w_B a_I h_I aan_E
+vahii	1.0	w_B a_I h_I ii_E
+vakata	1.0	w_B a_I k_I t_E
+varadaana	1.0	w_B a_I r_I d_I aa_I n_E
+varsxa	1.0	w_B a_I r_I sx_I aa_E
+vasiiyata	1.0	w_B a_I s_I ii_I y_I a_I t_E
+vastra	1.0	w_B a_I s_I t_I r_I axx_E
+vastueq	1.0	w_B a_I s_I t_I u_I ein_E
+vasuula	1.0	w_B a_I s_I uu_I l_E
+ve	1.0	w_B ee_E
+veibhava	1.0	w_B ei_I b_I h_I a_I w_E
+veijnyaanika	1.0	w_B ei_I g_I y_I aa_I n_I i_I k_E
+vidyaa	1.0	w_B i_I d_I y_I aa_E
+vikramaaditya	1.0	w_B i_I k_I r_I a_I m_I aa_I d_I i_I t_I y_I a_E
+vilaksxanxa	1.0	w_B i_I l_I a_I k_I sh_I a_I nx_E
+vishvaasa	1.0	w_B i_I sh_I w_I aa_I s_E
+vishvaasaghaata	1.0	w_B i_I sh_I w_I aa_I s_I gh_I aa_I t_E
+vivaaha	1.0	w_B i_I w_I aa_I h_E
+vruksxa	1.0	w_B r_I i_I k_I sx_I axx_E
+vyaahii	1.0	b_B y_I aa_I h_I ii_E
+vyaapaarii	1.0	w_B y_I aa_I p_I aa_I r_I ii_E
+vyaktiyoq	1.0	w_B y_I a_I k_I t_I i_I y_I on_E
+vyasta	1.0	w_B y_I a_I s_I t_I axx_E
+vyathita	1.0	w_B y_I a_I th_I i_I th_E
+vyavasthaa	1.0	w_B y_I a_I w_I a_I s_I th_I aa_E
+yaada	1.0	y_B aa_I d_E
+yaanii	1.0	y_B aa_I n_I ii_E
+yaha	1.0	y_B a_I h_E
+yahaamq	1.0	y_B a_I h_I aan_E
+yahii	1.0	y_B a_I h_I ii_E
+yasa	1.0	y_B a_I sh_E
+yoddhaa	1.0	y_B o_I ddh_I aa_E
+yuga	1.0	y_B u_I g_E
+sil	1.0	sil_S #1
+!SIL	1.0	sil_S #2

@@ -1,0 +1,773 @@
+aa		1.0	aa
+aacaarya	1.0	aa c aa r y a
+aadhaara	1.0	aa dh aa r 
+aadhaarashilaa	1.0	aa dh aa r a sh i l aa
+aadhii		1.0	aa dh ii
+aadivaasii	1.0	aa d i w aa s ii
+aaiisiiesaii	1.0	aa ii s ii ee s a ii
+aaja		1.0	aa j aa
+aajaqada	1.0	aa z aa d
+aakaasha	1.0	aa k aa sh
+aakhira		1.0	aa kh i r
+aakrusxtxa	1.0	aa k r u sx tx
+aalasii		1.0	aa l s ii
+aapane		1.0	aa p n ee
+aaqdolana	1.0	aa n d o l a n
+aarambha	1.0	aa r a m bh
+aashcarya	1.0	aa sh c a r y
+aashiirvaada	1.0	aa sh ii r w aa d
+aastiina	1.0	aa s t ii n
+aavaaja		1.0	aa w aa j
+aayaa		1.0	aa y aa
+aayii		1.0	aa y ii
+aba		1.0	a b
+abhuutapuurva	1.0	a bh uu t a p uu r w
+acchaa		1.0	a c ch aa
+acchii		1.0	a c ch ii
+adhikaaqs	1.0	a dh i k aa nj sh
+adhikaaqsha	1.0	a dh i k aa nj sh aa
+advitiiya	1.0	a d w i t ii y 
+agale		1.0	a g a l ee
+aksara		1.0	a k s a r
+alabattaa	1.0	a l a b a tt aa
+alookika	1.0	a l au k i k 
+alpasaqkhyaka	1.0	a l p a s a ng kh y a k
+ammaa		1.0	a mm aa
+amruta		1.0	a m r u t 
+amuulya		1.0	a m uu l y 
+anuccheda	1.0	a n u c ch ee d
+anucheda	1.0	a n u c ch ee d
+anusaara	1.0	a n u s aa r
+anya		1.0	a n y
+apanaa		1.0	a p a n aa
+apane		1.0	a p n e
+apanii		1.0	a p n ii
+aparaadhii	1.0	a p r aa dh ii
+apsaraaoq	1.0	a p s a r aa on
+ashubha		1.0	a sh u bh
+baabaa		1.0	b aa b aa
+baada		1.0	b aa d
+baagha		1.0	b aa gh
+baaghoq		1.0	b aa gh on
+baahara		1.0	b aa h a r
+baaki		1.0	b aa k i
+baalaka		1.0	b aa l a k
+baalikaaoq	1.0	b aa l i k aa on
+baaraha		1.0	b aa r a h
+baare		1.0	b aa r e
+baata		1.0	b aa t 
+baataciita	1.0	b aa t a c ii t
+bacapana	1.0	b a c a p a n 
+baccoq		1.0	b a cc on
+badala		1.0	b a d a l
+badxaa		1.0	b a dx aa
+badxae		1.0	b a dx ee
+badxaii		1.0	b a dx a ii
+badxaqa		1.0	b a dx aa
+badxhaeqge	1.0	b a dxh aa ee ng g ee
+badxhaqte	1.0	b a dxh a t ee 
+bahaneq		1.0	b ee h n ee
+bahuta		1.0	b a h u t
+banaa		1.0	b a n aa
+banii		1.0	b a n ii
+bapootii	1.0	b a p au t ii
+baqdhaayaa	1.0	b a n dh aa y aa
+baqdhu		1.0	b a ng dh u
+baraata		1.0	b aa r aa t 
+barasa		1.0	b a r a s
+bartana		1.0	b a r t a n
+basaa		1.0	b a s aa
+behataashaa	1.0	b ee h a t aa sh aa
+behatara	1.0	b ee h a t a r 
+beitxhe		1.0	b ei txh ee 
+beitxhii	1.0	b ei txh ii	
+betxara		1.0	b e tx a r
+bhaaga		1.0	bh aa g
+bhaage		1.0	bh aa g e
+bhaamqtii	1.0	bh aa ng t i
+bhaarata	1.0	bh aa r a t
+bhaasxaa	1.0	bh aa sx aa
+bhaatii		1.0	bh aa t ii
+bhagata		1.0	bh a g a t
+bhagatajii	1.0	bh a g a t a j ii
+bhagavaan	1.0	bh a g a w aa n
+bhagavaana	1.0	bh a g w aa n 
+bhara		1.0	bh a r 
+bhare		1.0	bh a r ee
+bhedxaiyoq	1.0	bh e dx i y on
+bheja		1.0	bh e j 
+bhii		1.0	bh ii
+bhuula		1.0	bh uu l 
+bhuumi		1.0	bh uu m i
+bhuuta		1.0	bh uu t
+biica		1.0	b ii c 
+biijoq		1.0	b ii j on
+biimaarii	1.0	b ii m aa r ii
+biisa		1.0	b ii s 
+bijaliyaamq	1.0	b i j l i y aan
+bilakula	1.0	b i l k u l
+bistara		1.0	b i s t a r
+bolaa		1.0	b o l aa	
+bolate		1.0	b o l t ee
+botala		1.0	b o t a l
+bulaayaa	1.0	b u l aa y a
+buudxhaii	1.0	b uu dxh ii
+buunda		1.0	b uu n d
+byaaja		1.0	b y aa j	
+caahataa	1.0	c aa h a t aa
+caahatii	1.0	c aa h a t ii
+caahie		1.0	c aa h i ee
+caara		1.0	c aa r
+caava		1.0	c aa w
+caaya		1.0	c aa y 
+cadxdxaa	1.0	c a ddx aa
+cadxdxhaa	1.0	c a ddx aa
+cadxhaqa	1.0	c a dxh aa
+cadxhe		1.0	c a dxh a
+cale		1.0	c a l ee	
+calegaa		1.0	c a l e g aa
+calii		1.0	c a l ii
+calo		1.0	c a l o	
+capadxaq	1.0	c a p a dx 
+caraagaahoq	1.0	c a r aa g aa h on
+catura		1.0	c a t u  r
+cavannii	1.0	c a w a n n ii
+chaha		1.0	ch a h a
+chatipuurti	1.0	ch a t i p uu r t i
+chatxhaa	1.0	ch a txh aa
+chodxaq		1.0	ch o dxq
+chodxaqa	1.0	ch o dxq aa
+chotxaa		1.0	ch o tx aa
+ciikha		1.0	c ii kh
+coodharii	1.0	c ou dh r ii
+cookaa		1.0	c ou k aa
+coothe		1.0	c ou th ee
+cotxa		1.0	c o tx
+cubhanaa	1.0	c u bh a n aa
+cupa		1.0	c u p
+cuudxaqamanxi	1.0	c uu dxq aa m a nx i
+cuuq		1.0	c uun
+daastaana	1.0	d aa s t aa n
+dahaadxaq	1.0	d a h aa dxq
+daksxinxa	1.0	d a k sx i nx
+dara		1.0	d a r
+daravaaje	1.0	d a r w aa j ee
+dasa		1.0	d a s
+dabaava		1.0	d a b aa w
+de		1.0	d ee
+deivii		1.0	d ei w ii
+dekha 		1.0	d ee kh
+dekhaa		1.0	d ee kh aa
+dekhabhaala	1.0	d ee kh a bh aa l
+dekhakara	1.0	d ee kh a k a r
+dekhate		1.0	d ee kh t ee
+dekhatii	1.0	d ee kh t ii
+dekho		1.0	d ee kh o
+denaa		1.0	d ee n aa
+dene		1.0	d ee n
+desha		1.0	d ee sh
+deshabhara	1.0	d ee sh a bh a r
+detaa		1.0	d ee t aa
+detii		1.0	d ee t ii
+dhaaranxaa	1.0	dh aa r a nx aa
+dhanii		1.0	dh a n ii
+dhanurdhaarinxii 1.0	dh a n u r dh aa r i nx ii	
+dharma		1.0	dh a r m
+dhiiraja	1.0	dh ii r a j
+dhiire		1.0	dh ii r ee
+dhobina		1.0	dh o b i n
+dhulavaakara	1.0	dh u l w aa k a r
+dhyeya		1.0	dh y ee y
+dii		1.0	d ii
+diipacaqda	1.0	d ii p a c a n d axx
+diivaanajii	1.0	d ii w aa n j ii
+dikhaa		1.0	d i kh aa
+dikhaaii	1.0	d i kh aa ii
+dikhaayii	1.0	d i kh aa y ii
+dila		1.0	d i l
+dimaagii	1.0	d i m aa g ii
+dina		1.0	d i n
+dinoq		1.0	d i n on
+diyaa		1.0	d i y aa
+do		1.0	d o
+donoq		1.0	d o n on
+doodxaqkara	1.0	d au dx a k a r
+doore		1.0	d au r ee
+dopahara	1.0	d o p a h a r
+dostii		1.0	d o s t ii
+drushya		1.0	d r u sh y a
+drusxtxi	1.0	d r u sx tx i
+dukhii		1.0	d u kh ii
+duudha		1.0	d uu dh
+duura		1.0	d uu r
+duusaraa	1.0	d uu s a r aa
+dxaakasevaa	1.0	dx aa k a s ee w aa
+dxaalakara	1.0	dx aa l k a r a
+dxaale		1.0	dx aa l ee
+dxedxhaq	1.0	dx ee dxhq
+eicchika	1.0	ei cch i k
+eisaa		1.0	ei s aa
+eise		1.0	ai s ee
+eka		1.0	e k
+ekadama		1.0	e k a d a m
+ekadxaq		1.0	e k a dxq
+gaamqva		1.0	g aan w
+gaamqva		1.0	g aa on
+gae		1.0	g a ee
+gaii		1.0	g a ii
+gale		1.0	g a l ee
+gaqguu		1.0	g a ng g uu
+garimaa		1.0	g a r i m aa
+gatxhana	1.0	g a txh a n
+gayaa 		1.0	g a y aa
+gayii		1.0	g a y ii
+ghaasa		1.0	gh aa s
+ghaata		1.0	gh aa t
+ghaayala	1.0	gh aa y a l
+ghamaqdxii	1.0	gh a m a n d ii
+ghaqtxe		1.0	gh ax t ee
+ghara		1.0	gh a r
+ghatxanaa	1.0	gh a tx a n aa
+ghatxita	1.0	gh a tx i t
+ghiisuu		1.0	gh ii s uu
+ghodxe		1.0	gh o dx ee
+ghosxanxaa	1.0	gh o sx nx aa
+ghosxita	1.0	gh o sx i  t
+ghuse		1.0	gh u s ee
+ghutxa		1.0	gh u tx
+ghuumakara	1.0	gh uu m k a r
+gira		1.0	g i r
+girane		1.0	g i r aa n e
+girjaaghara	1.0	g i r j aa gh a r
+gola		1.0	g o l
+gurudeva	1.0	g u r u d ee v
+haatha		1.0	h aa th
+hajaara		1.0	h a j aa r
+hama		1.0	h a m
+hamaaraa	1.0	h a m aa r aa
+hamaare		1.0	h a m aa r ee
+hamaarii	1.0	h a m aa r ii
+harii		1.0	h a r ii
+hei		1.0	h ei
+heiq		1.0	h ei n
+hii		1.0	h aa y
+hinduu		1.0	h i n d uu
+hiqdii		1.0	h i n d ii
+ho		1.0	h o
+hogaa		1.0	h o g aa
+hogii		1.0	h o g ii
+hone		1.0	h o n ee
+hoq		1.0	h on
+hotaa		1.0	h oo t aa
+hote		1.0	h o t ee
+hotii		1.0	h o t ii
+huaa		1.0	h u aa
+hue		1.0	h u ee
+huumq		1.0	h oo n
+huyii		1.0	h u ii
+icchaa		1.0	i cchx aa
+idhara		1.0	i dh a r
+iiqtxe		1.0	ii nx tx ei
+iirsxyaa	1.0	ii r sx y aa
+iishvara	1.0	ii sh v a r
+ika		1.0	ee k
+ikatxhtxhii	1.0	i k a ttxh ii
+inakaa		1.0	i n k aa
+iqgleiqdxa	1.0	i ng l ei nx dx
+iqsaana		1.0	i n s aa n
+isa		1.0	i s
+isake		1.0	i s a k ee
+isakii		1.0	i s a k ii
+isalie		1.0	i s l i ei
+isameq		1.0	i s m en
+isase		1.0	i s s ee
+ise		1.0	i s ee
+isiilie		1.0	i s ii l i ee
+ispaata		1.0	i s p aa t
+itanaa		1.0	i t a n aa
+itane		1.0	i t a n e
+itanii		1.0	i t a n ii
+itihaasa	1.0	i t i h aa s
+jaa		1.0	j aa
+jaae		1.0	j aa ee
+jaaegii		1.0	j aa ee g ii	
+jaakara		1.0	j aa k a r	
+jaana		1.0	j aa n
+jaanaa		1.0	j aa n aa
+jaane		1.0	j aa n ee
+jaataa		1.0	j aa t aa
+jaate		1.0	j aa t ee
+jaatii		1.0	j aa t ii
+jaatiyoq	1.0	j aa t i y on
+jaauumqgaa	1.0	j aa uu ng g aa
+jaaye		1.0	j aa y ee
+jaba		1.0	j a b
+jagaha		1.0	j a g a h
+jagata		1.0	j a g a t
+jagatpati	1.0	j a g a t a p a t i
+jailoq		1.0	j i l on
+jaiqdagii	1.0	z i nx d a g ii
+janavarii	1.0	j a n a w a r ii
+jaqgala		1.0	j a ng g a l
+jaqraa		1.0	z a r aa
+jaruura		1.0	j a r uu r
+javaaba		1.0	j a v aa b
+jeise		1.0	j ei s ee
+jhuutxhaa	1.0	jh uu txh aa
+jhuutxhe	1.0	jh uu txh ei
+jhuutxhii	1.0	jh uu txh ii
+jiitaa		1.0	j ii t aa
+jiivana		1.0	j ii v a n
+jiivita		1.0	j ii v i t
+jijnyaasaa	1.0	j i g y aa s aa
+jisase		1.0	j i s a s ee
+jo		1.0	j o
+juunuuna	1.0	j u n uu n
+jyaadaa		1.0	j y aa d aa
+kaa		1.0	k aa
+kaala		1.0	k aa la
+kaama		1.0	k aa m
+kaamqtxaa	1.0	k aa nx tx aa
+kaaphii		1.0	k aa ph ii
+kaaqgresa	1.0	k aa ng r e s
+kaaranxa	1.0	k aa r a nx
+kaaryakartaaoq	1.0	k aa r y a k a r t aa on	
+kaatxa		1.0	k aa tx
+kaatxaa		1.0	k aa tx aa
+kaauqtxaroq	1.0	k aa u nx tx a r on
+kabhii		1.0	k a b h ii
+kabuutaroq	1.0	k a b uu t a r on
+kacce		1.0	k a cc ee
+kadxaii		1.0	k a dx aa ii
+kaha		1.0	k a h a
+kahaa		1.0	k a h aa
+kahaanii	1.0	k a h aa n ii
+kahakara	1.0	k a h a k a r
+kahane		1.0	k a h a n ee
+kahiiq		1.0	k a h iin
+kaho		1.0	k a h o
+kaii		1.0	k a ii
+kalaa		1.0	k a l aa
+kalara		1.0	k a l a r
+kanaatxa	1.0	k a n au tx
+kapadxe		1.0	k a p a dx ee
+kaqtla		1.0	k a t l	axx
+kara		1.0	k a r
+karanaa		1.0	k a r a n aa
+karane		1.0	k a r a n ee
+karate		1.0	k a r a t ee
+karuumqgaa	1.0	k a r uu mq g aa
+kasootxii	1.0	k a s ou tx ii
+kathana		1.0	k a th a n
+katxaghara	1.0	k a tx gh a r
+katxe		1.0	k a tx ee
+ke		1.0	k ee
+keidii		1.0	k ei d ii
+keqdriiya	1.0	k ee ng d r ii y
+kevala		1.0	k ee v a l
+khadxae		1.0	kh a dx ee
+khadxaqa	1.0	kh a dx aa
+khanxdxa	1.0	kh a nx dx
+khariidaa	1.0	kh a r ii d aa
+khariidate	1.0	kh a r ii d a t ee
+khela		1.0	kh ee l
+khetii		1.0	kh ee t ii
+khilaapha	1.0	kh ii l aa ph
+khoja		1.0	kh o j
+khuda		1.0	kh u d
+ki		1.0	k i
+kii		1.0	k ii
+kiijiye		1.0	k ii j i y ee
+kisa		1.0	k i s
+kishtoq		1.0	k i sh t on
+kisii		1.0	k i s ii
+kiyaa		1.0	k i y aa
+kiye		1.0	k i y ee
+ko		1.0	k o
+koii		1.0	k o ii
+koovaa		1.0	k au w aa
+kosa		1.0	k o s
+kosoq		1.0	k o s on
+kotxhii		1.0	k o txh ii
+koyalaa		1.0	k o y a l aa
+krusxi		1.0	k r u sx i
+kuaamq		1.0	k u aan
+kucha		1.0	k u ch
+kushalataa	1.0	k u sh a l t aa
+kyaa		1.0	k y aa
+kyoq		1.0	k y on
+laadxa		1.0	l aa dx
+laakha		1.0	l aa kh
+laalamanxi	1.0	l aa l a m a nx i
+laaqdxrii	1.0	l au nx dx r ii
+ladxaqkii	1.0	l a dx k ii
+ladxaqkiyoq	1.0	l a dx k i y on
+lagaa		1.0	l a g aa
+lagaae		1.0	l a g ee
+lagabhaga	1.0	l a g bh a g
+lagatii		1.0	l a g a t ii
+lage		1.0	l a g ee
+lagii		1.0	l a g ii
+lajjita		1.0	l a jj i t
+lambaaii	1.0	l a m b aa ii
+lekara		1.0	l ee k a r
+lene		1.0	l ee n ee
+lie		1.0	l aa ii
+likhe		1.0	l i kh ee
+lipatxa		1.0	l i p a tx
+lo		1.0	l o
+loga		1.0	l o g a
+lohe		1.0	l o h ee
+lokakalaa	1.0	l o k k a l aa
+lutxeroq	1.0	l u tx ee r on
+maadaka		1.0	m aa d a k
+maadhava	1.0	m aa dh a w
+maakapaa	1.0	m aa k a p aa
+maaluuma	1.0	m aa l uu m
+maamalaa	1.0	m aa m a l aa
+maanava		1.0	m aa n a w
+maane		1.0	m aa n ee
+maanii		1.0	m aa n ii
+maaxla		1.0	m aa l
+madhushaalaa	1.0	m a dh u sh aa l aa
+magara		1.0	m a g a r
+mahaaraaja	1.0	m a h aa r aa j a
+mahaaraajaa	1.0	m a h aa r aa j aa
+mahaaraanii	1.0	m a h aa r aa n ii
+mahaaraanxaa	1.0	m a h aa r aa nx aa
+mahala		1.0	m a h a l
+mahattvapuurnxa	1.0	m a h a tw a p uu r nx a
+mahatva		1.0	m a h a tw
+mahiinaa	1.0	m a h ii n aa
+mahiine		1.0	m a h ii n ee
+mahilaa		1.0	m a h i l aa
+majabuura	1.0	m a j a b uu r
+makaana		1.0	m a k aa n
+mamqje		1.0	m a nj jh ee
+mana		1.0	m a n
+mandiroq	1.0	m a n d i r on
+manusxya	1.0	m a n u sx y
+manxipurii	1.0	m a nx i p u r ii
+maqdxala	1.0	m a ng dx a l
+maqdxapa	1.0	m a ng dx a p
+maqgala		1.0	m a ng g a l
+maqtrii		1.0	m a n t r ii
+marammata	1.0	m a r a mm a t
+mata		1.0	m a t
+megha		1.0	m ee gh
+meine		1.0	m ei n ee
+meiq		1.0	m ei n
+meiqne		1.0	m ei n ee
+meq		1.0	m ee n
+mere		1.0	m ee r ee
+miila		1.0	m ii l
+miinaara	1.0	m i n aa r
+mila		1.0	m i l aa
+milataa		1.0	m i l a t aa
+milate		1.0	m i l a t e
+mishra		1.0	m i sh r
+mitrataa	1.0	m i t r axx t aa
+mitroq		1.0	m i t r on
+mitxtxii	1.0	m i ttx ii
+modii		1.0	m o d ii
+mohara		1.0	m o h a r
+mujhe		1.0	m u jh ee
+mukhiyaa	1.0	m u kh i y aa
+mukhya		1.0	m u kh y
+murkha		1.0	m uu r kh a
+mutxhabhedxaq	1.0	m u txh bh ee dx
+muulyoq		1.0	m uu l y on
+muurtiyoq	1.0	m uu r t i y on
+na		1.0	n a
+naa		1.0	n aa
+naagra		1.0	n aa g a r
+nae		1.0	n a ee
+nahii		1.0	n a h ii n
+nahiiq		1.0	n a h ii n
+namuune		1.0	n a m uu n ee
+ne		1.0	n ee
+nigaaha		1.0	n i g aa h
+nikala		1.0	n i k a l
+nikatxa		1.0	n i k a tx
+nirbhara	1.0	n i r bh a r
+nirnxaya	1.0	n i r nx a y
+nivesha		1.0	n i v ee sh
+noo		1.0	n ou
+noojavaana	1.0	n ou j a v aa n
+nyaaya		1.0	n y aa y
+oora		1.0	ou r
+oorata		1.0	ou r a t
+ora		1.0	o r
+paakhaqdxii	1.0	p aa kh a nx dx ii	
+paamqca		1.0	p a ng kh aa
+paanii		1.0	p aa n ii	
+paaqca		1.0	p aa ng c
+paartxii	1.0	p aa r tx ii
+paasa		1.0	p aa s aa
+pacaasa		1.0	p a c aa s
+pacaraqgii	1.0	p a c r a n g ii
+padaartha	1.0	p a d aa r th
+padxaa		1.0	p dxhq aa
+padxaqtaa	1.0	p dxhq aa t aa
+padxhaqa	1.0	p dxhq ng aa
+padxhaqate	1.0	p dxhq aa t ei
+padxii		1.0	p dxhq ii
+pahacaana	1.0	p e h ch aa n aa	 
+pahacaananaa	1.0	p e h ch aa n n aa
+pahale		1.0	p a h l ei
+pahanuuqgii	1.0	p e h ei n u n g ii
+pahumqce	1.0	p a h u n c ei
+pakkaa		1.0	p a kk aa
+pakkii		1.0	p a kk ii
+paqjaaba	1.0	p a nj j aa b
+para		1.0	p a r
+parinxaama	1.0	p a r ii nx aa m
+pashcima	1.0	p a sh c i m
+pataa		1.0	p a t aa	
+patiyoq		1.0	p a t ii y on
+patra		1.0	p a t r
+patxasana	1.0	p a t s aa n
+patxavaa	1.0	p a t w aa
+pedxaq		1.0	p ee dxq
+peidaa		1.0	p ei d aa
+peiqtare	1.0	p ei n t r ee
+peira		1.0	p ei r
+pheiktxarii	1.0	p i c k aa r ii
+phira		1.0	ph i r
+phoorana	1.0	p uu r aa n aa
+phutxa		1.0	ph uu txh
+pichavaadxae	1.0	p ii ch w aa d ei
+piinaa		1.0	p ii n aa
+plesa		1.0	p l ee s
+praaciina	1.0	p r aa c ii n
+pradarshana	1.0	p r a d a r sh a n
+pradesha	1.0	p r a d ei sh
+pradhaana	1.0	p r a d aa n
+prashaashana	1.0	p r a sh aa sh a n
+pratisxtxhaa	1.0	p r a t ii k jhq aa
+prativarsxa	1.0	p r a t ii w a r sh
+prema		1.0	p r ee m
+preranxaa	1.0	p r ee r nx aa
+priqsa		1.0	p a r ii k sh aa
+prkaara		1.0	p r a k aa r
+prukruti	1.0	p r a k r i t ii
+punarjiivita	1.0	p uu n a r j ii w i t
+puraanaa	1.0	p uu r aa n aa
+puujaa		1.0	p uu j aa
+puure		1.0	p uu r ee
+puurii		1.0	p uu r ii
+puurnxa		1.0	p uu r nx
+puurva		1.0	p uu r w
+pyaara		1.0	p y aa r aa
+raaja		1.0	r aa j
+raajaa		1.0	r aa j aa
+raajya		1.0	r aa j y
+raashi		1.0	r aa sh ii
+raata		1.0	r aa t
+raatoq		1.0	r aa t on
+ragadxaqa	1.0	r a g a dxq aa
+rahaa		1.0	r a h aa
+rahanaa		1.0	r a h n aa
+rahataa		1.0	r a h t aa
+rahatii		1.0	r a h t ii
+rahe		1.0	r a h ee
+rahii		1.0	r a h ii
+rakhaa		1.0	r a kh aa
+rakhane		1.0	r a kh n ei
+rakhate		1.0	r a kh t ei
+rakhii		1.0	r a kh ii
+rasa		1.0	r a s
+rishte		1.0	r i sh t ei
+riyaasata	1.0	r i y aa s a t
+rupayaa		1.0	r uu p y aa
+ruupa		1.0	r uu p
+ruupakumaarii	1.0	r uu p a k u m aa r ii
+saadhana	1.0	s aa dh a n aa
+saaga		1.0	s aa g
+saahasa		1.0	s aa h a s
+saahasii	1.0	s aa h a s ii
+saakha		1.0	s a kh aa
+saala		1.0	s aa l
+saamane		1.0	s aa m a n ei
+saapha		1.0	s aa ph
+saaraa		1.0	s aa r aa
+saata		1.0	s aa t
+saatha		1.0	s aa th
+saba		1.0	s a b
+sabase		1.0	s a b s ee
+sabuuta		1.0	s aa b u t
+sacamuca	1.0	s a c m u c
+saccaaii	1.0	s a cc aa ii
+saccii		1.0	s a cc ii
+sacetaka	1.0	s a c ee t a k
+sadana		1.0	s aa dh n aa
+sadxaqka	1.0	s a dxq a k
+sahakaarii	1.0	s a h a k aa r ii
+sakate		1.0	s a k t ei
+samaacaara	1.0	s a m aa c aa r
+samaapta	1.0	s a m aa p t axx
+samajha		1.0	s a m a jh
+samaya		1.0	s a m a y
+sambandhii	1.0	s a m b a n dh ii
+sammmaana	1.0	s aa m aa n
+samruddha	1.0	s a m r u dh
+samruddhi	1.0	s a m r a dh ii
+saqbhava	1.0	s a m bh a v
+saqghatxana	1.0	s a ng gh a txh a n
+saqgrahaalaya	1.0	s a ng g r aa l a y
+saqkalpa	1.0	s a ng k a l p
+saqkatxamocana	1.0	s a n k a tx a m o c a n
+saqketa		1.0	s a n k ei t
+saqsthaana	1.0	s a n s th aan
+saqtusxtxa	1.0	s a n t u sx tx axx
+saqvidhaana	1.0	s a m v ii dh aan
+sarakaara	1.0	s a r k aa r
+sashakta	1.0	s a sh a k t axx
+sastii		1.0	s a s t ii
+sattaa		1.0	s a tt aa
+savere		1.0	s a v ei r ei
+se		1.0	s ei
+sela		1.0	s ei l
+setxhajii	1.0	s ei txh a j ii
+setxhanii	1.0	s ei txh aa n ii
+shaadii		1.0	sh aa d ii
+shaama		1.0	sh aa m
+shabda		1.0	sh a b d axx
+shakla		1.0	sh a k l axx
+shava		1.0	sh a v
+sheilii		1.0	sh ei l ii
+shekhacillii	1.0	sh ei kh c i ll ii
+shilpa		1.0	sh i l p axx
+shivaalaya	1.0	sh i v aa l y axx
+shresxtxha	1.0	sh r e sx txh axx
+shrruqgaara	1.0	sh rr i n g aa r
+shuruu		1.0	sh u r u
+sii		1.0	s ii
+siimaabandii	1.0	s ii m aa b a n d ii
+skuula		1.0	s k uu l
+so		1.0	s o
+socaa		1.0	s o c aa
+sokara		1.0	s o k a r
+soo		1.0	s oo
+sooqdarya	1.0	s oo n d a r y axx
+spasxtxa	1.0	s p a sx tx axx
+staqbhoq	1.0	s t a m bh on
+stara		1.0	s t a r
+sthaana		1.0	s th aa n
+stxiilsa	1.0	s tx ii l s
+subaha		1.0	s u b a h
+sukha		1.0	s u kh
+sukhii		1.0	s u kh ii
+sunaayii	1.0	s u n aa y ii
+sundara		1.0	s u n d a r
+suqdaralaala	1.0	s u n d a r a l aa l
+suqdarii	1.0	s u n d a r ii
+suucanaa	1.0	s uu c n aa
+suukhaa		1.0	s uu kh aa
+svabhaava	1.0	s w a bh aa w
+svara		1.0	s w a r
+taalaabaqdii	1.0	t aa l aa b a n d ii
+taalamela	1.0	t aa l m e l
+taaqkhula	1.0	t aa kh u l
+taba		1.0	t a b
+taka		1.0	t a k
+taraha		1.0	t a r a h
+tathaa		1.0	t a th aa
+tatvoq		1.0	t a t v on
+teiyaara	1.0	t ei y aa r
+thaa		1.0	th aa
+thaapatii	1.0	th aa p a t ii
+the		1.0	th ee
+theile		1.0	th ei l ee
+thii		1.0	th ii
+thiiq		1.0	th iin
+thodxae		1.0	th o dx ee
+tiina		1.0	t ii n
+tiira		1.0	t ii r
+to		1.0	t o
+tumhaarii	1.0	t u m h aa r ii
+turanta		1.0	t u r a n t
+turaqta		1.0	t u r a n t
+tuu		1.0	t uu
+txhaakura	1.0	txh aa k u r
+txhappa		1.0	txh a p axx
+txhaqdxii	1.0	txh ng dx ii
+txiivii		1.0	tx ii v ii
+txikaa		1.0	tx i k aa
+txukadxe	1.0	tx u k a dx ee
+tyaaga		1.0	t y aa g
+uccakotxi	1.0	u ccx a k oo tx i
+ucita		1.0	u c i t
+udhara		1.0	u dh a r
+udxaiisaa	1.0	u dxq ii s aa
+udyoga		1.0	u d y o g
+udyogoq		1.0	u d y o g on
+uge		1.0	u g ee
+ujaalii		1.0	u j aa l ii
+una		1.0	u n
+unake		1.0	u n k ee
+unakii		1.0	u n k ii
+unako		1.0	u n k on
+unase		1.0	u n s ee
+unheq		1.0	u n h ee
+unhoqne		1.0	u n h o n ee
+upaaya		1.0	u p aa y
+upabhoktaaoq	1.0	u p a bh o k t aa on
+upadesha	1.0	u p a d ee sh a
+upajaauupana	1.0	u p a j aa uu p a n
+upalabdha	1.0	u p a l a b dh axx
+usa		1.0	u s
+usakii		1.0	u s k ii
+usame		1.0	u s m ee
+usane		1.0	u s n ee
+usase		1.0	u ss ee
+use		1.0	u s ee
+utpaadana	1.0	u t p aa d a n
+uttara		1.0	u tt a r
+utxhaakara	1.0	u tx h aa k a r
+utxhatii	1.0	u tx h a t ii
+uumqcaa		1.0	uu nj c aa
+uumqcaaii	1.0	uu nj c aa ii
+uumqce		1.0	uu nj c ee
+uumqcii		1.0	uu nj c ii
+uupara		1.0	uu p a r
+uuparii		1.0	uu p a r ii
+vaalii		1.0	w aa l ii
+vaastava	1.0	w aa s t a w
+vaastushilpa	1.0	w aa s t u sh i l p
+vaha		1.0	w a h
+vahaamq		1.0	w a h aan
+vahii		1.0	w a h ii
+vakata		1.0	w a k t
+varadaana	1.0	w a r d aa n
+varsxa		1.0	w a r sx aa
+vasiiyata	1.0	w a s ii y a t
+vastra		1.0	w a s t r axx
+vastueq		1.0	w a s t u ein
+vasuula		1.0	w a s uu l
+ve		1.0	w ee
+veibhava	1.0	w ei b h a w
+veijnyaanika	1.0	w ei g y aa n i k
+vidyaa		1.0	w i d y aa
+vikramaaditya	1.0	w i k r a m aa d i t y a	
+vilaksxanxa	1.0	w i l a k sh a nx
+vishvaasa	1.0	w i sh w aa s
+vishvaasaghaata	1.0	w i sh w aa s gh aa t
+vivaaha		1.0	w i w aa h
+vruksxa		1.0	w r i k sx axx
+vyaahii		1.0	b y aa h ii
+vyaapaarii	1.0	w y aa p aa r ii
+vyaktiyoq	1.0	w y a k t i y on
+vyasta		1.0	w y a s t axx
+vyathita	1.0	w y a th i th
+vyavasthaa	1.0	w y a w a s th aa
+yaada		1.0	y aa d
+yaanii		1.0	y aa n ii
+yaha		1.0	y a h
+yahaamq		1.0	y a h aan
+yahii		1.0	y a h ii
+yasa		1.0	y a sh
+yoddhaa		1.0	y o ddh aa
+yuga		1.0	y u g
+sil		1.0	sil
+!SIL		1.0	sil
