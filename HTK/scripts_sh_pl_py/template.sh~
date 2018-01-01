@@ -1,0 +1,23 @@
+#!/bin/csh
+# NAME OF THE FILE 	: machinename::path
+# PURPOSE		: 
+# INPUT ARGUMENTS	: 
+# OUTPUT ARGUMENTS	:
+# IMPLICIT INPUT  VARIABLES     : 
+# IMPLICIT OUTPUT VARIABLES     : 
+# IMPLICIT IN and OUT VARIABLES : 
+# CALLED FUNCTIONS	:                 
+# AUTHOR		: Samudravijaya K (samudravijaya@gmail.com)
+# DATE WRITTEN		: 02-MAR-2007
+# PSUDO CODE		:
+#
+#
+#
+#----------------------------------------------------------------------------
+if ($#argv < 1) then
+  echo "Usage  : $0 inDevnagFname  outSphinxFname"
+  echo "Example: $0 hindi06.dn     hindi06.prompts"
+  exit 1
+endif
+
+# REVISION HISTORY	:
