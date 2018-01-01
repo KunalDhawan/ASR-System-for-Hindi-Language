@@ -1,0 +1,2 @@
+# ASR-System-for-Hindi-Language
+The repository contains all the codes necessary for my project - Automatic Speech Recognition System in Hindi Language ( Project description is available at :- https://goo.gl/eQZkMP) : It contianes the code for the following systems - 1) Monophone-HMM system built using HTK toolkit , 2)Monophone-HMM system built using Kaldi toolkit, 3)Triphone-HMM system built using Kaldi toolkit and 4)DNN-HMM system built using Kaldi toolkit
