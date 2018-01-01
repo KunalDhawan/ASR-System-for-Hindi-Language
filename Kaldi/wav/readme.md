@@ -1,1 +1,1 @@
-
+This file should contain the wav files for training and testing. My files can be found at: (PS I uploaded the wav files in drive instead of Github because of the large size of the files ) - https://drive.google.com/open?id=1YZb7ZOUKspPHwBX12wJf-7_wm2i_JwO3
