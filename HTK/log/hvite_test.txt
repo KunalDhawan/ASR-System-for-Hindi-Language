@@ -1,0 +1,293 @@
+HVite -i log/recout_mono.mlf -p 0.0 -s 5.0 -w lm/wordent_bigram -l * -A -H hmm/hmm9/hmmdefs -H hmm/hmm9/macros -S htk_files/test_script.txt -T 1 lm/sorted.lexicon.txt lm/monophones1 
+Read 80 physical / 80 logical HMMs
+Read lattice with 771 nodes / 2989 arcs
+Created network with 4535 nodes / 6762 links
+File: data/test/2504/hi2504M0061.mfc_D_A
+SENT_BEGIN dhobina jaba sokara usakii pakkii kii thii ki cookaa saapha padxaa hei oora bartana mamqje hue hei SENT_END  ==  [698 frames] -55.0968 [Ac=-38294.6 LM=-162.9] (Act=4475.0)
+File: data/test/2504/hi2504M0063.mfc_D_A
+SENT_BEGIN tuu miila meq maanava aalasii nahiiq thaa SENT_END  ==  [698 frames] -42.1903 [Ac=-29302.8 LM=-146.0] (Act=4475.0)
+File: data/test/2504/hi2504M0069.mfc_D_A
+SENT_BEGIN baaghoq kii ke jaane ke kaa gola mahala ke mamqje hei SENT_END  ==  [698 frames] -45.5201 [Ac=-31430.6 LM=-342.4] (Act=4475.0)
+File: data/test/2504/hi2504M0073.mfc_D_A
+SENT_BEGIN yahaamq para aadivaasii lokakalaa hei kii lagabhaga shaama hue hei SENT_END  ==  [698 frames] -48.8775 [Ac=-33850.6 LM=-265.9] (Act=4475.0)
+File: data/test/2504/hi2504M0072.mfc_D_A
+SENT_BEGIN yahaamq se lagabhaga paamqca miila daksxinxa pashcima meq katxaghara gaamqva hei SENT_END  ==  [698 frames] -50.2558 [Ac=-35052.3 LM=-26.3] (Act=4475.0)
+File: data/test/2504/hi2504M0062.mfc_D_A
+SENT_BEGIN yahaamq se lagabhaga paamqca miila daksxinxa pashcima kii dhyeya katxaghara gaamqva hei SENT_END  ==  [698 frames] -52.6656 [Ac=-36588.2 LM=-172.4] (Act=4475.0)
+File: data/test/2504/hi2504M0080.mfc_D_A
+SENT_BEGIN para jaba suqdarii kisii kaatxaa maanii to use khilaapha baada meiqne adhikaaqsha hei SENT_END  ==  [698 frames] -55.4586 [Ac=-38296.8 LM=-413.3] (Act=4475.0)
+File: data/test/2504/hi2504M0064.mfc_D_A
+SENT_BEGIN yaha suucanaa sadana meq kaaqgresa mukhya saqketa sabase keidii ke mahala ne dii SENT_END  ==  [698 frames] -57.1569 [Ac=-39535.4 LM=-360.1] (Act=4475.0)
+File: data/test/2504/hi2504M0074.mfc_D_A
+SENT_BEGIN dekho naa mere peira dina para dina mujhe majabuura karuumqgaa jaa rahii hei SENT_END  ==  [698 frames] -51.7338 [Ac=-35930.2 LM=-179.9] (Act=4475.0)
+File: data/test/2504/hi2504M0066.mfc_D_A
+SENT_BEGIN hamaarii sarakaara ne saqvidhaana raata meq saqkalpa ghosxita nahiiq kiyaa hei SENT_END  ==  [698 frames] -48.9537 [Ac=-33988.0 LM=-181.8] (Act=4475.0)
+File: data/test/2504/hi2504M0075.mfc_D_A
+SENT_BEGIN kapadxe ke modii janavarii se meq gaamqva hei SENT_END  ==  [698 frames] -44.1776 [Ac=-30621.2 LM=-214.7] (Act=4475.0)
+File: data/test/2504/hi2504M0068.mfc_D_A
+SENT_BEGIN ke lagabhaga biisa tiira uumqcaa hei SENT_END  ==  [698 frames] -41.6359 [Ac=-28859.8 LM=-202.1] (Act=4475.0)
+File: data/test/2504/hi2504M0078.mfc_D_A
+SENT_BEGIN meiqne kalara txiivii khariidaa hei SENT_END  ==  [698 frames] -41.4735 [Ac=-28919.5 LM=-29.0] (Act=4475.0)
+File: data/test/2504/hi2504M0065.mfc_D_A
+SENT_BEGIN isameq kahaa gayaa hei sabase badxaii aparaadhii to hamaarii sarakaara ne dii hei SENT_END  ==  [698 frames] -49.8571 [Ac=-34691.9 LM=-108.3] (Act=4475.0)
+File: data/test/2504/hi2504M0070.mfc_D_A
+SENT_BEGIN betxara sambandhii isa puurva ke jaane ke jaane jagata unakii ora aakrusxtxa huaa SENT_END  ==  [698 frames] -52.9099 [Ac=-36729.0 LM=-202.1] (Act=4475.0)
+File: data/test/2504/hi2504M0079.mfc_D_A
+SENT_BEGIN sastii saapha ko tyaaga namuune kiyaa hei baagha ke byaaja kii dara bahuta uumqcii rahatii hei SENT_END  ==  [698 frames] -55.5815 [Ac=-38377.8 LM=-418.1] (Act=4475.0)
+File: data/test/2504/hi2504M0076.mfc_D_A
+SENT_BEGIN kyaa shaadii isiilie huyii thii ki saaraa jiivana ghutxa ghutxa kara kaatxaa jaaye SENT_END  ==  [698 frames] -49.2598 [Ac=-34303.3 LM=-80.0] (Act=4475.0)
+File: data/test/2504/hi2504M0071.mfc_D_A
+SENT_BEGIN dhobina jaba sokara kii dara detii khetii cookaa saapha padxaa hei oora bartana mamqje hue hei SENT_END  ==  [698 frames] -52.3835 [Ac=-36305.8 LM=-257.9] (Act=4475.0)
+File: data/test/2504/hi2504M0077.mfc_D_A
+SENT_BEGIN yaha dekhaa jaataa hei SENT_END  ==  [698 frames] -39.4538 [Ac=-27502.4 LM=-36.3] (Act=4475.0)
+File: data/test/2504/hi2504M0067.mfc_D_A
+SENT_BEGIN paaqca vahaamq paartxii hei SENT_END  ==  [698 frames] -40.8952 [Ac=-28409.9 LM=-134.9] (Act=4475.0)
+File: data/test/2501/hi2501M0008.mfc_D_A
+SENT_BEGIN agale dina para aadhii caara se bhare hue tiina theile lekara mahilaa ke paasa hei SENT_END  ==  [698 frames] -58.3258 [Ac=-40415.5 LM=-295.9] (Act=4475.0)
+File: data/test/2501/hi2501M0009.mfc_D_A
+SENT_BEGIN oora idhara usakii donoq bahaneq bhii dhanii jaane ke baada apane patiyoq ke saatha calii gaii thiiq SENT_END  ==  [698 frames] -60.8222 [Ac=-42218.2 LM=-235.7] (Act=4475.0)
+File: data/test/2501/hi2501M0005.mfc_D_A
+SENT_BEGIN to vaha phoorana kathana ko shekhacillii kii daastaana se jyaadaa dhulavaakara nahii denaa caahatii SENT_END  ==  [698 frames] -60.8278 [Ac=-42166.1 LM=-291.6] (Act=4475.0)
+File: data/test/2501/hi2501M0013.mfc_D_A
+SENT_BEGIN meiq itanaa badxaa vishvaasaghaata hei dhaaranxaa duudha caahie ghara khetii meq caahie SENT_END  ==  [698 frames] -60.5347 [Ac=-41825.6 LM=-427.6] (Act=4475.0)
+File: data/test/2501/hi2501M0017.mfc_D_A
+SENT_BEGIN duusaraa bacapana meq gaamqva se do kosa duura se shuruu hotii thiiq oora kosoq duura calii jaatii thiiq SENT_END  ==  [698 frames] -62.9479 [Ac=-43696.9 LM=-240.7] (Act=4475.0)
+File: data/test/2501/hi2501M0007.mfc_D_A
+SENT_BEGIN kara dii desha meq kucha hei kii miinaara kii kahiiq dhobina kii botala pahacaananaa bhii aayaa SENT_END  ==  [698 frames] -61.3010 [Ac=-42448.3 LM=-339.7] (Act=4475.0)
+File: data/test/2501/hi2501M0015.mfc_D_A
+SENT_BEGIN prukruti oora manusxya ki dekha taalamela saqbhava hogaa kyaa hei SENT_END  ==  [698 frames] -50.6836 [Ac=-35157.6 LM=-219.6] (Act=4475.0)
+File: data/test/2501/hi2501M0018.mfc_D_A
+SENT_BEGIN to eisaa jaana padxaa hei kyaa kucha javaaba denaa caahataa hei magara shabda nahii rahii hei SENT_END  ==  [698 frames] -55.8243 [Ac=-38723.4 LM=-242.0] (Act=4475.0)
+File: data/test/2501/hi2501M0014.mfc_D_A
+SENT_BEGIN tuu dekho bhuuta hei ki aavaaja meq bolate dekha thaa na ko badxaa aashcarya huaa SENT_END  ==  [698 frames] -58.2762 [Ac=-40259.5 LM=-417.3] (Act=4475.0)
+File: data/test/2501/hi2501M0006.mfc_D_A
+SENT_BEGIN usame se harii ghaasa ke caraagaahoq kaa duudha padxii sundara drushya dikhaaii detaa thaa SENT_END  ==  [698 frames] -57.8438 [Ac=-40122.9 LM=-252.1] (Act=4475.0)
+File: data/test/2501/hi2501M0010.mfc_D_A
+SENT_BEGIN cadxdxhaa ne dekha vishvaasa txikaa hei calo dekha lo idhara magara tiina caara ghaqtxe hue hei SENT_END  ==  [698 frames] -60.0835 [Ac=-41484.8 LM=-453.5] (Act=4475.0)
+File: data/test/2501/hi2501M0020.mfc_D_A
+SENT_BEGIN desha subaha shaama bhagavaana kii puujaa karate oora dopahara meq ladxaqkiyoq ko padxhaqate the SENT_END  ==  [698 frames] -59.2409 [Ac=-41149.4 LM=-200.8] (Act=4475.0)
+File: data/test/2501/hi2501M0011.mfc_D_A
+SENT_BEGIN dhobina jaba sokara utxhatii to dekhatii ki cookaa saapha padxaa hei oora bartana mamqje hue hei SENT_END  ==  [698 frames] -60.2304 [Ac=-42007.4 LM=-33.4] (Act=4475.0)
+File: data/test/2501/hi2501M0003.mfc_D_A
+SENT_BEGIN maaluuma ho dhyeya khela ne likhe paanii paanii ho gae hoq thiiq oora bijaliyaamq txukadxe txukadxe ho gaii hei SENT_END  ==  [698 frames] -62.6166 [Ac=-43349.3 LM=-357.1] (Act=4475.0)
+File: data/test/2501/hi2501M0004.mfc_D_A
+SENT_BEGIN bhuula se usane vaha cavannii idhara saaga khariidate samaya ne buudxhaii oorata ko de dii SENT_END  ==  [698 frames] -56.5852 [Ac=-39224.9 LM=-271.5] (Act=4475.0)
+File: data/test/2501/hi2501M0019.mfc_D_A
+SENT_BEGIN laalamanxi ke jaane kisa bhaaga meiqne vasiiyata kaa duusaraa anuccheda padxaa hei SENT_END  ==  [698 frames] -58.3166 [Ac=-40468.5 LM=-236.6] (Act=4475.0)
+File: data/test/2501/hi2501M0016.mfc_D_A
+SENT_BEGIN kucha samaya baada do raaja girjaaghara kii miinaara kii marammata hei to ne dii SENT_END  ==  [698 frames] -58.6783 [Ac=-40706.2 LM=-251.2] (Act=4475.0)
+File: data/test/2501/hi2501M0002.mfc_D_A
+SENT_BEGIN yahaamq se lagabhaga paamqca miila daksxinxa pashcima idhara katxaghara gaamqva hei SENT_END  ==  [698 frames] -55.0202 [Ac=-38278.1 LM=-126.0] (Act=4475.0)
+File: data/test/2501/hi2501M0001.mfc_D_A
+SENT_BEGIN dhobina hei jaba sokara utxhatii to dekhatii ki cookaa saapha padxaa hei oora bartana mamqje hue hei SENT_END  ==  [698 frames] -59.0431 [Ac=-41082.4 LM=-129.8] (Act=4475.0)
+File: data/test/2501/hi2501M0012.mfc_D_A
+SENT_BEGIN yahaamq se lagabhaga paamqca miila daksxinxa pashcima hei katxaghara gaamqva hei SENT_END  ==  [698 frames] -52.4341 [Ac=-36481.7 LM=-117.3] (Act=4475.0)
+File: data/test/2502/hi2502M0025.mfc_D_A
+SENT_BEGIN chatxhaa meq kucha dhanii naa dii hei oora hei paaqca itane na jaakara catura ho gayaa hei SENT_END  ==  [698 frames] -57.9384 [Ac=-39796.9 LM=-644.1] (Act=4475.0)
+File: data/test/2502/hi2502M0031.mfc_D_A
+SENT_BEGIN dhobina jaba sokara utxhatii to dekhatii dhiire cookaa saapha padxaa hei oora bartana mamqje hue hei SENT_END  ==  [698 frames] -58.7932 [Ac=-40900.0 LM=-137.6] (Act=4475.0)
+File: data/test/2502/hi2502M0036.mfc_D_A
+SENT_BEGIN badxhaqte hue udyogoq hei ki ne kacce maaxla peidaa karane hei SENT_END  ==  [698 frames] -53.7987 [Ac=-37337.7 LM=-213.8] (Act=4475.0)
+File: data/test/2502/hi2502M0023.mfc_D_A
+SENT_BEGIN mujhe donoq ki saqtusxtxa oora sukhii jiivana bhaage prkaara kii icchaa hei hotii thii SENT_END  ==  [698 frames] -58.1273 [Ac=-40063.1 LM=-509.8] (Act=4475.0)
+File: data/test/2502/hi2502M0034.mfc_D_A
+SENT_BEGIN rasa kii buunda hamaare mana ko hei bhaatii thii SENT_END  ==  [698 frames] -47.4028 [Ac=-32925.0 LM=-162.1] (Act=4475.0)
+File: data/test/2502/hi2502M0039.mfc_D_A
+SENT_BEGIN bhuumi ke upajaauupana hei kyaa jaataa siimaabandii kaa stara hei pacaasa ekadxaq taka hei SENT_END  ==  [698 frames] -60.6364 [Ac=-41966.4 LM=-357.8] (Act=4475.0)
+File: data/test/2502/hi2502M0033.mfc_D_A
+SENT_BEGIN para txikaa shabda baccoq kiyaa hei ko khetii para ke lagabhaga kanaatxa para txikaa hei SENT_END  ==  [698 frames] -54.6596 [Ac=-37666.7 LM=-485.7] (Act=4475.0)
+File: data/test/2502/hi2502M0026.mfc_D_A
+SENT_BEGIN sacamuca kii dhyeya kabuutaroq kii badxae laadxa laadxa caava oora pyaara se dekhabhaala karate the SENT_END  ==  [698 frames] -57.7428 [Ac=-39992.2 LM=-312.2] (Act=4475.0)
+File: data/test/2502/hi2502M0037.mfc_D_A
+SENT_BEGIN kara raajaa ke mahala ke eicchika oora hei ke ko badxaa oora puraanaa suukhaa para txikaa hei SENT_END  ==  [698 frames] -59.1336 [Ac=-40815.3 LM=-459.9] (Act=4475.0)
+File: data/test/2502/hi2502M0022.mfc_D_A
+SENT_BEGIN yahaamq se lagabhaga paamqca miila daksxinxa pashcima meq katxaghara gaamqva hei SENT_END  ==  [698 frames] -51.2150 [Ac=-35721.8 LM=-26.3] (Act=4475.0)
+File: data/test/2502/hi2502M0028.mfc_D_A
+SENT_BEGIN paaqca dii na gale dhanii aakaasha meq hei tiira chodxaqa thaa hei ladxaqkii ne javaaba diyaa hei SENT_END  ==  [698 frames] -57.6785 [Ac=-39722.1 LM=-537.5] (Act=4475.0)
+File: data/test/2502/hi2502M0038.mfc_D_A
+SENT_BEGIN mandiroq kaa vaastushilpa udxaiisaa meq hei dharma yasa jaane ke mandiroq hei ke kaaphii nikatxa hei SENT_END  ==  [698 frames] -58.9955 [Ac=-40794.0 LM=-384.9] (Act=4475.0)
+File: data/test/2502/hi2502M0021.mfc_D_A
+SENT_BEGIN dhobina jaba sokara utxhatii hei to dekhatii hei ki cookaa saapha padxaa hei oora bartana mamqje hue hei SENT_END  ==  [698 frames] -59.7950 [Ac=-41547.3 LM=-189.6] (Act=4475.0)
+File: data/test/2502/hi2502M0027.mfc_D_A
+SENT_BEGIN kara saata alookika hei ke tathaa vishvaasa detaa eisaa jaana banii mana botala ucita ho rahaa thaa SENT_END  ==  [698 frames] -63.9209 [Ac=-43892.5 LM=-724.3] (Act=4475.0)
+File: data/test/2502/hi2502M0030.mfc_D_A
+SENT_BEGIN usane ucita kishtoq meq chatipuurti kii raashi vasuula karane kii vyavasthaa kara dii hei SENT_END  ==  [698 frames] -59.1484 [Ac=-41170.7 LM=-114.9] (Act=4475.0)
+File: data/test/2502/hi2502M0024.mfc_D_A
+SENT_BEGIN khadxae una keidii apanaa bhuuta udyoga hei dila chotxaa mata kiijiye SENT_END  ==  [698 frames] -52.4533 [Ac=-36134.5 LM=-477.9] (Act=4475.0)
+File: data/test/2502/hi2502M0029.mfc_D_A
+SENT_BEGIN ujaalii raatoq meiq jagata saba lo chodxaq jaate heiq paartxii hei aadhii detaa thaa ki dikhaayii detii SENT_END  ==  [698 frames] -61.9569 [Ac=-42587.6 LM=-658.3] (Act=4475.0)
+File: data/test/2502/hi2502M0032.mfc_D_A
+SENT_BEGIN yahaamq se lagabhaga paamqca miila daksxinxa pashcima meq katxaghara gaamqva hei SENT_END  ==  [698 frames] -51.3260 [Ac=-35799.3 LM=-26.3] (Act=4475.0)
+File: data/test/2502/hi2502M0035.mfc_D_A
+SENT_BEGIN upabhoktaaoq ko dii hei ucita muulyoq para krusxi padaartha mila jaate hei SENT_END  ==  [698 frames] -53.4894 [Ac=-37111.4 LM=-224.2] (Act=4475.0)
+File: data/test/2502/hi2502M0040.mfc_D_A
+SENT_BEGIN isake baada tumhaarii jo bhii icchaa ho hei use kaho veibhava oora tuu kii to jaae dii hei SENT_END  ==  [698 frames] -58.9635 [Ac=-40579.8 LM=-576.8] (Act=4475.0)
+File: data/test/2509/hi2509M0124.mfc_D_A
+SENT_BEGIN dikhaa ko tyaaga prativarsxa hei yaanii baaraha hajaara paaqca soo rupayaa mahiinaa hogii SENT_END  ==  [698 frames] -61.5639 [Ac=-42702.4 LM=-269.2] (Act=4475.0)
+File: data/test/2509/hi2509M0130.mfc_D_A
+SENT_BEGIN dhobina de ke kaaranxa unako badxaii cotxa aayii hei oora aba ve khadxae de dii usa agale hei SENT_END  ==  [698 frames] -58.3170 [Ac=-40266.4 LM=-438.9] (Act=4475.0)
+File: data/test/2509/hi2509M0140.mfc_D_A
+SENT_BEGIN kyaa mamqje kisii to use sahakaarii khetii karanaa hei na kii dabaava dxaalakara hei SENT_END  ==  [698 frames] -61.4967 [Ac=-42570.6 LM=-354.1] (Act=4475.0)
+File: data/test/2509/hi2509M0123.mfc_D_A
+SENT_BEGIN kisa ki saqsthaana ne kacce lohe oora ispaata kaa utpaadana gaamqva aarambha kara diyaa hei SENT_END  ==  [698 frames] -61.4533 [Ac=-42539.4 LM=-355.1] (Act=4475.0)
+File: data/test/2509/hi2509M0126.mfc_D_A
+SENT_BEGIN dhobina dinoq saapha eka sashakta praaciina oora samaya paasa hei SENT_END  ==  [698 frames] -53.1735 [Ac=-36775.1 LM=-340.1] (Act=4475.0)
+File: data/test/2509/hi2509M0122.mfc_D_A
+SENT_BEGIN yahaamq se lagabhaga paamqca miila daksxinxa pashcima meq katxaghara gaamqva hei SENT_END  ==  [698 frames] -52.3356 [Ac=-36503.9 LM=-26.3] (Act=4475.0)
+File: data/test/2509/hi2509M0131.mfc_D_A
+SENT_BEGIN dhobina jaba sokara utxhatii to dekhatii ki cookaa saapha padxaa hei oora bartana mamqje hue hei SENT_END  ==  [698 frames] -57.6062 [Ac=-40175.7 LM=-33.4] (Act=4475.0)
+File: data/test/2509/hi2509M0133.mfc_D_A
+SENT_BEGIN kara dii kacce milate de usa samaya iishvara kaa badxaqa varadaana thaa hei SENT_END  ==  [698 frames] -55.3827 [Ac=-38311.9 LM=-345.2] (Act=4475.0)
+File: data/test/2509/hi2509M0125.mfc_D_A
+SENT_BEGIN riyaasata kii sukha samruddhi dekha kara unheq mahaaraaja kii kushalataa kaa pataa calegaa hei SENT_END  ==  [698 frames] -57.7041 [Ac=-40135.9 LM=-141.5] (Act=4475.0)
+File: data/test/2509/hi2509M0128.mfc_D_A
+SENT_BEGIN kara diyaa na dostii ke shakla SENT_END  ==  [698 frames] -47.3991 [Ac=-33014.5 LM=-70.1] (Act=4475.0)
+File: data/test/2509/hi2509M0132.mfc_D_A
+SENT_BEGIN yahaamq se lagabhaga paamqca miila daksxinxa pashcima meq katxaghara gaamqva hei SENT_END  ==  [698 frames] -50.3902 [Ac=-35146.1 LM=-26.3] (Act=4475.0)
+File: data/test/2509/hi2509M0129.mfc_D_A
+SENT_BEGIN dikhaa dii na iqsaana ne dimaagii juunuuna ke shakla SENT_END  ==  [698 frames] -48.9614 [Ac=-34098.7 LM=-76.3] (Act=4475.0)
+File: data/test/2509/hi2509M0139.mfc_D_A
+SENT_BEGIN yahii saccii mitrataa kii kasootxii hei oora use jhuutxhe mitroq para kabhii vishvaasa mata karanaa hei SENT_END  ==  [698 frames] -62.3480 [Ac=-43316.2 LM=-202.7] (Act=4475.0)
+File: data/test/2509/hi2509M0137.mfc_D_A
+SENT_BEGIN isake maadhava ne kotxhii meq jaakara dekhaa to usakii caaya txhaqdxii ho advitiiya hei SENT_END  ==  [698 frames] -57.4487 [Ac=-39889.9 LM=-209.3] (Act=4475.0)
+File: data/test/2509/hi2509M0135.mfc_D_A
+SENT_BEGIN usane paqjaaba kaa adhikaaqsha bhaaga jiitaa oora hinduu mamqje kii aadhaarashilaa rakhii hei SENT_END  ==  [698 frames] -61.2714 [Ac=-42554.2 LM=-213.3] (Act=4475.0)
+File: data/test/2509/hi2509M0127.mfc_D_A
+SENT_BEGIN kyaa vaastava meq bhii kiyaa jaa rahe thaa ki hama kanaatxa plesa jaa sattaa ke hei SENT_END  ==  [698 frames] -55.0232 [Ac=-38101.2 LM=-305.0] (Act=4475.0)
+File: data/test/2509/hi2509M0134.mfc_D_A
+SENT_BEGIN unhoqne apanii isa khoja kaa pradarshana hei kii dara meq bhii kiyaa hei SENT_END  ==  [698 frames] -51.4926 [Ac=-35724.9 LM=-216.9] (Act=4475.0)
+File: data/test/2509/hi2509M0136.mfc_D_A
+SENT_BEGIN jaqraa sii cuuq capadxaq kii to aastiina cadxhaqa kara oora bartana badala kara khadxaqa unako noo hei SENT_END  ==  [698 frames] -58.7327 [Ac=-40683.8 LM=-311.6] (Act=4475.0)
+File: data/test/2509/hi2509M0121.mfc_D_A
+SENT_BEGIN dhobina jaba sokara utxhatii to dekhatii ki cookaa saapha padxaa hei oora bartana mamqje hue hei SENT_END  ==  [698 frames] -57.5851 [Ac=-40161.0 LM=-33.4] (Act=4475.0)
+File: data/test/2509/hi2509M0138.mfc_D_A
+SENT_BEGIN taaqkhula loga manxipurii jaana jaatiyoq meq kucha isa kathana maane jaate hei SENT_END  ==  [698 frames] -57.8404 [Ac=-40150.8 LM=-221.8] (Act=4475.0)
+File: data/test/2508/hi2508M0120.mfc_D_A
+SENT_BEGIN yaha shabda una dinoq tiina ladxaqkii eka samaacaara patra ne likhe the hei SENT_END  ==  [698 frames] -51.9413 [Ac=-35986.1 LM=-268.9] (Act=4475.0)
+File: data/test/2508/hi2508M0111.mfc_D_A
+SENT_BEGIN dhobina jaba sokara utxhatii to dekhatii ki cookaa saapha padxaa hei oora bartana mamqje hue hei SENT_END  ==  [698 frames] -56.9482 [Ac=-39716.5 LM=-33.4] (Act=4475.0)
+File: data/test/2508/hi2508M0101.mfc_D_A
+SENT_BEGIN dhobina jaba sokara utxhatii to dekhatii ki cookaa saapha padxaa hei oora bartana mamqje hue hei SENT_END  ==  [698 frames] -55.4840 [Ac=-38694.4 LM=-33.4] (Act=4475.0)
+File: data/test/2508/hi2508M0119.mfc_D_A
+SENT_BEGIN ise maadaka pashcima aa rahaa hei uttara SENT_END  ==  [698 frames] -46.5899 [Ac=-32222.9 LM=-296.9] (Act=4475.0)
+File: data/test/2508/hi2508M0118.mfc_D_A
+SENT_BEGIN aaiisiiesaii skuula ke baccoq bhii badxaa aksara behatara nahiiq hotaa hei SENT_END  ==  [698 frames] -54.9956 [Ac=-38165.8 LM=-221.1] (Act=4475.0)
+File: data/test/2508/hi2508M0110.mfc_D_A
+SENT_BEGIN cadxdxaa bhagavaan nahiiq the kii ora kii eka diyaa dekha lene eise puurnxa barasa jaataa hei SENT_END  ==  [698 frames] -59.9030 [Ac=-41359.1 LM=-453.1] (Act=4475.0)
+File: data/test/2508/hi2508M0114.mfc_D_A
+SENT_BEGIN taba para shivaalaya ke baahara lagabhaga biisa phutxa lambaaii gaqguu maqdxapa hei SENT_END  ==  [698 frames] -59.1757 [Ac=-41006.5 LM=-298.1] (Act=4475.0)
+File: data/test/2508/hi2508M0113.mfc_D_A
+SENT_BEGIN inakaa shilpa sooqdarya bhuuta kaala meq banii thaa muurtiyoq magara kahaa hei SENT_END  ==  [698 frames] -55.0686 [Ac=-38160.2 LM=-277.7] (Act=4475.0)
+File: data/test/2508/hi2508M0105.mfc_D_A
+SENT_BEGIN jaiqdagii eka prkaara yaha cotxa aayii isakii kahaanii hei SENT_END  ==  [698 frames] -51.6807 [Ac=-35812.3 LM=-260.9] (Act=4475.0)
+File: data/test/2508/hi2508M0107.mfc_D_A
+SENT_BEGIN paartxii prukruti hei idhara uttara SENT_END  ==  [698 frames] -47.4040 [Ac=-32795.9 LM=-292.1] (Act=4475.0)
+File: data/test/2508/hi2508M0117.mfc_D_A
+SENT_BEGIN paartxii ko para bhara kalara cale hei SENT_END  ==  [698 frames] -44.7877 [Ac=-30967.3 LM=-294.5] (Act=4475.0)
+File: data/test/2508/hi2508M0102.mfc_D_A
+SENT_BEGIN yahaamq se lagabhaga paamqca miila daksxinxa pashcima meq katxaghara gaamqva hei SENT_END  ==  [698 frames] -51.7338 [Ac=-36083.9 LM=-26.3] (Act=4475.0)
+File: data/test/2508/hi2508M0116.mfc_D_A
+SENT_BEGIN usane apane baabaa se kaha diyaa hei kii meq isa pacaraqgii vaalii sii diyaa gayaa hei SENT_END  ==  [698 frames] -58.4582 [Ac=-40548.2 LM=-255.6] (Act=4475.0)
+File: data/test/2508/hi2508M0108.mfc_D_A
+SENT_BEGIN bhaarata meq isa apsaraaoq alabattaa SENT_END  ==  [698 frames] -46.4745 [Ac=-32236.4 LM=-202.8] (Act=4475.0)
+File: data/test/2508/hi2508M0103.mfc_D_A
+SENT_BEGIN kyaa maqdxapa lagabhaga dasa ki uumqce gola staqbhoq para txikaa hei SENT_END  ==  [698 frames] -54.2942 [Ac=-37661.7 LM=-235.7] (Act=4475.0)
+File: data/test/2508/hi2508M0106.mfc_D_A
+SENT_BEGIN para sii manusxya para ki cookaa uttara SENT_END  ==  [698 frames] -47.6338 [Ac=-32913.5 LM=-334.9] (Act=4475.0)
+File: data/test/2508/hi2508M0104.mfc_D_A
+SENT_BEGIN para bartana kii oora apsaraaoq kii muurtiyoq thaapatii tuu dekhabhaala kisa aa gaii hei SENT_END  ==  [698 frames] -59.4917 [Ac=-41039.6 LM=-485.6] (Act=4475.0)
+File: data/test/2508/hi2508M0115.mfc_D_A
+SENT_BEGIN saapha sokara shava phutxa kii lagabhaga vastra udyoga patxasana udyoga oora koyalaa udyoga kaa saqbhava hei SENT_END  ==  [698 frames] -67.0147 [Ac=-46353.3 LM=-422.9] (Act=4475.0)
+File: data/test/2508/hi2508M0109.mfc_D_A
+SENT_BEGIN uttara spasxtxa sattaa SENT_END  ==  [698 frames] -43.7792 [Ac=-30438.9 LM=-119.0] (Act=4475.0)
+File: data/test/2508/hi2508M0112.mfc_D_A
+SENT_BEGIN yahaamq se lagabhaga paamqca miila daksxinxa pashcima meq katxaghara gaamqva hei uttara SENT_END  ==  [698 frames] -50.1526 [Ac=-34873.8 LM=-132.6] (Act=4475.0)
+File: data/test/2503/hi2503M0058.mfc_D_A
+SENT_BEGIN ve kahane lage diivaanajii aapane eicchika yasa ke doore ke bhaarata usa uumqcaa txikaa hei SENT_END  ==  [698 frames] -58.4764 [Ac=-40406.4 LM=-410.1] (Act=4475.0)
+File: data/test/2503/hi2503M0055.mfc_D_A
+SENT_BEGIN sabuuta heiq ve do jaate heiq jo kii jaruura ko de bhuula heiq baaki saba kaatxa dxaale hei SENT_END  ==  [698 frames] -61.0145 [Ac=-42126.5 LM=-461.6] (Act=4475.0)
+File: data/test/2503/hi2503M0043.mfc_D_A
+SENT_BEGIN meiq doodxaqkara daravaaje se nikala jaanaa caahataa hei kii kahiiq mutxhabhedxaq na uumqcaa hei SENT_END  ==  [698 frames] -54.5871 [Ac=-37942.3 LM=-159.5] (Act=4475.0)
+File: data/test/2503/hi2503M0060.mfc_D_A
+SENT_BEGIN jo vidyaa ghamaqdxii banaa de usa murkha nae icchaa hei SENT_END  ==  [698 frames] -48.6035 [Ac=-33613.8 LM=-311.5] (Act=4475.0)
+File: data/test/2503/hi2503M0047.mfc_D_A
+SENT_BEGIN tuu ekadama jhuutxhii hei sukhii ne patra ne baahara hei para saccaaii kii puujaa dii SENT_END  ==  [698 frames] -57.3361 [Ac=-39567.8 LM=-452.8] (Act=4475.0)
+File: data/test/2503/hi2503M0042.mfc_D_A
+SENT_BEGIN yasa ke lagabhaga paamqca miila daksxinxa pashcima meq katxaghara gaamqva hei SENT_END  ==  [698 frames] -50.4820 [Ac=-35184.9 LM=-51.5] (Act=4475.0)
+File: data/test/2503/hi2503M0048.mfc_D_A
+SENT_BEGIN unhoqne desha meq ucita hotii kaa saqghatxana khadxaqa kiyaa jo itihaasa meq advitiiya hei SENT_END  ==  [698 frames] -55.7975 [Ac=-38697.1 LM=-249.6] (Act=4475.0)
+File: data/test/2503/hi2503M0041.mfc_D_A
+SENT_BEGIN dhobina jaba sokara utxhatii to dekhatii ki cookaa saapha padxaa hei oora bartana mamqje hue hei SENT_END  ==  [698 frames] -52.5461 [Ac=-36643.8 LM=-33.4] (Act=4475.0)
+File: data/test/2503/hi2503M0051.mfc_D_A
+SENT_BEGIN dhobina jaba sokara utxhatii to dekhatii ki cookaa saapha padxaa hei oora bartana mamqje hue hei SENT_END  ==  [698 frames] -56.6621 [Ac=-39516.8 LM=-33.4] (Act=4475.0)
+File: data/test/2503/hi2503M0059.mfc_D_A
+SENT_BEGIN apane saqkatxamocana ke makaana kaa uuparii khanxdxa meiq meiq jagatpati mishra shuruu saapha ko detaa hei SENT_END  ==  [698 frames] -61.6167 [Ac=-42670.0 LM=-338.5] (Act=4475.0)
+File: data/test/2503/hi2503M0046.mfc_D_A
+SENT_BEGIN turanta usane lutxeroq kii ora bhuumi karuumqgaa yaha koovaa bilakula jhuutxhaa hei SENT_END  ==  [698 frames] -52.2942 [Ac=-36270.2 LM=-231.2] (Act=4475.0)
+File: data/test/2503/hi2503M0049.mfc_D_A
+SENT_BEGIN paartxii sattaa ke khilaapha hei SENT_END  ==  [698 frames] -43.1352 [Ac=-30061.2 LM=-47.1] (Act=4475.0)
+File: data/test/2503/hi2503M0045.mfc_D_A
+SENT_BEGIN mahaaraajaa ne jijnyaasaa puurnxa drusxtxi se mahaaraanii kii ora dekhate hue kahaa hei SENT_END  ==  [698 frames] -51.6380 [Ac=-35941.7 LM=-101.6] (Act=4475.0)
+File: data/test/2503/hi2503M0052.mfc_D_A
+SENT_BEGIN yahaamq se lagabhaga paamqca miila daksxinxa pashcima meq katxaghara gaamqva hei SENT_END  ==  [698 frames] -50.0759 [Ac=-34926.7 LM=-26.3] (Act=4475.0)
+File: data/test/2503/hi2503M0044.mfc_D_A
+SENT_BEGIN taba donoq na jaane kisa dhyeya meq preranxaa se eka madhushaalaa ki sammmaana ko uumqce hei SENT_END  ==  [698 frames] -54.5487 [Ac=-37612.0 LM=-463.0] (Act=4475.0)
+File: data/test/2503/hi2503M0050.mfc_D_A
+SENT_BEGIN cotxa aayii mandiroq ke samaapta kiyaa hei oora apanii jagaha para kaama de dii hei SENT_END  ==  [698 frames] -50.7996 [Ac=-35140.7 LM=-317.4] (Act=4475.0)
+File: data/test/2503/hi2503M0056.mfc_D_A
+SENT_BEGIN to vaha vaha kyoq usa se pratisxtxhaa oora sammmaana ko tyaaga de jo usakii idhara bhuuta SENT_END  ==  [698 frames] -59.3008 [Ac=-41013.7 LM=-378.3] (Act=4475.0)
+File: data/test/2503/hi2503M0057.mfc_D_A
+SENT_BEGIN biimaarii ke coothe dina para cale cuudxaqamanxi ne buudxhaii ko hei dekha kara use padxaqtaa hei SENT_END  ==  [698 frames] -57.0788 [Ac=-39464.2 LM=-376.8] (Act=4475.0)
+File: data/test/2503/hi2503M0054.mfc_D_A
+SENT_BEGIN usa mata agale kii baata hei kii kisii jagaha eka dhanii oora vyasta vyaapaarii rahataa thaa SENT_END  ==  [698 frames] -58.3820 [Ac=-40433.4 LM=-317.2] (Act=4475.0)
+File: data/test/2503/hi2503M0053.mfc_D_A
+SENT_BEGIN ve kaa gaamqva para noo dasa hajaara phutxa kii uumqcaaii para hei milate hei SENT_END  ==  [698 frames] -50.3009 [Ac=-34743.7 LM=-366.4] (Act=4475.0)
+File: data/test/2505/hi2505M0085.mfc_D_A
+SENT_BEGIN koii oora upaaya to thaa ne dii hei kisii vaha gaamqva chodxaq jaqgala meq jaa basaa hei SENT_END  ==  [698 frames] -57.3878 [Ac=-39707.6 LM=-349.0] (Act=4475.0)
+File: data/test/2505/hi2505M0083.mfc_D_A
+SENT_BEGIN vaha hei udxaiisaa meq hei cubhanaa phira bolaa eisaa bhaage itanii dukhii mata ho hei SENT_END  ==  [698 frames] -57.4115 [Ac=-39610.6 LM=-462.6] (Act=4475.0)
+File: data/test/2505/hi2505M0098.mfc_D_A
+SENT_BEGIN jaqraa sastii ke the kii se to saamane meq eise ghuse anya tatvoq kiye na jaane kisa SENT_END  ==  [698 frames] -60.3881 [Ac=-41579.3 LM=-571.5] (Act=4475.0)
+File: data/test/2505/hi2505M0097.mfc_D_A
+SENT_BEGIN suqdaralaala patxavaa sarakaara ne nae jailoq ke gatxhana kii usa bhaatii thii SENT_END  ==  [698 frames] -56.1899 [Ac=-39042.6 LM=-177.9] (Act=4475.0)
+File: data/test/2505/hi2505M0086.mfc_D_A
+SENT_BEGIN paartxii jaa hote kii bhaamqtii kii dahaadxaq oora bhedxaiyoq kii ciikha sunaayii dene lagatii hei SENT_END  ==  [698 frames] -60.2820 [Ac=-41776.7 LM=-300.1] (Act=4475.0)
+File: data/test/2505/hi2505M0093.mfc_D_A
+SENT_BEGIN yaha kahakara desha meq kaaqgresa ke anusaara kara use kii mukhiyaa hei SENT_END  ==  [698 frames] -52.6919 [Ac=-36444.8 LM=-334.1] (Act=4475.0)
+File: data/test/2505/hi2505M0090.mfc_D_A
+SENT_BEGIN caahatii baalaka baalikaaoq meq isa vilaksxanxa ise dekho tuu saahasa bhara diyaa hei SENT_END  ==  [698 frames] -61.1055 [Ac=-42249.1 LM=-402.5] (Act=4475.0)
+File: data/test/2505/hi2505M0087.mfc_D_A
+SENT_BEGIN usane sii cuuq vahii pataa baagha ke shava para ragadxaqa oora vaha punarjiivita ho gayaa hei SENT_END  ==  [698 frames] -59.9390 [Ac=-41613.3 LM=-224.1] (Act=4475.0)
+File: data/test/2505/hi2505M0096.mfc_D_A
+SENT_BEGIN kyaa dekhatii anusaara hei ki bartana unako mitroq para hei kaama ho rahaa hei SENT_END  ==  [698 frames] -53.4229 [Ac=-36787.1 LM=-502.1] (Act=4475.0)
+File: data/test/2505/hi2505M0091.mfc_D_A
+SENT_BEGIN dhobina jagata sokara utxhatii to dekhatii ki cookaa saapha padxaa hei oora bartana mamqje hue hei SENT_END  ==  [698 frames] -61.2625 [Ac=-42622.8 LM=-138.5] (Act=4475.0)
+File: data/test/2505/hi2505M0089.mfc_D_A
+SENT_BEGIN paartxii sattaa sattaa meq hei SENT_END  ==  [698 frames] -41.6357 [Ac=-28956.6 LM=-105.1] (Act=4475.0)
+File: data/test/2505/hi2505M0081.mfc_D_A
+SENT_BEGIN dhobina jaba hei sokara utxhatii to dekhatii ki cookaa saapha padxaa hei oora bartana mamqje SENT_END  ==  [698 frames] -61.2899 [Ac=-42606.7 LM=-173.7] (Act=4475.0)
+File: data/test/2505/hi2505M0092.mfc_D_A
+SENT_BEGIN yahaamq se lagabhaga paamqca miila pashcima pashcima meq katxaghara gaamqva hei SENT_END  ==  [698 frames] -53.2853 [Ac=-37071.3 LM=-121.8] (Act=4475.0)
+File: data/test/2505/hi2505M0095.mfc_D_A
+SENT_BEGIN saqbhava hei ki hamaaraa dhyeya detii keqdriiya maqtrii maqdxala ke saamane taka SENT_END  ==  [698 frames] -60.0858 [Ac=-41590.1 LM=-349.8] (Act=4475.0)
+File: data/test/2505/hi2505M0094.mfc_D_A
+SENT_BEGIN puure desha meq hei ki isase dxaakasevaa lagabhaga paamqca to dii hei SENT_END  ==  [698 frames] -50.5691 [Ac=-35026.6 LM=-270.6] (Act=4475.0)
+File: data/test/2505/hi2505M0084.mfc_D_A
+SENT_BEGIN dhanurdhaarinxii ladxaqkii daravaaje ki saaraa meq jaakara jaae detii kii SENT_END  ==  [698 frames] -57.2976 [Ac=-39646.5 LM=-347.2] (Act=4475.0)
+File: data/test/2505/hi2505M0099.mfc_D_A
+SENT_BEGIN dasa ke modii stxiilsa rahatii hei na hei janavarii se taalaabaqdii lagii huyii hei SENT_END  ==  [698 frames] -58.2607 [Ac=-40328.1 LM=-337.8] (Act=4475.0)
+File: data/test/2505/hi2505M0088.mfc_D_A
+SENT_BEGIN saqgrahaalaya meq deshabhara se ikatxhtxhii kii gayii kalaa kii baata amuulya vastueq rakhii gayii hei SENT_END  ==  [698 frames] -59.6936 [Ac=-41484.2 LM=-181.9] (Act=4475.0)
+File: data/test/2505/hi2505M0100.mfc_D_A
+SENT_BEGIN mahaaraanxaa vikramaaditya kaa raaja bhii to basaa nahiiq saatha ki loga unase prema rakhate SENT_END  ==  [698 frames] -60.9989 [Ac=-42274.4 LM=-302.9] (Act=4475.0)
+File: data/test/2505/hi2505M0082.mfc_D_A
+SENT_BEGIN yahaamq se lagabhaga hei paaqca miila daksxinxa pashcima meq katxaghara gaamqva hei SENT_END  ==  [698 frames] -52.4388 [Ac=-36411.2 LM=-191.0] (Act=4475.0)
+====================== HTK Results Analysis =======================
+  Date: Tue Dec 26 16:28:16 2017
+  Ref : lm/hindi_word_recoWord.mlf
+  Rec : log/recout_mono.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=14.29 [H=20, S=120, N=140]
+WORD: %Corr=75.80, Acc=67.35 [H=1300, D=30, S=385, I=145, N=1715]
+===================================================================
+----------------- End of hvite.csh -----------------

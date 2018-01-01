@@ -1,0 +1,14 @@
+Tue Dec 26 16:16:18 IST 2017
+LGPrep -A -T 1 -a 10000 -b 200000 -d lm -n 4 -s hindi_word_reco lm/hindi_word_reco.wmap htk_files/transcriptions.txt 
+Reading source text file htk_files/transcriptions.txt
+ word map saved to lm/wmap
+ saving 2158 ngrams to file lm/gram.0
+ 15092 words processed
+LGCopy -A -T 1 -b 200000 -d lm lm/wmap lm/gram.0 
+Input file lm/gram.0 added, weight=1.0000
+Copying 1 input files to output files with 200000 entries
+ saving 2158 ngrams to file lm/data.0
+2158 out of 2158 ngrams stored in 1 files
+LBuild -A -T 1 -f TEXT -c 2 1 -n 2 lm/wmap lm/bglm lm/data.0 
+Input file lm/data.0 added, weight=1.0000
+Tue Dec 26 16:16:26 IST 2017
