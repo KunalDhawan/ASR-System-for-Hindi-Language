@@ -1,0 +1,47 @@
+# compute-mfcc-feats --verbose=2 --config=conf/mfcc.conf scp,p:exp/make_mfcc/test/mfcc/wav_test.3.scp ark:- | copy-feats --compress=true ark:- ark,scp:/home/kunal/Kaldi_Workspace/kaldi-master/egs/HindiASR_ver2/data/test/data/raw_mfcc_test.3.ark,/home/kunal/Kaldi_Workspace/kaldi-master/egs/HindiASR_ver2/data/test/data/raw_mfcc_test.3.scp 
+# Started at Sat Dec 23 21:36:56 IST 2017
+#
+copy-feats --compress=true ark:- ark,scp:/home/kunal/Kaldi_Workspace/kaldi-master/egs/HindiASR_ver2/data/test/data/raw_mfcc_test.3.ark,/home/kunal/Kaldi_Workspace/kaldi-master/egs/HindiASR_ver2/data/test/data/raw_mfcc_test.3.scp 
+compute-mfcc-feats --verbose=2 --config=conf/mfcc.conf scp,p:exp/make_mfcc/test/mfcc/wav_test.3.scp ark:- 
+VLOG[2] (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:173) Processed features for key hi2504M0071
+VLOG[2] (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:173) Processed features for key hi2504M0072
+VLOG[2] (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:173) Processed features for key hi2504M0073
+VLOG[2] (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:173) Processed features for key hi2504M0074
+VLOG[2] (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:173) Processed features for key hi2504M0075
+VLOG[2] (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:173) Processed features for key hi2504M0076
+VLOG[2] (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:173) Processed features for key hi2504M0077
+VLOG[2] (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:173) Processed features for key hi2504M0078
+VLOG[2] (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:173) Processed features for key hi2504M0079
+LOG (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:172) Processed 10 utterances
+VLOG[2] (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:173) Processed features for key hi2504M0080
+VLOG[2] (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:173) Processed features for key hi2505M0081
+VLOG[2] (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:173) Processed features for key hi2505M0082
+VLOG[2] (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:173) Processed features for key hi2505M0083
+VLOG[2] (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:173) Processed features for key hi2505M0084
+VLOG[2] (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:173) Processed features for key hi2505M0085
+VLOG[2] (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:173) Processed features for key hi2505M0086
+VLOG[2] (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:173) Processed features for key hi2505M0087
+VLOG[2] (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:173) Processed features for key hi2505M0088
+VLOG[2] (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:173) Processed features for key hi2505M0089
+LOG (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:172) Processed 20 utterances
+VLOG[2] (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:173) Processed features for key hi2505M0090
+VLOG[2] (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:173) Processed features for key hi2505M0091
+VLOG[2] (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:173) Processed features for key hi2505M0092
+VLOG[2] (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:173) Processed features for key hi2505M0093
+VLOG[2] (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:173) Processed features for key hi2505M0094
+VLOG[2] (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:173) Processed features for key hi2505M0095
+VLOG[2] (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:173) Processed features for key hi2505M0096
+VLOG[2] (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:173) Processed features for key hi2505M0097
+VLOG[2] (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:173) Processed features for key hi2505M0098
+VLOG[2] (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:173) Processed features for key hi2505M0099
+LOG (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:172) Processed 30 utterances
+VLOG[2] (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:173) Processed features for key hi2505M0100
+VLOG[2] (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:173) Processed features for key hi2508M0101
+VLOG[2] (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:173) Processed features for key hi2508M0102
+VLOG[2] (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:173) Processed features for key hi2508M0103
+VLOG[2] (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:173) Processed features for key hi2508M0104
+VLOG[2] (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:173) Processed features for key hi2508M0105
+LOG (compute-mfcc-feats[5.3]:main():compute-mfcc-feats.cc:176)  Done 35 out of 35 utterances.
+LOG (copy-feats[5.3]:main():copy-feats.cc:143) Copied 35 feature matrices.
+# Accounting: time=5 threads=1
+# Ended (code 0) at Sat Dec 23 21:37:01 IST 2017, elapsed time 5 seconds

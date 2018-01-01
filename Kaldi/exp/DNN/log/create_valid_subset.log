@@ -1,0 +1,18 @@
+# nnet-get-egs --left-context=4 --right-context=4 "ark,s,cs:utils/filter_scp.pl exp/DNN/valid_uttlist data/train/feats.scp | apply-cmvn  --utt2spk=ark:data/train/utt2spk scp:data/train/cmvn.scp scp:- ark:- |" "ark,s,cs:gunzip -c exp/DNN/ali_special.gz | ali-to-pdf exp/tri_ali/final.mdl ark:- ark:- | ali-to-post ark:- ark:- |" ark:exp/DNN/egs/valid_all.egs 
+# Started at Sat Dec 23 23:15:04 IST 2017
+#
+nnet-get-egs --left-context=4 --right-context=4 'ark,s,cs:utils/filter_scp.pl exp/DNN/valid_uttlist data/train/feats.scp | apply-cmvn  --utt2spk=ark:data/train/utt2spk scp:data/train/cmvn.scp scp:- ark:- |' 'ark,s,cs:gunzip -c exp/DNN/ali_special.gz | ali-to-pdf exp/tri_ali/final.mdl ark:- ark:- | ali-to-post ark:- ark:- |' ark:exp/DNN/egs/valid_all.egs 
+apply-cmvn --utt2spk=ark:data/train/utt2spk scp:data/train/cmvn.scp scp:- ark:- 
+ali-to-post ark:- ark:- 
+ali-to-pdf exp/tri_ali/final.mdl ark:- ark:- 
+WARNING (nnet-get-egs[5.3]:main():nnet-get-egs.cc:156) No pdf-level posterior for key hi2503M0109
+WARNING (nnet-get-egs[5.3]:main():nnet-get-egs.cc:156) No pdf-level posterior for key hi2505M0027
+WARNING (nnet-get-egs[5.3]:main():nnet-get-egs.cc:156) No pdf-level posterior for key hi2505M0048
+WARNING (nnet-get-egs[5.3]:main():nnet-get-egs.cc:156) No pdf-level posterior for key hi2505M0116
+WARNING (nnet-get-egs[5.3]:main():nnet-get-egs.cc:156) No pdf-level posterior for key hi2505M0127
+LOG (ali-to-pdf[5.3]:main():ali-to-pdf.cc:68) Converted 594 alignments to pdf sequences.
+LOG (ali-to-post[5.3]:main():ali-to-post.cc:73) Converted 594 alignments.
+LOG (apply-cmvn[5.3]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 300 utterances, errors on 0
+LOG (nnet-get-egs[5.3]:main():nnet-get-egs.cc:174) Finished generating examples, successfully processed 295 feature files, wrote 205910 examples,  with 205910 egs in total; 5 files had errors.
+# Accounting: time=14 threads=1
+# Ended (code 0) at Sat Dec 23 23:15:18 IST 2017, elapsed time 14 seconds

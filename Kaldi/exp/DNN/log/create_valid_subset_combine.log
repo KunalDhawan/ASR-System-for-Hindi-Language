@@ -1,0 +1,7 @@
+# nnet-subset-egs --n=0 ark:exp/DNN/egs/valid_all.egs ark:exp/DNN/egs/valid_combine.egs 
+# Started at Sat Dec 23 23:15:18 IST 2017
+#
+nnet-subset-egs --n=0 ark:exp/DNN/egs/valid_all.egs ark:exp/DNN/egs/valid_combine.egs 
+LOG (nnet-subset-egs[5.3]:main():nnet-subset-egs.cc:92) Selected a subset of 0 out of 205910 neural-network training examples 
+# Accounting: time=2 threads=1
+# Ended (code 0) at Sat Dec 23 23:15:20 IST 2017, elapsed time 2 seconds

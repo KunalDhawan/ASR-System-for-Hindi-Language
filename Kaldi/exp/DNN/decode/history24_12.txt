@@ -1,0 +1,289 @@
+    1  env | grep proxy
+    2  man sudo
+    3  mkdir /home/voice-server2/Kaldi_workspace
+    4  mkdir ~/home/voice-server2/Kaldi_workspace
+    5  cd kaldi_folder/
+    6  ./install_kaldi.sh
+    7  chmod -R 777 install_kaldi.sh 
+    8  ./install_kaldi.sh
+    9  cd Kaldi_Workspace/
+   10  kaldi-master/
+   11  cd kaldi-master/egs/ASR_School_Workspace/
+   12  cd data
+   13  cd train/
+   14  ls
+   15  cd ../../
+   16  . path.sh
+   17  cd data
+   18  cd train/
+   19  cat wav.scp | less
+   20  cat wav.scp | awk '{print $1}'
+   21  cat wav.scp | awk '{print $1}' > utt
+   22  ls
+   23  cat wav.scp | awk '{print $1}'| cu -c 1-12 | less
+   24  cat wav.scp | awk '{print $1}'| cut -c 1-12 | less
+   25  cat wav.scp | awk '{print $1}'| cut -c 1-12 | less > spk
+   26  ls
+   27  paste utt spk > utt2spk
+   28  ls
+   29  cd ../test/
+   30  ls
+   31  cat wav.scp | awk '{print $1}' > utt
+   32  cat utt | cut -c 1-12 > spk
+   33  paste utt spk > utt2spk
+   34  gedit utt2spk 
+   35  cat spk 
+   36  cat spk | sort |uniq | wc -l
+   37  cd ../train/
+   38  cat spk | sort |uniq | wc -l
+   39  cd
+   40  cd Kal
+   41  cd /home/kunal/Kaldi_Workspace/kaldi-master/egs/ASR_School_Workspace/utils
+   42  utt2spk_to_spk2utt.pl
+   43  ls
+   44  chmod 777 *.pl
+   45  utt2spk_to_spk2utt.pl
+   46  gedit utt2spk_to_spk2utt.pl 
+   47  cd ../data/train/
+   48  ../../utils/utt2spk_to_spk2utt.pl utt2spk  > spk2utt
+   49  less spk2utt 
+   50  cd../../
+   51  cd ../../
+   52  chmod -R 777 *
+   53  cd data/train/
+   54  cd ../../
+   55  cd data/train/
+   56  cd ..
+   57  cd train/
+   58  cd ../test/
+   59  ../../utils/utt2spk_to_spk2utt.pl utt2spk  > spk2utt
+   60  gedit spk2utt 
+   61  cd..
+   62  cd ..
+   63  clear
+   64  ls
+   65  ./Create_ngram_LM.sh
+   66  compute-mfcc-feats 
+   67  utils/fix_data_dir.sh data/train
+   68  utils/fix_data_dir.sh data/test/
+   69  clear
+   70  steps/make_mfcc.sh --nj 5 data/train/ exp/make_mfcc/train mfcc
+   71  steps/make_mfcc.sh --nj 5 data/test/ exp/make_mfcc/test mfcc
+   72  copy-feats
+   73  cd mfcc/
+   74  copy-feats ark:raw_mfcc_train.1.ark
+   75  copy-feats ark:raw_mfcc_train.2.ark ark,t:raw_mfcc_train.2.txt
+   76  cd ..
+   77  steps/compute_cmvn_stats.sh data/train/ exp/make_mfcc/train/ mfcc
+   78  steps/compute_cmvn_stats.sh data/test/ exp/make_mfcc/test/ mfcc
+   79  utils/validate_data_dir.sh data/train/
+   80  utils/validate_data_dir.sh data/test/
+   81  history > ../../../../Desktop/history_kaldi_21_12_17.txt
+   82  . path
+   83  . path.sh
+   84  steps/train_mono.sh --nj 10 data/train/ data/lang_bigram/ exp/mono
+   85  gmm -info exp/mono/final.mdl
+   86  . path
+   87  . path.sh
+   88  clear
+   89  steps/decode.sh --nj 5 exp/mono/graph  data/test exp/mono/decode
+   90  cat wer_*|grep "WER"|sort -n
+   91  cd exp/mono/decode/
+   92  cat wer_*|grep "WER"|sort -n
+   93  history > cd /home/kunal/Desktop/history_22_12_17.txt
+   94  history>history_22_12_17.txt
+   95  steps/align_si.sh --boost-silence 1.25 --nj 10 data/train data/lang_bigram exp/mono exp/mono_ali
+   96  steps/train_deltas.sh --cmd 2000 16000 data/lang_bigram exp/mono_ali/ exp/tri
+   97  steps/train_deltas.sh 2000 16000 data/lang_bigram exp/mono_ali/ exp/tri
+   98  clear
+   99  steps/train_deltas.sh 2000 16000 data/train_data data/lang_bigram exp/mono_ali/ exp/tri
+  100  steps/train_deltas.sh 2000 16000 data/train data/lang_bigram exp/mono_ali exp/tri
+  101  gmm-info exp/tri/final.mdl
+  102  gmm -info exp/tri/final.mdl
+  103  gmm-info exp/tri/final.mdl
+  104  gmm-info exp/tri/final.mdl
+  105  gmm-copy --binary=false exp/tri/final.mdl exp/tri/final.txt
+  106  vi final.txt
+  107  vi exp/tri/final.txt
+  108  utils/mkgraph.sh data/lang_bigram exp/tri exp/tri/graph
+  109  steps/decode.sh --nj 5 exp/tri/graph data/text exp/tri/decode
+  110  steps/decode.sh --nj 5 exp/tri/graph data/test exp/tri/decode
+  111  cd exp
+  112  cd tri
+  113  cd decode/
+  114  cat wer_*|grep 'WER'|sort -n
+  115  cd ../../..
+  116  steps/align_si.sh --nj 10 data/train/ data/lang_bigram exp/tri exp/tri/ali
+  117  steps/nnet2/train_tanh.sh --initia-learning-rate 0.015 --final-learning-rate 0.002 --num-hidden-layers 1 --minibatach-size 128 --hidden-layer-dim 256 --num-jobs--nnet 10 --num-epochs 5 data/train data/lang_bigram exp/tri/ali exp/DNN
+  118  steps/nnet2/train_tanh.sh --initial-learning-rate 0.015 --final-learning-rate 0.002 --num-hidden-layers 1 --minibatach-size 128 --hidden-layer-dim 256 --num-jobs--nnet 10 --num-epochs 5 data/train data/lang_bigram exp/tri/ali exp/DNN
+  119  clear
+  120  steps/nnet2/train_tanh.sh --initial-learning-rate 0.015 --final-learning-rate 0.002 --num-hidden-layers 1 --minibatach-size 128 --hidden-layer-dim 256 --num-jobs-nnet 10 --num-epochs 5 data/train data/lang_bigram exp/tri/ali exp/DNN
+  121  steps/nnet2/train_tanh.sh --initial-learning-rate 0.015 --final-learning-rate 0.002 --num-hidden-layers 1 --minibatch-size 128 --hidden-layer-dim 256 --num-jobs-nnet 10 --num-epochs 5 data/train data/lang_bigram exp/tri/ali exp/DNN
+  122  . path.sh
+  123  steps/nnet2/train_tanh.sh --initial-learning-rate 0.015 --final-learning-rate 0.002 --num-hidden-layers 1 --minibatch-size 128 --hidden-layer-dim 256 --num-jobs-nnet 10 --num-epochs 5 data/train data/lang_bigram exp/tri/ali exp/DNN
+  124  steps/nnet2/decode.sh --nj 5 exp/tri/graph data/test exp/DNN/decode
+  125  local/score.sh data/test data/lang_bigram exp/DNN/decode
+  126  clear
+  127  cd ../HindiASR/
+  128  . path.sh
+  129  ls
+  130  cd data/train
+  131  cat spk.txt
+  132  cat spk
+  133  cat spk| cut -c 1-7
+  134  cat spk| cut -c 1-7>spk1
+  135  cd ../test
+  136  cat spk| cut -c 1-7
+  137  cat spk| cut -c 1-7>spk1
+  138  paste utt spk > utt2spk
+  139  ../../utils/utt2spk_to_spk2utt.pl utt2spk > spk2utt
+  140  cd ..
+  141  cd train/
+  142  paste utt spk > utt2spk
+  143  ../../utils/utt2spk_to_spk2utt.pl utt2spk > spk2utt
+  144  cd ../..
+  145  ls
+  146  Create_ngram_LM.sh 
+  147  ./Create_ngram_LM.sh 
+  148  cd data/
+  149  chmod +x lang_bigram/
+  150  rm lang_bigram/
+  151  rm -R lang_bigram/
+  152  cd ..
+  153  ./Create_ngram_LM.sh 
+  154  rm -R lang_bigram/
+  155  cd data/
+  156  rm -R lang_bigram/
+  157  cd local/
+  158  rm -R lang_bigram/
+  159  cd ../..
+  160  ./Create_ngram_LM.sh 
+  161  compute-mfcc-feats 
+  162  ls
+  163  utils/fix_data_dir.sh data/train
+  164  utils/fix_data_dir.sh data/test
+  165  steps/make_mfcc.sh --nj 3 data/train exp/make_mfcc/train/mfcc
+  166  steps/make_mfcc.sh --nj 3 data/test exp/make_mfcc/test/mfcc
+  167  steps/compute_cmvn_stats.sh data/train exp/make_mfcc/train mfcc
+  168  steps/compute_cmvn_stats.sh data/test exp/make_mfcc/test mfcc
+  169  utils/validate_data_dir.sh data/train
+  170  utils/validate_data_dir.sh data/test
+  171  steps/train_mono.sh --nj 3 data/train data/lang_bigram exp/mono
+  172  utils/mkgraph.sh --mono data/lang_bigram exp/mono exp/mono/graph
+  173  steps/decode.sh --nj 3 exp/mono/graph data/test exp/mono/decode
+  174  steps/decode.sh --nj 1 exp/mono/graph data/test exp/mono/decode
+  175  cd exp/mono/decode/
+  176  cat wer_*|grep "WER"| sort -n
+  177  cd ../..
+  178  cd ..\
+  179  cd ..
+  180  steps/align_si.sh --boost-silence 1.25 --nj 3 data/train data/lang_bigram exp/mono exp/mono_ali
+  181  steps/train_deltas.sh 1000 8000 data/train data/lang_bigram exp/mono_ali exp/tri
+  182  utils/mkgraph.sh data/lang_bigram exp/tri exp/tri/graph
+  183  steps/decode.sh --nj 1 exp/tri/graph data/test exp/tri/decode
+  184  cd exp/tri/decode/
+  185  cat wer_*| grep "WER" | sort -n
+  186  steps/train_deltas.sh 500 4000 data/train data/lang_bigram exp/mono_ali exp/tri
+  187  cd ../../..
+  188  steps/train_deltas.sh 500 4000 data/train data/lang_bigram exp/mono_ali exp/tri
+  189  utils/mkgraph.sh data/lang_bigram exp/tri exp/tri/graph
+  190  steps/decode.sh --nj 1 exp/tri/graph data/test exp/tri/decode
+  191  cd exp/tri/decode/
+  192  cat wer_*| grep "WER" | sort -n
+  193  cd ../..
+  194  cd ..
+  195  gmm-info exp/tri/final.mdl 
+  196  steps/train_deltas.sh 750 6000 data/train data/lang_bigram exp/mono_ali exp/tri
+  197  gmm-info exp/tri/final.mdl 
+  198  cd exp/tri/decode/
+  199  cat wer_*| grep "WER" | sort -n
+  200  steps/train_deltas.sh 500 8000 data/train data/lang_bigram exp/mono_ali exp/tri
+  201  steps/train_deltas.sh 500 8000 data/train data/lang_bigram exp/mono_ali exp/tri
+  202  cd exp/tri/decode/
+  203  cat wer_*| grep "WER" | sort -n
+  204  cd ../../..
+  205  steps/train_deltas.sh 2000 32000 data/train data/lang_bigram exp/mono_ali exp/tri
+  206  cd exp/tri/decode/
+  207  cat wer_*| grep "WER" | sort -n
+  208  steps/decode.sh --nj 1 exp/tri/graph data/test exp/tri/decode
+  209  cd ../../..
+  210  steps/decode.sh --nj 1 exp/tri/graph data/test exp/tri/decode
+  211  utils/mkgraph.sh data/lang_bigram exp/tri exp/tri/graph
+  212  steps/decode.sh --nj 1 exp/tri/graph data/test exp/tri/decode
+  213  cd exp/tri/decode/
+  214  cat wer_*| grep "WER" | sort -n
+  215  cd ../../..
+  216  gmm-info exp/tri/final.mdl
+  217  steps/train_deltas.sh 800 16000 data/train data/lang_bigram exp/mono_ali exp/tri
+  218  utils/mkgraph.sh data/lang_bigram exp/tri exp/tri/graph
+  219  steps/decode.sh --nj 1 exp/tri/graph data/test exp/tri/decode
+  220  cd exp/tri/decode/
+  221  cat wer_*| grep "WER" | sort -n
+  222  gmm-info exp/tri/final.mdl
+  223  cd ../../..
+  224  gmm-info exp/tri/final.mdl
+  225  steps/nnet2/train_tanh.sh --initial-learning-rate 0.015 --final-learning-rate 0.002 --num-hidden-layers 1 --minibatch-size 128 --hidden-layer-dim 256 --num-jobs-nnet 10 --num-epochs 5 data/train data/lang_bigram exp/mono_ali exp/DNN
+  226  steps/nnet2/decode.sh --nj 1 exp/mono/graph data/test exp/DNN/decode
+  227  local/score.sh data/test data/lang_bigram exp/DNN/decode
+  228  cd exp/DNN/decode/
+  229  cat wer_*| grep "WER" | sort -n
+  230  local/score.sh data/test data/lang_bigram exp/DNN/decode
+  231  cd
+  232  cd desktop
+  233  ls
+  234  cd /home/kunal
+  235  cd ..
+  236  cd kunal/
+  237  cd Desktop/
+  238  history > 23-12.txt
+  239  . path.sh
+  240  cd data/train/
+  241  paste utt spk > utt2spk
+  242  cd ../..
+  243  utils/utt2spk_to_spk2utt.pl utt2spk > spk2utt
+  244  cd data/train/
+  245  ../../utils/utt2spk_to_spk2utt.pl utt2spk > spk2utt
+  246  cd ..
+  247  cd test/
+  248  paste utt spk > utt2spk
+  249  ../../utils/utt2spk_to_spk2utt.pl utt2spk > spk2utt
+  250  cd ../..
+  251  ./Create_ngram_LM.sh
+  252  utils/fix_data_dir.sh data/train
+  253  utils/fix_data_dir.sh data/test
+  254  steps/make_mfcc.sh --nj 4 data/train exp/make_mfcc/train/mfcc
+  255  steps/make_mfcc.sh --nj 4 data/test exp/make_mfcc/test/mfcc
+  256  steps/compute_cmvn_stats.sh data/train exp/make_mfcc/train mfcc
+  257  steps/compute_cmvn_stats.sh data/test exp/make_mfcc/test mfcc
+  258  utils/validate_data_dir.sh data/train
+  259  utils/validate_data_dir.sh data/test
+  260  cd steps/
+  261  cd ..
+  262  steps/train_mono.sh --nj 4 data/train data/lang_bigram exp/mono
+  263  utils/mkgraph.sh --mono data/lang_bigram exp/mono exp/mono/graph
+  264  steps/decode.sh --nj 4 exp/mono/graph data/test exp/mono/decode
+  265  cd exp/mono/decode/
+  266  cat wer_*| grep "WER" | sort -n
+  267  cd ../../..
+  268  steps/align_si.sh --boost-silence 1.25 --nj 4 data/train data/lang_bigram exp/mono exp/mono_ali
+  269  gmm-info exp/mono/final.mdl
+  270  steps/train_deltas.sh 500 8000 data/train data/lang_bigram exp/mono_ali exp/tri
+  271  utils/mkgraph.sh data/lang_bigram exp/tri exp/tri/graph
+  272  steps/decode.sh --nj 4 exp/tri/graph data/test exp/tri/decode
+  273  cd exp/tri/decode
+  274  cat wer_*| grep "WER" | sort -n
+  275  cd ../../..
+  276  steps/train_deltas.sh 2000 32000 data/train data/lang_bigram exp/mono_ali exp/tri
+  277  utils/mkgraph.sh data/lang_bigram exp/tri exp/tri/graph
+  278  steps/decode.sh --nj 4 exp/tri/graph data/test exp/tri/decode
+  279  cd exp/tri/decode
+  280  cat wer_*| grep "WER" | sort -n
+  281  cd ../../..
+  282  steps/align_si.sh --nj 4 data/train data/lang_bigram exp/tri exp/tri_ali
+  283  steps/nnet2/train_tanh.sh --initial-learning-rate 0.015 --final-learning-rate 0.002 --num-hidden-layers 3 --minibatch-size 128 --hidden-layer-dim 512 --num-jobs-nnet 10 --num-epochs 15 data/train data/lang_bigram exp/tri_ali exp/DNN
+  284  steps/nnet2/decode.sh --nj 4 exp/tri/graph data/test exp/DNN/decode
+  285  local/score.sh data/test data/lang_bigram exp/DNN/decode
+  286  cd exp/DNN/decode
+  287  cat wer_*| grep "WER" | sort -n
+  288  history> history24/12.txt
+  289  history> history24_12.txt

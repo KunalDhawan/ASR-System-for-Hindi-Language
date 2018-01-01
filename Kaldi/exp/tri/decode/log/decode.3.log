@@ -1,0 +1,92 @@
+# gmm-latgen-faster --max-active=7000 --beam=13.0 --lattice-beam=6.0 --acoustic-scale=0.083333 --allow-partial=true --word-symbol-table=exp/tri/graph/words.txt exp/tri/final.mdl exp/tri/graph/HCLG.fst "ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split4/3/utt2spk scp:data/test/split4/3/cmvn.scp scp:data/test/split4/3/feats.scp ark:- | add-deltas  ark:- ark:- |" "ark:|gzip -c > exp/tri/decode/lat.3.gz" 
+# Started at Sat Dec 23 22:57:58 IST 2017
+#
+gmm-latgen-faster --max-active=7000 --beam=13.0 --lattice-beam=6.0 --acoustic-scale=0.083333 --allow-partial=true --word-symbol-table=exp/tri/graph/words.txt exp/tri/final.mdl exp/tri/graph/HCLG.fst 'ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split4/3/utt2spk scp:data/test/split4/3/cmvn.scp scp:data/test/split4/3/feats.scp ark:- | add-deltas  ark:- ark:- |' 'ark:|gzip -c > exp/tri/decode/lat.3.gz' 
+apply-cmvn --utt2spk=ark:data/test/split4/3/utt2spk scp:data/test/split4/3/cmvn.scp scp:data/test/split4/3/feats.scp ark:- 
+add-deltas ark:- ark:- 
+hi2505M0081 dhobina jaba sokara utxhatii to dekhatii ki cookaa saapha padxaa hei oora bartana mamqje 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2505M0081 is -8.31631 over 698 frames.
+hi2505M0082 yahaamq se lagabhaga paamqca miila daksxinxa pashcima meq katxaghara gaamqva hei 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2505M0082 is -7.60708 over 698 frames.
+hi2505M0083 vaha thodxae samaya taka cupa rahaa phira bolaa hamaaraa itanii dukhii mata ho 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2505M0083 is -7.98904 over 698 frames.
+hi2505M0084 dhanurdhaarinxii ladxaqkii daravaaje ke saamane ghaata lagaae beitxhii thii 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2505M0084 is -7.9144 over 698 frames.
+hi2505M0085 koii oora upaaya to thaa nahiiq isalie vaha jaana chodxaq jaqgala meq jaa basaa 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2505M0085 is -7.77463 over 698 frames.
+hi2505M0086 aadhii raata hote kii baaghoq kii dahaadxaq oora bhedxaiyoq kii ciikha sunaayii dene lagatii hei 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2505M0086 is -7.9812 over 698 frames.
+hi2505M0087 usane phira vahii pataa baagha ke shava para ragadxaqa oora vaha punarjiivita ho gayaa 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2505M0087 is -7.8981 over 698 frames.
+hi2505M0088 saqgrahaalaya meq deshabhara se ikatxhtxhii kii gayii kalaa kii amuulya vastueq rakhii gayii heiq 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2505M0088 is -7.96723 over 698 frames.
+hi2505M0089 paartxii sattaa meq hei 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2505M0089 is -6.86502 over 698 frames.
+hi2505M0090 gaamqva ke baalaka baalikaaoq meq isa vilaksxanxa khela ne abhuutapuurva saahasa bhara diyaa 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2505M0090 is -7.96402 over 698 frames.
+hi2505M0091 dhobina jaba sokara utxhatii to dekhatii ki cookaa saapha padxaa hei oora bartana mamqje hue hei 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2505M0091 is -7.83158 over 698 frames.
+hi2505M0092 yahaamq se lagabhaga paamqca miila pashcima daksxinxa meq katxaghara gaamqva hei 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2505M0092 is -7.33359 over 698 frames.
+hi2505M0093 ve pradesha kaaqgresa ke alpasaqkhyaka sela ke mukhiyaa heiq 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2505M0093 is -7.49243 over 698 frames.
+hi2505M0094 puure desha meq isase dxaakasevaa lagabhaga txhappa ho gayii hei 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2505M0094 is -7.26917 over 698 frames.
+hi2505M0095 saqbhava hei yaha maamalaa nirnxaya ke lie keqdriiya maqtrii maqdxala ke saamane rakhaa jaae 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2505M0095 is -7.77569 over 698 frames.
+hi2505M0096 bhagata ke anusaara mahattvapuurnxa kaauqtxaroq para kaama ho rahaa hei 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2505M0096 is -7.43561 over 698 frames.
+hi2505M0097 suqdaralaala patxavaa sarakaara ne nae jailoq ke gatxhana kii ghosxanxaa kii thii 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2505M0097 is -7.62788 over 698 frames.
+hi2505M0098 eisaa saqketa hei kii patxasana na ne meq eise ghuse anya tatvoq kaii bhii pahacaana kii thii 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2505M0098 is -7.86533 over 698 frames.
+hi2505M0099 yasa ke modii stxiilsa pheiktxarii meq janavarii se taalaabaqdii lagii huyii hei 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2505M0099 is -7.69329 over 698 frames.
+hi2505M0100 mahaaraanxaa vikramaaditya kaa raaja bhii to eisaa nahiiq thaa ki loga unase prema rakhate 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2505M0100 is -7.93963 over 698 frames.
+hi2508M0101 dhobina jaba sokara utxhatii to dekhatii ki cookaa saapha padxaa hei oora bartana mamqje hue hei 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2508M0101 is -7.23491 over 698 frames.
+hi2508M0102 yahaamq se lagabhaga paamqca miila daksxinxa pashcima meq katxaghara gaamqva hei 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2508M0102 is -7.21145 over 698 frames.
+hi2508M0103 yaha maqdxapa lagabhaga dasa phutxa uumqce gola staqbhoq para txikaa hei 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2508M0103 is -7.70257 over 698 frames.
+hi2508M0104 alabattaa kaii oora apsaraaoq kii muurtiyoq apane puure veibhava ke saatha kadxaii heiq 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2508M0104 is -8.11782 over 698 frames.
+hi2508M0105 jaiqdagii ika kaamqtxaa hei cubhanaa hii isakii kahaanii hei 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2508M0105 is -7.51388 over 698 frames.
+hi2508M0106 aalasii manusxya paakhaqdxii hotaa hei 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2508M0106 is -7.15439 over 698 frames.
+hi2508M0107 paartxii ko nyaaya rahii hei kyaa 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2508M0107 is -7.1905 over 698 frames.
+hi2508M0108 bhaarata meq yaha saba saadhana upalabdha hei 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2508M0108 is -7.12713 over 698 frames.
+hi2508M0109 uttara spasxtxa hei 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2508M0109 is -6.93717 over 698 frames.
+hi2508M0110 cadxdxaa bhagavaan nahiiq the kii unake ika nigaaha dekha lene se amruta barasa jaataa 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2508M0110 is -8.03854 over 698 frames.
+hi2508M0111 dhobina jaba sokara utxhatii to dekhatii ki cookaa saapha padxaa hei oora bartana mamqje hue hei 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2508M0111 is -7.31513 over 698 frames.
+hi2508M0112 yahaamq se lagabhaga paamqca miila daksxinxa pashcima meq katxaghara gaamqva hei 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2508M0112 is -6.97466 over 698 frames.
+hi2508M0113 inakaa shilpa sooqdarya bhuuta kaala meq banii muurtiyoq meq milataa hei 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2508M0113 is -7.69211 over 698 frames.
+hi2508M0114 pradhaana shivaalaya ke baahara lagabhaga biisa phutxa lambaaii kaa gola maqdxapa hei 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2508M0114 is -7.97806 over 698 frames.
+hi2508M0115 saata soo varsxa puurva ke lagabhaga vastra udyoga patxasana udyoga oora koyalaa udyoga aarambha huaa 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2508M0115 is -8.52054 over 698 frames.
+hi2508M0116 usane apane baabaa se kaha diyaa kii meq isa pacaraqgii vaalii se hii vivaaha karuumqgaa 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2508M0116 is -7.84717 over 698 frames.
+hi2508M0117 paartxii ko aaqdolana karanaa caahie 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2508M0117 is -7.03722 over 698 frames.
+LOG (apply-cmvn[5.3]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 40 utterances, errors on 0
+hi2508M0118 aaiisiiesaii skuula ke baccoq kaa bhii parinxaama aksara behatara nahiiq hotaa hei 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2508M0118 is -7.71117 over 698 frames.
+hi2508M0119 ise maadaka sthaana shrruqgaara kahaa hei 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2508M0119 is -7.07533 over 698 frames.
+hi2508M0120 yaha shabda una dinoq iqgleiqdxa ke eka samaacaara patra ne likhe the 
+LOG (gmm-latgen-faster[5.3]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:286) Log-like per frame for utterance hi2508M0120 is -7.64648 over 698 frames.
+LOG (gmm-latgen-faster[5.3]:main():gmm-latgen-faster.cc:176) Time taken 113.229s: real-time factor assuming 100 frames/sec is 0.405549
+LOG (gmm-latgen-faster[5.3]:main():gmm-latgen-faster.cc:179) Done 40 utterances, failed for 0
+LOG (gmm-latgen-faster[5.3]:main():gmm-latgen-faster.cc:181) Overall log-likelihood per frame is -7.61419 over 27920 frames.
+# Accounting: time=114 threads=1
+# Ended (code 0) at Sat Dec 23 22:59:52 IST 2017, elapsed time 114 seconds

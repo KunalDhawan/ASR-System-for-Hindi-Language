@@ -1,0 +1,774 @@
+!SIL !SIL sil_S
+<eps> <eps> sil
+aa aa aa_S
+aacaarya aacaarya aa_B c_I aa_I r_I y_I a_E
+aadhaara aadhaara aa_B dh_I aa_I r_E
+aadhaarashilaa aadhaarashilaa aa_B dh_I aa_I r_I a_I sh_I i_I l_I aa_E
+aadhii aadhii aa_B dh_I ii_E
+aadivaasii aadivaasii aa_B d_I i_I w_I aa_I s_I ii_E
+aaiisiiesaii aaiisiiesaii aa_B ii_I s_I ii_I ee_I s_I a_I ii_E
+aaja aaja aa_B j_I aa_E
+aajaqada aajaqada aa_B z_I aa_I d_E
+aakaasha aakaasha aa_B k_I aa_I sh_E
+aakhira aakhira aa_B kh_I i_I r_E
+aakrusxtxa aakrusxtxa aa_B k_I r_I u_I sx_I tx_E
+aalasii aalasii aa_B l_I s_I ii_E
+aapane aapane aa_B p_I n_I ee_E
+aaqdolana aaqdolana aa_B n_I d_I o_I l_I a_I n_E
+aarambha aarambha aa_B r_I a_I m_I bh_E
+aashcarya aashcarya aa_B sh_I c_I a_I r_I y_E
+aashiirvaada aashiirvaada aa_B sh_I ii_I r_I w_I aa_I d_E
+aastiina aastiina aa_B s_I t_I ii_I n_E
+aavaaja aavaaja aa_B w_I aa_I j_E
+aayaa aayaa aa_B y_I aa_E
+aayii aayii aa_B y_I ii_E
+aba aba a_B b_E
+abhuutapuurva abhuutapuurva a_B bh_I uu_I t_I a_I p_I uu_I r_I w_E
+acchaa acchaa a_B c_I ch_I aa_E
+acchii acchii a_B c_I ch_I ii_E
+adhikaaqs adhikaaqs a_B dh_I i_I k_I aa_I nj_I sh_E
+adhikaaqsha adhikaaqsha a_B dh_I i_I k_I aa_I nj_I sh_I aa_E
+advitiiya advitiiya a_B d_I w_I i_I t_I ii_I y_E
+agale agale a_B g_I a_I l_I ee_E
+aksara aksara a_B k_I s_I a_I r_E
+alabattaa alabattaa a_B l_I a_I b_I a_I tt_I aa_E
+alookika alookika a_B l_I au_I k_I i_I k_E
+alpasaqkhyaka alpasaqkhyaka a_B l_I p_I a_I s_I a_I ng_I kh_I y_I a_I k_E
+ammaa ammaa a_B mm_I aa_E
+amruta amruta a_B m_I r_I u_I t_E
+amuulya amuulya a_B m_I uu_I l_I y_E
+anuccheda anuccheda a_B n_I u_I c_I ch_I ee_I d_E
+anucheda anucheda a_B n_I u_I c_I ch_I ee_I d_E
+anusaara anusaara a_B n_I u_I s_I aa_I r_E
+anya anya a_B n_I y_E
+apanaa apanaa a_B p_I a_I n_I aa_E
+apane apane a_B p_I n_I e_E
+apanii apanii a_B p_I n_I ii_E
+aparaadhii aparaadhii a_B p_I r_I aa_I dh_I ii_E
+apsaraaoq apsaraaoq a_B p_I s_I a_I r_I aa_I on_E
+ashubha ashubha a_B sh_I u_I bh_E
+baabaa baabaa b_B aa_I b_I aa_E
+baada baada b_B aa_I d_E
+baagha baagha b_B aa_I gh_E
+baaghoq baaghoq b_B aa_I gh_I on_E
+baahara baahara b_B aa_I h_I a_I r_E
+baaki baaki b_B aa_I k_I i_E
+baalaka baalaka b_B aa_I l_I a_I k_E
+baalikaaoq baalikaaoq b_B aa_I l_I i_I k_I aa_I on_E
+baaraha baaraha b_B aa_I r_I a_I h_E
+baare baare b_B aa_I r_I e_E
+baata baata b_B aa_I t_E
+baataciita baataciita b_B aa_I t_I a_I c_I ii_I t_E
+bacapana bacapana b_B a_I c_I a_I p_I a_I n_E
+baccoq baccoq b_B a_I cc_I on_E
+badala badala b_B a_I d_I a_I l_E
+badxaa badxaa b_B a_I dx_I aa_E
+badxae badxae b_B a_I dx_I ee_E
+badxaii badxaii b_B a_I dx_I a_I ii_E
+badxaqa badxaqa b_B a_I dx_I aa_E
+badxhaeqge badxhaeqge b_B a_I dxh_I aa_I ee_I ng_I g_I ee_E
+badxhaqte badxhaqte b_B a_I dxh_I a_I t_I ee_E
+bahaneq bahaneq b_B ee_I h_I n_I ee_E
+bahuta bahuta b_B a_I h_I u_I t_E
+banaa banaa b_B a_I n_I aa_E
+banii banii b_B a_I n_I ii_E
+bapootii bapootii b_B a_I p_I au_I t_I ii_E
+baqdhaayaa baqdhaayaa b_B a_I n_I dh_I aa_I y_I aa_E
+baqdhu baqdhu b_B a_I ng_I dh_I u_E
+baraata baraata b_B aa_I r_I aa_I t_E
+barasa barasa b_B a_I r_I a_I s_E
+bartana bartana b_B a_I r_I t_I a_I n_E
+basaa basaa b_B a_I s_I aa_E
+behataashaa behataashaa b_B ee_I h_I a_I t_I aa_I sh_I aa_E
+behatara behatara b_B ee_I h_I a_I t_I a_I r_E
+beitxhe beitxhe b_B ei_I txh_I ee_E
+beitxhii beitxhii b_B ei_I txh_I ii_E
+betxara betxara b_B e_I tx_I a_I r_E
+bhaaga bhaaga bh_B aa_I g_E
+bhaage bhaage bh_B aa_I g_I e_E
+bhaamqtii bhaamqtii bh_B aa_I ng_I t_I i_E
+bhaarata bhaarata bh_B aa_I r_I a_I t_E
+bhaasxaa bhaasxaa bh_B aa_I sx_I aa_E
+bhaatii bhaatii bh_B aa_I t_I ii_E
+bhagata bhagata bh_B a_I g_I a_I t_E
+bhagatajii bhagatajii bh_B a_I g_I a_I t_I a_I j_I ii_E
+bhagavaan bhagavaan bh_B a_I g_I a_I w_I aa_I n_E
+bhagavaana bhagavaana bh_B a_I g_I w_I aa_I n_E
+bhara bhara bh_B a_I r_E
+bhare bhare bh_B a_I r_I ee_E
+bhedxaiyoq bhedxaiyoq bh_B e_I dx_I i_I y_I on_E
+bheja bheja bh_B e_I j_E
+bhii bhii bh_B ii_E
+bhuula bhuula bh_B uu_I l_E
+bhuumi bhuumi bh_B uu_I m_I i_E
+bhuuta bhuuta bh_B uu_I t_E
+biica biica b_B ii_I c_E
+biijoq biijoq b_B ii_I j_I on_E
+biimaarii biimaarii b_B ii_I m_I aa_I r_I ii_E
+biisa biisa b_B ii_I s_E
+bijaliyaamq bijaliyaamq b_B i_I j_I l_I i_I y_I aan_E
+bilakula bilakula b_B i_I l_I k_I u_I l_E
+bistara bistara b_B i_I s_I t_I a_I r_E
+bolaa bolaa b_B o_I l_I aa_E
+bolate bolate b_B o_I l_I t_I ee_E
+botala botala b_B o_I t_I a_I l_E
+bulaayaa bulaayaa b_B u_I l_I aa_I y_I a_E
+buudxhaii buudxhaii b_B uu_I dxh_I ii_E
+buunda buunda b_B uu_I n_I d_E
+byaaja byaaja b_B y_I aa_I j_E
+caahataa caahataa c_B aa_I h_I a_I t_I aa_E
+caahatii caahatii c_B aa_I h_I a_I t_I ii_E
+caahie caahie c_B aa_I h_I i_I ee_E
+caara caara c_B aa_I r_E
+caava caava c_B aa_I w_E
+caaya caaya c_B aa_I y_E
+cadxdxaa cadxdxaa c_B a_I ddx_I aa_E
+cadxdxhaa cadxdxhaa c_B a_I ddx_I aa_E
+cadxhaqa cadxhaqa c_B a_I dxh_I aa_E
+cadxhe cadxhe c_B a_I dxh_I a_E
+cale cale c_B a_I l_I ee_E
+calegaa calegaa c_B a_I l_I e_I g_I aa_E
+calii calii c_B a_I l_I ii_E
+calo calo c_B a_I l_I o_E
+capadxaq capadxaq c_B a_I p_I a_I dx_E
+caraagaahoq caraagaahoq c_B a_I r_I aa_I g_I aa_I h_I on_E
+catura catura c_B a_I t_I u_I r_E
+cavannii cavannii c_B a_I w_I a_I n_I n_I ii_E
+chaha chaha ch_B a_I h_I a_E
+chatipuurti chatipuurti ch_B a_I t_I i_I p_I uu_I r_I t_I i_E
+chatxhaa chatxhaa ch_B a_I txh_I aa_E
+chodxaq chodxaq ch_B o_I dxq_E
+chodxaqa chodxaqa ch_B o_I dxq_I aa_E
+chotxaa chotxaa ch_B o_I tx_I aa_E
+ciikha ciikha c_B ii_I kh_E
+coodharii coodharii c_B ou_I dh_I r_I ii_E
+cookaa cookaa c_B ou_I k_I aa_E
+coothe coothe c_B ou_I th_I ee_E
+cotxa cotxa c_B o_I tx_E
+cubhanaa cubhanaa c_B u_I bh_I a_I n_I aa_E
+cupa cupa c_B u_I p_E
+cuudxaqamanxi cuudxaqamanxi c_B uu_I dxq_I aa_I m_I a_I nx_I i_E
+cuuq cuuq c_B uun_E
+daastaana daastaana d_B aa_I s_I t_I aa_I n_E
+dabaava dabaava d_B a_I b_I aa_I w_E
+dahaadxaq dahaadxaq d_B a_I h_I aa_I dxq_E
+daksxinxa daksxinxa d_B a_I k_I sx_I i_I nx_E
+dara dara d_B a_I r_E
+daravaaje daravaaje d_B a_I r_I w_I aa_I j_I ee_E
+dasa dasa d_B a_I s_E
+de de d_B ee_E
+deivii deivii d_B ei_I w_I ii_E
+dekha dekha d_B ee_I kh_E
+dekhaa dekhaa d_B ee_I kh_I aa_E
+dekhabhaala dekhabhaala d_B ee_I kh_I a_I bh_I aa_I l_E
+dekhakara dekhakara d_B ee_I kh_I a_I k_I a_I r_E
+dekhate dekhate d_B ee_I kh_I t_I ee_E
+dekhatii dekhatii d_B ee_I kh_I t_I ii_E
+dekho dekho d_B ee_I kh_I o_E
+denaa denaa d_B ee_I n_I aa_E
+dene dene d_B ee_I n_E
+desha desha d_B ee_I sh_E
+deshabhara deshabhara d_B ee_I sh_I a_I bh_I a_I r_E
+detaa detaa d_B ee_I t_I aa_E
+detii detii d_B ee_I t_I ii_E
+dhaaranxaa dhaaranxaa dh_B aa_I r_I a_I nx_I aa_E
+dhanii dhanii dh_B a_I n_I ii_E
+dhanurdhaarinxii dhanurdhaarinxii dh_B a_I n_I u_I r_I dh_I aa_I r_I i_I nx_I ii_E
+dharma dharma dh_B a_I r_I m_E
+dhiiraja dhiiraja dh_B ii_I r_I a_I j_E
+dhiire dhiire dh_B ii_I r_I ee_E
+dhobina dhobina dh_B o_I b_I i_I n_E
+dhulavaakara dhulavaakara dh_B u_I l_I w_I aa_I k_I a_I r_E
+dhyeya dhyeya dh_B y_I ee_I y_E
+dii dii d_B ii_E
+diipacaqda diipacaqda d_B ii_I p_I a_I c_I a_I n_I d_I axx_E
+diivaanajii diivaanajii d_B ii_I w_I aa_I n_I j_I ii_E
+dikhaa dikhaa d_B i_I kh_I aa_E
+dikhaaii dikhaaii d_B i_I kh_I aa_I ii_E
+dikhaayii dikhaayii d_B i_I kh_I aa_I y_I ii_E
+dila dila d_B i_I l_E
+dimaagii dimaagii d_B i_I m_I aa_I g_I ii_E
+dina dina d_B i_I n_E
+dinoq dinoq d_B i_I n_I on_E
+diyaa diyaa d_B i_I y_I aa_E
+do do d_B o_E
+donoq donoq d_B o_I n_I on_E
+doodxaqkara doodxaqkara d_B au_I dx_I a_I k_I a_I r_E
+doore doore d_B au_I r_I ee_E
+dopahara dopahara d_B o_I p_I a_I h_I a_I r_E
+dostii dostii d_B o_I s_I t_I ii_E
+drushya drushya d_B r_I u_I sh_I y_I a_E
+drusxtxi drusxtxi d_B r_I u_I sx_I tx_I i_E
+dukhii dukhii d_B u_I kh_I ii_E
+duudha duudha d_B uu_I dh_E
+duura duura d_B uu_I r_E
+duusaraa duusaraa d_B uu_I s_I a_I r_I aa_E
+dxaakasevaa dxaakasevaa dx_B aa_I k_I a_I s_I ee_I w_I aa_E
+dxaalakara dxaalakara dx_B aa_I l_I k_I a_I r_I a_E
+dxaale dxaale dx_B aa_I l_I ee_E
+dxedxhaq dxedxhaq dx_B ee_I dxhq_E
+eicchika eicchika ei_B cch_I i_I k_E
+eisaa eisaa ei_B s_I aa_E
+eise eise ai_B s_I ee_E
+eka eka e_B k_E
+ekadama ekadama e_B k_I a_I d_I a_I m_E
+ekadxaq ekadxaq e_B k_I a_I dxq_E
+gaamqva gaamqva g_B aa_I on_E
+gaamqva gaamqva g_B aan_I w_E
+gae gae g_B a_I ee_E
+gaii gaii g_B a_I ii_E
+gale gale g_B a_I l_I ee_E
+gaqguu gaqguu g_B a_I ng_I g_I uu_E
+garimaa garimaa g_B a_I r_I i_I m_I aa_E
+gatxhana gatxhana g_B a_I txh_I a_I n_E
+gayaa gayaa g_B a_I y_I aa_E
+gayii gayii g_B a_I y_I ii_E
+ghaasa ghaasa gh_B aa_I s_E
+ghaata ghaata gh_B aa_I t_E
+ghaayala ghaayala gh_B aa_I y_I a_I l_E
+ghamaqdxii ghamaqdxii gh_B a_I m_I a_I n_I d_I ii_E
+ghaqtxe ghaqtxe gh_B ax_I t_I ee_E
+ghara ghara gh_B a_I r_E
+ghatxanaa ghatxanaa gh_B a_I tx_I a_I n_I aa_E
+ghatxita ghatxita gh_B a_I tx_I i_I t_E
+ghiisuu ghiisuu gh_B ii_I s_I uu_E
+ghodxe ghodxe gh_B o_I dx_I ee_E
+ghosxanxaa ghosxanxaa gh_B o_I sx_I nx_I aa_E
+ghosxita ghosxita gh_B o_I sx_I i_I t_E
+ghuse ghuse gh_B u_I s_I ee_E
+ghutxa ghutxa gh_B u_I tx_E
+ghuumakara ghuumakara gh_B uu_I m_I k_I a_I r_E
+gira gira g_B i_I r_E
+girane girane g_B i_I r_I aa_I n_I e_E
+girjaaghara girjaaghara g_B i_I r_I j_I aa_I gh_I a_I r_E
+gola gola g_B o_I l_E
+gurudeva gurudeva g_B u_I r_I u_I d_I ee_I v_E
+haatha haatha h_B aa_I th_E
+hajaara hajaara h_B a_I j_I aa_I r_E
+hama hama h_B a_I m_E
+hamaaraa hamaaraa h_B a_I m_I aa_I r_I aa_E
+hamaare hamaare h_B a_I m_I aa_I r_I ee_E
+hamaarii hamaarii h_B a_I m_I aa_I r_I ii_E
+harii harii h_B a_I r_I ii_E
+hei hei h_B ei_E
+heiq heiq h_B ei_I n_E
+hii hii h_B aa_I y_E
+hinduu hinduu h_B i_I n_I d_I uu_E
+hiqdii hiqdii h_B i_I n_I d_I ii_E
+ho ho h_B o_E
+hogaa hogaa h_B o_I g_I aa_E
+hogii hogii h_B o_I g_I ii_E
+hone hone h_B o_I n_I ee_E
+hoq hoq h_B on_E
+hotaa hotaa h_B oo_I t_I aa_E
+hote hote h_B o_I t_I ee_E
+hotii hotii h_B o_I t_I ii_E
+huaa huaa h_B u_I aa_E
+hue hue h_B u_I ee_E
+huumq huumq h_B oo_I n_E
+huyii huyii h_B u_I ii_E
+icchaa icchaa i_B cchx_I aa_E
+idhara idhara i_B dh_I a_I r_E
+iiqtxe iiqtxe ii_B nx_I tx_I ei_E
+iirsxyaa iirsxyaa ii_B r_I sx_I y_I aa_E
+iishvara iishvara ii_B sh_I v_I a_I r_E
+ika ika ee_B k_E
+ikatxhtxhii ikatxhtxhii i_B k_I a_I ttxh_I ii_E
+inakaa inakaa i_B n_I k_I aa_E
+iqgleiqdxa iqgleiqdxa i_B ng_I l_I ei_I nx_I dx_E
+iqsaana iqsaana i_B n_I s_I aa_I n_E
+isa isa i_B s_E
+isake isake i_B s_I a_I k_I ee_E
+isakii isakii i_B s_I a_I k_I ii_E
+isalie isalie i_B s_I l_I i_I ei_E
+isameq isameq i_B s_I m_I en_E
+isase isase i_B s_I s_I ee_E
+ise ise i_B s_I ee_E
+isiilie isiilie i_B s_I ii_I l_I i_I ee_E
+ispaata ispaata i_B s_I p_I aa_I t_E
+itanaa itanaa i_B t_I a_I n_I aa_E
+itane itane i_B t_I a_I n_I e_E
+itanii itanii i_B t_I a_I n_I ii_E
+itihaasa itihaasa i_B t_I i_I h_I aa_I s_E
+jaa jaa j_B aa_E
+jaae jaae j_B aa_I ee_E
+jaaegii jaaegii j_B aa_I ee_I g_I ii_E
+jaakara jaakara j_B aa_I k_I a_I r_E
+jaana jaana j_B aa_I n_E
+jaanaa jaanaa j_B aa_I n_I aa_E
+jaane jaane j_B aa_I n_I ee_E
+jaataa jaataa j_B aa_I t_I aa_E
+jaate jaate j_B aa_I t_I ee_E
+jaatii jaatii j_B aa_I t_I ii_E
+jaatiyoq jaatiyoq j_B aa_I t_I i_I y_I on_E
+jaauumqgaa jaauumqgaa j_B aa_I uu_I ng_I g_I aa_E
+jaaye jaaye j_B aa_I y_I ee_E
+jaba jaba j_B a_I b_E
+jagaha jagaha j_B a_I g_I a_I h_E
+jagata jagata j_B a_I g_I a_I t_E
+jagatpati jagatpati j_B a_I g_I a_I t_I a_I p_I a_I t_I i_E
+jailoq jailoq j_B i_I l_I on_E
+jaiqdagii jaiqdagii z_B i_I nx_I d_I a_I g_I ii_E
+janavarii janavarii j_B a_I n_I a_I w_I a_I r_I ii_E
+jaqgala jaqgala j_B a_I ng_I g_I a_I l_E
+jaqraa jaqraa z_B a_I r_I aa_E
+jaruura jaruura j_B a_I r_I uu_I r_E
+javaaba javaaba j_B a_I v_I aa_I b_E
+jeise jeise j_B ei_I s_I ee_E
+jhuutxhaa jhuutxhaa jh_B uu_I txh_I aa_E
+jhuutxhe jhuutxhe jh_B uu_I txh_I ei_E
+jhuutxhii jhuutxhii jh_B uu_I txh_I ii_E
+jiitaa jiitaa j_B ii_I t_I aa_E
+jiivana jiivana j_B ii_I v_I a_I n_E
+jiivita jiivita j_B ii_I v_I i_I t_E
+jijnyaasaa jijnyaasaa j_B i_I g_I y_I aa_I s_I aa_E
+jisase jisase j_B i_I s_I a_I s_I ee_E
+jo jo j_B o_E
+juunuuna juunuuna j_B u_I n_I uu_I n_E
+jyaadaa jyaadaa j_B y_I aa_I d_I aa_E
+kaa kaa k_B aa_E
+kaala kaala k_B aa_I la_E
+kaama kaama k_B aa_I m_E
+kaamqtxaa kaamqtxaa k_B aa_I nx_I tx_I aa_E
+kaaphii kaaphii k_B aa_I ph_I ii_E
+kaaqgresa kaaqgresa k_B aa_I ng_I r_I e_I s_E
+kaaranxa kaaranxa k_B aa_I r_I a_I nx_E
+kaaryakartaaoq kaaryakartaaoq k_B aa_I r_I y_I a_I k_I a_I r_I t_I aa_I on_E
+kaatxa kaatxa k_B aa_I tx_E
+kaatxaa kaatxaa k_B aa_I tx_I aa_E
+kaauqtxaroq kaauqtxaroq k_B aa_I u_I nx_I tx_I a_I r_I on_E
+kabhii kabhii k_B a_I b_I h_I ii_E
+kabuutaroq kabuutaroq k_B a_I b_I uu_I t_I a_I r_I on_E
+kacce kacce k_B a_I cc_I ee_E
+kadxaii kadxaii k_B a_I dx_I aa_I ii_E
+kaha kaha k_B a_I h_I a_E
+kahaa kahaa k_B a_I h_I aa_E
+kahaanii kahaanii k_B a_I h_I aa_I n_I ii_E
+kahakara kahakara k_B a_I h_I a_I k_I a_I r_E
+kahane kahane k_B a_I h_I a_I n_I ee_E
+kahiiq kahiiq k_B a_I h_I iin_E
+kaho kaho k_B a_I h_I o_E
+kaii kaii k_B a_I ii_E
+kalaa kalaa k_B a_I l_I aa_E
+kalara kalara k_B a_I l_I a_I r_E
+kanaatxa kanaatxa k_B a_I n_I au_I tx_E
+kapadxe kapadxe k_B a_I p_I a_I dx_I ee_E
+kaqtla kaqtla k_B a_I t_I l_I axx_E
+kara kara k_B a_I r_E
+karanaa karanaa k_B a_I r_I a_I n_I aa_E
+karane karane k_B a_I r_I a_I n_I ee_E
+karate karate k_B a_I r_I a_I t_I ee_E
+karuumqgaa karuumqgaa k_B a_I r_I uu_I mq_I g_I aa_E
+kasootxii kasootxii k_B a_I s_I ou_I tx_I ii_E
+kathana kathana k_B a_I th_I a_I n_E
+katxaghara katxaghara k_B a_I tx_I gh_I a_I r_E
+katxe katxe k_B a_I tx_I ee_E
+ke ke k_B ee_E
+keidii keidii k_B ei_I d_I ii_E
+keqdriiya keqdriiya k_B ee_I ng_I d_I r_I ii_I y_E
+kevala kevala k_B ee_I v_I a_I l_E
+khadxae khadxae kh_B a_I dx_I ee_E
+khadxaqa khadxaqa kh_B a_I dx_I aa_E
+khanxdxa khanxdxa kh_B a_I nx_I dx_E
+khariidaa khariidaa kh_B a_I r_I ii_I d_I aa_E
+khariidate khariidate kh_B a_I r_I ii_I d_I a_I t_I ee_E
+khela khela kh_B ee_I l_E
+khetii khetii kh_B ee_I t_I ii_E
+khilaapha khilaapha kh_B ii_I l_I aa_I ph_E
+khoja khoja kh_B o_I j_E
+khuda khuda kh_B u_I d_E
+ki ki k_B i_E
+kii kii k_B ii_E
+kiijiye kiijiye k_B ii_I j_I i_I y_I ee_E
+kisa kisa k_B i_I s_E
+kishtoq kishtoq k_B i_I sh_I t_I on_E
+kisii kisii k_B i_I s_I ii_E
+kiyaa kiyaa k_B i_I y_I aa_E
+kiye kiye k_B i_I y_I ee_E
+ko ko k_B o_E
+koii koii k_B o_I ii_E
+koovaa koovaa k_B au_I w_I aa_E
+kosa kosa k_B o_I s_E
+kosoq kosoq k_B o_I s_I on_E
+kotxhii kotxhii k_B o_I txh_I ii_E
+koyalaa koyalaa k_B o_I y_I a_I l_I aa_E
+krusxi krusxi k_B r_I u_I sx_I i_E
+kuaamq kuaamq k_B u_I aan_E
+kucha kucha k_B u_I ch_E
+kushalataa kushalataa k_B u_I sh_I a_I l_I t_I aa_E
+kyaa kyaa k_B y_I aa_E
+kyoq kyoq k_B y_I on_E
+laadxa laadxa l_B aa_I dx_E
+laakha laakha l_B aa_I kh_E
+laalamanxi laalamanxi l_B aa_I l_I a_I m_I a_I nx_I i_E
+laaqdxrii laaqdxrii l_B au_I nx_I dx_I r_I ii_E
+ladxaqkii ladxaqkii l_B a_I dx_I k_I ii_E
+ladxaqkiyoq ladxaqkiyoq l_B a_I dx_I k_I i_I y_I on_E
+lagaa lagaa l_B a_I g_I aa_E
+lagaae lagaae l_B a_I g_I ee_E
+lagabhaga lagabhaga l_B a_I g_I bh_I a_I g_E
+lagatii lagatii l_B a_I g_I a_I t_I ii_E
+lage lage l_B a_I g_I ee_E
+lagii lagii l_B a_I g_I ii_E
+lajjita lajjita l_B a_I jj_I i_I t_E
+lambaaii lambaaii l_B a_I m_I b_I aa_I ii_E
+lekara lekara l_B ee_I k_I a_I r_E
+lene lene l_B ee_I n_I ee_E
+lie lie l_B aa_I ii_E
+likhe likhe l_B i_I kh_I ee_E
+lipatxa lipatxa l_B i_I p_I a_I tx_E
+lo lo l_B o_E
+loga loga l_B o_I g_I a_E
+lohe lohe l_B o_I h_I ee_E
+lokakalaa lokakalaa l_B o_I k_I k_I a_I l_I aa_E
+lutxeroq lutxeroq l_B u_I tx_I ee_I r_I on_E
+maadaka maadaka m_B aa_I d_I a_I k_E
+maadhava maadhava m_B aa_I dh_I a_I w_E
+maakapaa maakapaa m_B aa_I k_I a_I p_I aa_E
+maaluuma maaluuma m_B aa_I l_I uu_I m_E
+maamalaa maamalaa m_B aa_I m_I a_I l_I aa_E
+maanava maanava m_B aa_I n_I a_I w_E
+maane maane m_B aa_I n_I ee_E
+maanii maanii m_B aa_I n_I ii_E
+maaxla maaxla m_B aa_I l_E
+madhushaalaa madhushaalaa m_B a_I dh_I u_I sh_I aa_I l_I aa_E
+magara magara m_B a_I g_I a_I r_E
+mahaaraaja mahaaraaja m_B a_I h_I aa_I r_I aa_I j_I a_E
+mahaaraajaa mahaaraajaa m_B a_I h_I aa_I r_I aa_I j_I aa_E
+mahaaraanii mahaaraanii m_B a_I h_I aa_I r_I aa_I n_I ii_E
+mahaaraanxaa mahaaraanxaa m_B a_I h_I aa_I r_I aa_I nx_I aa_E
+mahala mahala m_B a_I h_I a_I l_E
+mahattvapuurnxa mahattvapuurnxa m_B a_I h_I a_I tw_I a_I p_I uu_I r_I nx_I a_E
+mahatva mahatva m_B a_I h_I a_I tw_E
+mahiinaa mahiinaa m_B a_I h_I ii_I n_I aa_E
+mahiine mahiine m_B a_I h_I ii_I n_I ee_E
+mahilaa mahilaa m_B a_I h_I i_I l_I aa_E
+majabuura majabuura m_B a_I j_I a_I b_I uu_I r_E
+makaana makaana m_B a_I k_I aa_I n_E
+mamqje mamqje m_B a_I nj_I jh_I ee_E
+mana mana m_B a_I n_E
+mandiroq mandiroq m_B a_I n_I d_I i_I r_I on_E
+manusxya manusxya m_B a_I n_I u_I sx_I y_E
+manxipurii manxipurii m_B a_I nx_I i_I p_I u_I r_I ii_E
+maqdxala maqdxala m_B a_I ng_I dx_I a_I l_E
+maqdxapa maqdxapa m_B a_I ng_I dx_I a_I p_E
+maqgala maqgala m_B a_I ng_I g_I a_I l_E
+maqtrii maqtrii m_B a_I n_I t_I r_I ii_E
+marammata marammata m_B a_I r_I a_I mm_I a_I t_E
+mata mata m_B a_I t_E
+megha megha m_B ee_I gh_E
+meine meine m_B ei_I n_I ee_E
+meiq meiq m_B ei_I n_E
+meiqne meiqne m_B ei_I n_I ee_E
+meq meq m_B ee_I n_E
+mere mere m_B ee_I r_I ee_E
+miila miila m_B ii_I l_E
+miinaara miinaara m_B i_I n_I aa_I r_E
+mila mila m_B i_I l_I aa_E
+milataa milataa m_B i_I l_I a_I t_I aa_E
+milate milate m_B i_I l_I a_I t_I e_E
+mishra mishra m_B i_I sh_I r_E
+mitrataa mitrataa m_B i_I t_I r_I axx_I t_I aa_E
+mitroq mitroq m_B i_I t_I r_I on_E
+mitxtxii mitxtxii m_B i_I ttx_I ii_E
+modii modii m_B o_I d_I ii_E
+mohara mohara m_B o_I h_I a_I r_E
+mujhe mujhe m_B u_I jh_I ee_E
+mukhiyaa mukhiyaa m_B u_I kh_I i_I y_I aa_E
+mukhya mukhya m_B u_I kh_I y_E
+murkha murkha m_B uu_I r_I kh_I a_E
+mutxhabhedxaq mutxhabhedxaq m_B u_I txh_I bh_I ee_I dx_E
+muulyoq muulyoq m_B uu_I l_I y_I on_E
+muurtiyoq muurtiyoq m_B uu_I r_I t_I i_I y_I on_E
+na na n_B a_E
+naa naa n_B aa_E
+naagra naagra n_B aa_I g_I a_I r_E
+nae nae n_B a_I ee_E
+nahii nahii n_B a_I h_I ii_I n_E
+nahiiq nahiiq n_B a_I h_I ii_I n_E
+namuune namuune n_B a_I m_I uu_I n_I ee_E
+ne ne n_B ee_E
+nigaaha nigaaha n_B i_I g_I aa_I h_E
+nikala nikala n_B i_I k_I a_I l_E
+nikatxa nikatxa n_B i_I k_I a_I tx_E
+nirbhara nirbhara n_B i_I r_I bh_I a_I r_E
+nirnxaya nirnxaya n_B i_I r_I nx_I a_I y_E
+nivesha nivesha n_B i_I v_I ee_I sh_E
+noo noo n_B ou_E
+noojavaana noojavaana n_B ou_I j_I a_I v_I aa_I n_E
+nyaaya nyaaya n_B y_I aa_I y_E
+oora oora ou_B r_E
+oorata oorata ou_B r_I a_I t_E
+ora ora o_B r_E
+paakhaqdxii paakhaqdxii p_B aa_I kh_I a_I nx_I dx_I ii_E
+paamqca paamqca p_B a_I ng_I kh_I aa_E
+paanii paanii p_B aa_I n_I ii_E
+paaqca paaqca p_B aa_I ng_I c_E
+paartxii paartxii p_B aa_I r_I tx_I ii_E
+paasa paasa p_B aa_I s_I aa_E
+pacaasa pacaasa p_B a_I c_I aa_I s_E
+pacaraqgii pacaraqgii p_B a_I c_I r_I a_I n_I g_I ii_E
+padaartha padaartha p_B a_I d_I aa_I r_I th_E
+padxaa padxaa p_B dxhq_I aa_E
+padxaqtaa padxaqtaa p_B dxhq_I aa_I t_I aa_E
+padxhaqa padxhaqa p_B dxhq_I ng_I aa_E
+padxhaqate padxhaqate p_B dxhq_I aa_I t_I ei_E
+padxii padxii p_B dxhq_I ii_E
+pahacaana pahacaana p_B e_I h_I ch_I aa_I n_I aa_E
+pahacaananaa pahacaananaa p_B e_I h_I ch_I aa_I n_I n_I aa_E
+pahale pahale p_B a_I h_I l_I ei_E
+pahanuuqgii pahanuuqgii p_B e_I h_I ei_I n_I u_I n_I g_I ii_E
+pahumqce pahumqce p_B a_I h_I u_I n_I c_I ei_E
+pakkaa pakkaa p_B a_I kk_I aa_E
+pakkii pakkii p_B a_I kk_I ii_E
+paqjaaba paqjaaba p_B a_I nj_I j_I aa_I b_E
+para para p_B a_I r_E
+parinxaama parinxaama p_B a_I r_I ii_I nx_I aa_I m_E
+pashcima pashcima p_B a_I sh_I c_I i_I m_E
+pataa pataa p_B a_I t_I aa_E
+patiyoq patiyoq p_B a_I t_I ii_I y_I on_E
+patra patra p_B a_I t_I r_E
+patxasana patxasana p_B a_I t_I s_I aa_I n_E
+patxavaa patxavaa p_B a_I t_I w_I aa_E
+pedxaq pedxaq p_B ee_I dxq_E
+peidaa peidaa p_B ei_I d_I aa_E
+peiqtare peiqtare p_B ei_I n_I t_I r_I ee_E
+peira peira p_B ei_I r_E
+pheiktxarii pheiktxarii p_B i_I c_I k_I aa_I r_I ii_E
+phira phira ph_B i_I r_E
+phoorana phoorana p_B uu_I r_I aa_I n_I aa_E
+phutxa phutxa ph_B uu_I txh_E
+pichavaadxae pichavaadxae p_B ii_I ch_I w_I aa_I d_I ei_E
+piinaa piinaa p_B ii_I n_I aa_E
+plesa plesa p_B l_I ee_I s_E
+praaciina praaciina p_B r_I aa_I c_I ii_I n_E
+pradarshana pradarshana p_B r_I a_I d_I a_I r_I sh_I a_I n_E
+pradesha pradesha p_B r_I a_I d_I ei_I sh_E
+pradhaana pradhaana p_B r_I a_I d_I aa_I n_E
+prashaashana prashaashana p_B r_I a_I sh_I aa_I sh_I a_I n_E
+pratisxtxhaa pratisxtxhaa p_B r_I a_I t_I ii_I k_I jhq_I aa_E
+prativarsxa prativarsxa p_B r_I a_I t_I ii_I w_I a_I r_I sh_E
+prema prema p_B r_I ee_I m_E
+preranxaa preranxaa p_B r_I ee_I r_I nx_I aa_E
+priqsa priqsa p_B a_I r_I ii_I k_I sh_I aa_E
+prkaara prkaara p_B r_I a_I k_I aa_I r_E
+prukruti prukruti p_B r_I a_I k_I r_I i_I t_I ii_E
+punarjiivita punarjiivita p_B uu_I n_I a_I r_I j_I ii_I w_I i_I t_E
+puraanaa puraanaa p_B uu_I r_I aa_I n_I aa_E
+puujaa puujaa p_B uu_I j_I aa_E
+puure puure p_B uu_I r_I ee_E
+puurii puurii p_B uu_I r_I ii_E
+puurnxa puurnxa p_B uu_I r_I nx_E
+puurva puurva p_B uu_I r_I w_E
+pyaara pyaara p_B y_I aa_I r_I aa_E
+raaja raaja r_B aa_I j_E
+raajaa raajaa r_B aa_I j_I aa_E
+raajya raajya r_B aa_I j_I y_E
+raashi raashi r_B aa_I sh_I ii_E
+raata raata r_B aa_I t_E
+raatoq raatoq r_B aa_I t_I on_E
+ragadxaqa ragadxaqa r_B a_I g_I a_I dxq_I aa_E
+rahaa rahaa r_B a_I h_I aa_E
+rahanaa rahanaa r_B a_I h_I n_I aa_E
+rahataa rahataa r_B a_I h_I t_I aa_E
+rahatii rahatii r_B a_I h_I t_I ii_E
+rahe rahe r_B a_I h_I ee_E
+rahii rahii r_B a_I h_I ii_E
+rakhaa rakhaa r_B a_I kh_I aa_E
+rakhane rakhane r_B a_I kh_I n_I ei_E
+rakhate rakhate r_B a_I kh_I t_I ei_E
+rakhii rakhii r_B a_I kh_I ii_E
+rasa rasa r_B a_I s_E
+rishte rishte r_B i_I sh_I t_I ei_E
+riyaasata riyaasata r_B i_I y_I aa_I s_I a_I t_E
+rupayaa rupayaa r_B uu_I p_I y_I aa_E
+ruupa ruupa r_B uu_I p_E
+ruupakumaarii ruupakumaarii r_B uu_I p_I a_I k_I u_I m_I aa_I r_I ii_E
+saadhana saadhana s_B aa_I dh_I a_I n_I aa_E
+saaga saaga s_B aa_I g_E
+saahasa saahasa s_B aa_I h_I a_I s_E
+saahasii saahasii s_B aa_I h_I a_I s_I ii_E
+saakha saakha s_B a_I kh_I aa_E
+saala saala s_B aa_I l_E
+saamane saamane s_B aa_I m_I a_I n_I ei_E
+saapha saapha s_B aa_I ph_E
+saaraa saaraa s_B aa_I r_I aa_E
+saata saata s_B aa_I t_E
+saatha saatha s_B aa_I th_E
+saba saba s_B a_I b_E
+sabase sabase s_B a_I b_I s_I ee_E
+sabuuta sabuuta s_B aa_I b_I u_I t_E
+sacamuca sacamuca s_B a_I c_I m_I u_I c_E
+saccaaii saccaaii s_B a_I cc_I aa_I ii_E
+saccii saccii s_B a_I cc_I ii_E
+sacetaka sacetaka s_B a_I c_I ee_I t_I a_I k_E
+sadana sadana s_B aa_I dh_I n_I aa_E
+sadxaqka sadxaqka s_B a_I dxq_I a_I k_E
+sahakaarii sahakaarii s_B a_I h_I a_I k_I aa_I r_I ii_E
+sakate sakate s_B a_I k_I t_I ei_E
+samaacaara samaacaara s_B a_I m_I aa_I c_I aa_I r_E
+samaapta samaapta s_B a_I m_I aa_I p_I t_I axx_E
+samajha samajha s_B a_I m_I a_I jh_E
+samaya samaya s_B a_I m_I a_I y_E
+sambandhii sambandhii s_B a_I m_I b_I a_I n_I dh_I ii_E
+sammmaana sammmaana s_B aa_I m_I aa_I n_E
+samruddha samruddha s_B a_I m_I r_I u_I dh_E
+samruddhi samruddhi s_B a_I m_I r_I a_I dh_I ii_E
+saqbhava saqbhava s_B a_I m_I bh_I a_I v_E
+saqghatxana saqghatxana s_B a_I ng_I gh_I a_I txh_I a_I n_E
+saqgrahaalaya saqgrahaalaya s_B a_I ng_I g_I r_I aa_I l_I a_I y_E
+saqkalpa saqkalpa s_B a_I ng_I k_I a_I l_I p_E
+saqkatxamocana saqkatxamocana s_B a_I n_I k_I a_I tx_I a_I m_I o_I c_I a_I n_E
+saqketa saqketa s_B a_I n_I k_I ei_I t_E
+saqsthaana saqsthaana s_B a_I n_I s_I th_I aan_E
+saqtusxtxa saqtusxtxa s_B a_I n_I t_I u_I sx_I tx_I axx_E
+saqvidhaana saqvidhaana s_B a_I m_I v_I ii_I dh_I aan_E
+sarakaara sarakaara s_B a_I r_I k_I aa_I r_E
+sashakta sashakta s_B a_I sh_I a_I k_I t_I axx_E
+sastii sastii s_B a_I s_I t_I ii_E
+sattaa sattaa s_B a_I tt_I aa_E
+savere savere s_B a_I v_I ei_I r_I ei_E
+se se s_B ei_E
+sela sela s_B ei_I l_E
+setxhajii setxhajii s_B ei_I txh_I a_I j_I ii_E
+setxhanii setxhanii s_B ei_I txh_I aa_I n_I ii_E
+shaadii shaadii sh_B aa_I d_I ii_E
+shaama shaama sh_B aa_I m_E
+shabda shabda sh_B a_I b_I d_I axx_E
+shakla shakla sh_B a_I k_I l_I axx_E
+shava shava sh_B a_I v_E
+sheilii sheilii sh_B ei_I l_I ii_E
+shekhacillii shekhacillii sh_B ei_I kh_I c_I i_I ll_I ii_E
+shilpa shilpa sh_B i_I l_I p_I axx_E
+shivaalaya shivaalaya sh_B i_I v_I aa_I l_I y_I axx_E
+shresxtxha shresxtxha sh_B r_I e_I sx_I txh_I axx_E
+shrruqgaara shrruqgaara sh_B rr_I i_I n_I g_I aa_I r_E
+shuruu shuruu sh_B u_I r_I u_E
+sii sii s_B ii_E
+siimaabandii siimaabandii s_B ii_I m_I aa_I b_I a_I n_I d_I ii_E
+sil sil sil_S
+skuula skuula s_B k_I uu_I l_E
+so so s_B o_E
+socaa socaa s_B o_I c_I aa_E
+sokara sokara s_B o_I k_I a_I r_E
+soo soo s_B oo_E
+sooqdarya sooqdarya s_B oo_I n_I d_I a_I r_I y_I axx_E
+spasxtxa spasxtxa s_B p_I a_I sx_I tx_I axx_E
+staqbhoq staqbhoq s_B t_I a_I m_I bh_I on_E
+stara stara s_B t_I a_I r_E
+sthaana sthaana s_B th_I aa_I n_E
+stxiilsa stxiilsa s_B tx_I ii_I l_I s_E
+subaha subaha s_B u_I b_I a_I h_E
+sukha sukha s_B u_I kh_E
+sukhii sukhii s_B u_I kh_I ii_E
+sunaayii sunaayii s_B u_I n_I aa_I y_I ii_E
+sundara sundara s_B u_I n_I d_I a_I r_E
+suqdaralaala suqdaralaala s_B u_I n_I d_I a_I r_I a_I l_I aa_I l_E
+suqdarii suqdarii s_B u_I n_I d_I a_I r_I ii_E
+suucanaa suucanaa s_B uu_I c_I n_I aa_E
+suukhaa suukhaa s_B uu_I kh_I aa_E
+svabhaava svabhaava s_B w_I a_I bh_I aa_I w_E
+svara svara s_B w_I a_I r_E
+taalaabaqdii taalaabaqdii t_B aa_I l_I aa_I b_I a_I n_I d_I ii_E
+taalamela taalamela t_B aa_I l_I m_I e_I l_E
+taaqkhula taaqkhula t_B aa_I kh_I u_I l_E
+taba taba t_B a_I b_E
+taka taka t_B a_I k_E
+taraha taraha t_B a_I r_I a_I h_E
+tathaa tathaa t_B a_I th_I aa_E
+tatvoq tatvoq t_B a_I t_I v_I on_E
+teiyaara teiyaara t_B ei_I y_I aa_I r_E
+thaa thaa th_B aa_E
+thaapatii thaapatii th_B aa_I p_I a_I t_I ii_E
+the the th_B ee_E
+theile theile th_B ei_I l_I ee_E
+thii thii th_B ii_E
+thiiq thiiq th_B iin_E
+thodxae thodxae th_B o_I dx_I ee_E
+tiina tiina t_B ii_I n_E
+tiira tiira t_B ii_I r_E
+to to t_B o_E
+tumhaarii tumhaarii t_B u_I m_I h_I aa_I r_I ii_E
+turanta turanta t_B u_I r_I a_I n_I t_E
+turaqta turaqta t_B u_I r_I a_I n_I t_E
+tuu tuu t_B uu_E
+txhaakura txhaakura txh_B aa_I k_I u_I r_E
+txhappa txhappa txh_B a_I p_I axx_E
+txhaqdxii txhaqdxii txh_B ng_I dx_I ii_E
+txiivii txiivii tx_B ii_I v_I ii_E
+txikaa txikaa tx_B i_I k_I aa_E
+txukadxe txukadxe tx_B u_I k_I a_I dx_I ee_E
+tyaaga tyaaga t_B y_I aa_I g_E
+uccakotxi uccakotxi u_B ccx_I a_I k_I oo_I tx_I i_E
+ucita ucita u_B c_I i_I t_E
+udhara udhara u_B dh_I a_I r_E
+udxaiisaa udxaiisaa u_B dxq_I ii_I s_I aa_E
+udyoga udyoga u_B d_I y_I o_I g_E
+udyogoq udyogoq u_B d_I y_I o_I g_I on_E
+uge uge u_B g_I ee_E
+ujaalii ujaalii u_B j_I aa_I l_I ii_E
+una una u_B n_E
+unake unake u_B n_I k_I ee_E
+unakii unakii u_B n_I k_I ii_E
+unako unako u_B n_I k_I on_E
+unase unase u_B n_I s_I ee_E
+unheq unheq u_B n_I h_I ee_E
+unhoqne unhoqne u_B n_I h_I o_I n_I ee_E
+upaaya upaaya u_B p_I aa_I y_E
+upabhoktaaoq upabhoktaaoq u_B p_I a_I bh_I o_I k_I t_I aa_I on_E
+upadesha upadesha u_B p_I a_I d_I ee_I sh_I a_E
+upajaauupana upajaauupana u_B p_I a_I j_I aa_I uu_I p_I a_I n_E
+upalabdha upalabdha u_B p_I a_I l_I a_I b_I dh_I axx_E
+usa usa u_B s_E
+usakii usakii u_B s_I k_I ii_E
+usame usame u_B s_I m_I ee_E
+usane usane u_B s_I n_I ee_E
+usase usase u_B ss_I ee_E
+use use u_B s_I ee_E
+utpaadana utpaadana u_B t_I p_I aa_I d_I a_I n_E
+uttara uttara u_B tt_I a_I r_E
+utxhaakara utxhaakara u_B tx_I h_I aa_I k_I a_I r_E
+utxhatii utxhatii u_B tx_I h_I a_I t_I ii_E
+uumqcaa uumqcaa uu_B nj_I c_I aa_E
+uumqcaaii uumqcaaii uu_B nj_I c_I aa_I ii_E
+uumqce uumqce uu_B nj_I c_I ee_E
+uumqcii uumqcii uu_B nj_I c_I ii_E
+uupara uupara uu_B p_I a_I r_E
+uuparii uuparii uu_B p_I a_I r_I ii_E
+vaalii vaalii w_B aa_I l_I ii_E
+vaastava vaastava w_B aa_I s_I t_I a_I w_E
+vaastushilpa vaastushilpa w_B aa_I s_I t_I u_I sh_I i_I l_I p_E
+vaha vaha w_B a_I h_E
+vahaamq vahaamq w_B a_I h_I aan_E
+vahii vahii w_B a_I h_I ii_E
+vakata vakata w_B a_I k_I t_E
+varadaana varadaana w_B a_I r_I d_I aa_I n_E
+varsxa varsxa w_B a_I r_I sx_I aa_E
+vasiiyata vasiiyata w_B a_I s_I ii_I y_I a_I t_E
+vastra vastra w_B a_I s_I t_I r_I axx_E
+vastueq vastueq w_B a_I s_I t_I u_I ein_E
+vasuula vasuula w_B a_I s_I uu_I l_E
+ve ve w_B ee_E
+veibhava veibhava w_B ei_I b_I h_I a_I w_E
+veijnyaanika veijnyaanika w_B ei_I g_I y_I aa_I n_I i_I k_E
+vidyaa vidyaa w_B i_I d_I y_I aa_E
+vikramaaditya vikramaaditya w_B i_I k_I r_I a_I m_I aa_I d_I i_I t_I y_I a_E
+vilaksxanxa vilaksxanxa w_B i_I l_I a_I k_I sh_I a_I nx_E
+vishvaasa vishvaasa w_B i_I sh_I w_I aa_I s_E
+vishvaasaghaata vishvaasaghaata w_B i_I sh_I w_I aa_I s_I gh_I aa_I t_E
+vivaaha vivaaha w_B i_I w_I aa_I h_E
+vruksxa vruksxa w_B r_I i_I k_I sx_I axx_E
+vyaahii vyaahii b_B y_I aa_I h_I ii_E
+vyaapaarii vyaapaarii w_B y_I aa_I p_I aa_I r_I ii_E
+vyaktiyoq vyaktiyoq w_B y_I a_I k_I t_I i_I y_I on_E
+vyasta vyasta w_B y_I a_I s_I t_I axx_E
+vyathita vyathita w_B y_I a_I th_I i_I th_E
+vyavasthaa vyavasthaa w_B y_I a_I w_I a_I s_I th_I aa_E
+yaada yaada y_B aa_I d_E
+yaanii yaanii y_B aa_I n_I ii_E
+yaha yaha y_B a_I h_E
+yahaamq yahaamq y_B a_I h_I aan_E
+yahii yahii y_B a_I h_I ii_E
+yasa yasa y_B a_I sh_E
+yoddhaa yoddhaa y_B o_I ddh_I aa_E
+yuga yuga y_B u_I g_E

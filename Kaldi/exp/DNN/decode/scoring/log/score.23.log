@@ -1,0 +1,5 @@
+# cat exp/DNN/decode/scoring/23.tra | utils/int2sym.pl -f 2- data/lang_bigram/words.txt | sed s:\<UNK\>::g | compute-wer --text --mode=present ark:exp/DNN/decode/scoring/test_filt.txt ark,p:- >& exp/DNN/decode/wer_23 
+# Started at Sun Dec 24 10:05:00 IST 2017
+#
+# Accounting: time=0 threads=1
+# Ended (code 0) at Sun Dec 24 10:05:00 IST 2017, elapsed time 0 seconds

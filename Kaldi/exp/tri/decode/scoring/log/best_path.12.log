@@ -1,0 +1,292 @@
+# lattice-scale --inv-acoustic-scale=12 "ark:gunzip -c exp/tri/decode/lat.*.gz|" ark:- | lattice-add-penalty --word-ins-penalty=0.0 ark:- ark:- | lattice-best-path --word-symbol-table=exp/tri/graph/words.txt ark:- ark,t:exp/tri/decode/scoring/12.tra 
+# Started at Sat Dec 23 23:00:02 IST 2017
+#
+lattice-best-path --word-symbol-table=exp/tri/graph/words.txt ark:- ark,t:exp/tri/decode/scoring/12.tra 
+lattice-add-penalty --word-ins-penalty=0.0 ark:- ark:- 
+lattice-scale --inv-acoustic-scale=12 'ark:gunzip -c exp/tri/decode/lat.*.gz|' ark:- 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2501M0001, best cost 56.2209 + 5583.78 = 5640 over 698 frames.
+hi2501M0001 dhobina jaba sokara utxhatii to dekhatii ki cookaa saapha padxaa hei oora bartana mamqje hue hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2501M0002, best cost 41.8365 + 5428.82 = 5470.66 over 698 frames.
+hi2501M0002 yahaamq se lagabhaga paamqca miila daksxinxa pashcima meq katxaghara gaamqva hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2501M0003, best cost 74.745 + 5691.28 = 5766.02 over 698 frames.
+hi2501M0003 maaluuma ho jeise megha paanii paanii ho gae hoq oora bijaliyaamq txukadxe txukadxe ho gaii hoq 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2501M0004, best cost 78.2902 + 5484.53 = 5562.82 over 698 frames.
+hi2501M0004 bhuula se usane vaha cavannii saaga khariidate samaya eka buudxhaii oorata ko dii dii 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2501M0005, best cost 67.9406 + 5661.3 = 5729.25 over 698 frames.
+hi2501M0005 ruupakumaarii isa kathana ko shekhacillii kii daastaana se jyaadaa mahatva nahii denaa caahatii 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2501M0006, best cost 64.3989 + 5438.84 = 5503.24 over 698 frames.
+hi2501M0006 usame se harii ghaasa ke caraagaahoq kaa badxaa hii sundara drushya dikhaaii detaa thaa 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2501M0007, best cost 67.2963 + 5606.51 = 5673.81 over 698 frames.
+hi2501M0007 phira dhiire dhiire use piinaa hii nahii duudha kii botala pahacaananaa bhii aa gayaa 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2501M0008, best cost 78.0445 + 5523.01 = 5601.05 over 698 frames.
+hi2501M0008 agale dina vaha bhii icchaa se bhare hue tiina theile lekara mahilaa ke paasa aayaa 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2501M0009, best cost 78.3293 + 5633.91 = 5712.24 over 698 frames.
+hi2501M0009 oora idhara usakii donoq bahaneq bhii vyaahii jaane ke baada apane patiyoq ke saatha calii gaii thiiq 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2501M0010, best cost 74.7921 + 5639.2 = 5713.99 over 698 frames.
+hi2501M0010 cadxdxhaa ne vyathita svara se kahaa calo dekha lo magara tiina caara ghaqtxe ho gae hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2501M0011, best cost 54.9726 + 5457.16 = 5512.13 over 698 frames.
+hi2501M0011 dhobina jaba sokara utxhatii to dekhatii ki cookaa saapha padxaa hei oora bartana mamqje hue hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2501M0012, best cost 41.572 + 5134.82 = 5176.39 over 698 frames.
+hi2501M0012 yahaamq se lagabhaga paamqca miila daksxinxa pashcima meq katxaghara gaamqva hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2501M0013, best cost 64.7739 + 5657.73 = 5722.5 over 698 frames.
+hi2501M0013 meiq itanaa badxaa vishvaasaghaata na karuumqgaa caahie ghara mitxtxii hii meq mila jaae 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2501M0014, best cost 76.42 + 5453.25 = 5529.67 over 698 frames.
+hi2501M0014 ghodxe ko bahuta ki aavaaja meq bolate dekha maqgala ko badxaa aashcarya huaa 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2501M0015, best cost 48.4689 + 5267.65 = 5316.12 over 698 frames.
+hi2501M0015 prukruti oora manusxya ke biica taalamela saqbhava hogaa kyaa 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2501M0016, best cost 76.6347 + 5533.95 = 5610.59 over 698 frames.
+hi2501M0016 kucha samaya baada do raaja girjaaghara kii miinaara kii marammata karane ke lie hoq 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2501M0017, best cost 84.7727 + 5701.34 = 5786.12 over 698 frames.
+hi2501M0017 jo sadxaqka bacapana meq gaamqva se do kosa duura se shuruu hotii thiiq oora kosoq duura calii jaatii thiiq 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2501M0018, best cost 71.2431 + 5412.25 = 5483.49 over 698 frames.
+hi2501M0018 eisaa jaana padxaa vaha kucha javaaba denaa caahataa hei magara shabda nahii mila rahe heiq 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2501M0019, best cost 59.1851 + 5493.15 = 5552.33 over 698 frames.
+hi2501M0019 laalamanxi ke jaane ke baada meiqne vasiiyata kaa duusaraa anuccheda padxhaqa 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2501M0020, best cost 68.6096 + 5517.73 = 5586.34 over 698 frames.
+hi2501M0020 ve subaha shaama bhagavaana kii puujaa karate oora dopahara meq ladxaqkiyoq ko padxhaqate the 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2502M0021, best cost 58.715 + 5247.28 = 5306 over 698 frames.
+hi2502M0021 dhobina jaba sokara utxhatii to dekhatii ki cookaa saapha padxaa hei oora bartana mamqje hue heiq 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2502M0022, best cost 42.7947 + 5063.93 = 5106.73 over 698 frames.
+hi2502M0022 yahaamq se lagabhaga paamqca miila daksxinxa pashcima meq katxaghara gaamqva hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2502M0023, best cost 69.7163 + 5419.55 = 5489.27 over 698 frames.
+hi2502M0023 mujhe gaqguu ke saqtusxtxa oora sukhii jiivana para eka prkaara kii iirsxyaa hotii thii 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2502M0024, best cost 43.7657 + 5201.33 = 5245.09 over 698 frames.
+hi2502M0024 meiqne unheq dhiiraja baqdhaayaa gurudeva dila chotxaa mata kiijiye 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2502M0025, best cost 77.0429 + 5379.55 = 5456.6 over 698 frames.
+hi2502M0025 svabhaava meq kucha garimaa aa gaii hei oora baataciita karane meq jyaadaa catura ho gayaa hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2502M0026, best cost 80.0621 + 5375.95 = 5456.01 over 698 frames.
+hi2502M0026 sacamuca thii ve kabuutaroq kii badxae laadxa caava oora pyaara se dekhabhaala karate the 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2502M0027, best cost 83.405 + 5670.89 = 5754.3 over 698 frames.
+hi2502M0027 eisaa alookika prema tathaa vishvaasa dekhakara raajaa mana maanii mana bahuta lajjita ho rahaa thaa 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2502M0028, best cost 67.5248 + 5258.26 = 5325.78 over 698 frames.
+hi2502M0028 paamqca mahiine pahale meine aakaasha meq eka tiira chodxaqa thaa ladxaqkii ne javaaba diyaa 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2502M0029, best cost 82.7902 + 5586.54 = 5669.33 over 698 frames.
+hi2502M0029 ujaalii raatoq meq jaba saba loga so jaate taba vaha bhii iiqtxe thaapatii dikhaayii detii 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2502M0030, best cost 70.5469 + 5513.14 = 5583.69 over 698 frames.
+hi2502M0030 usane ucita kishtoq meq chatipuurti kii raashi vasuula karane kii vyavasthaa kara dii hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2502M0031, best cost 53.4975 + 5352.88 = 5406.38 over 698 frames.
+hi2502M0031 dhobina jaba sokara utxhatii to dekhatii ki cookaa saapha padxaa hei oora bartana mamqje hue hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2502M0032, best cost 40.6233 + 5009.87 = 5050.49 over 698 frames.
+hi2502M0032 yahaamq se lagabhaga paamqca miila daksxinxa pashcima meq katxaghara gaamqva hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2502M0033, best cost 67.6777 + 5348.19 = 5415.87 over 698 frames.
+hi2502M0033 adhikaaqsha vyaktiyoq kii ko khetii para hii nirbhara rahanaa padxaqtaa hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2502M0034, best cost 42.4086 + 4943.11 = 4985.52 over 698 frames.
+hi2502M0034 rasa kii buunda hamaare mana ko bhaatii thii 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2502M0035, best cost 59.432 + 5241.32 = 5300.75 over 698 frames.
+hi2502M0035 upabhoktaaoq ko bhii ucita muulyoq para krusxi padaartha mila jaate hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2502M0036, best cost 64.098 + 5243.01 = 5307.11 over 698 frames.
+hi2502M0036 badxhaqte hue udyogoq ke lie ke kacce maaxla peidaa karane heiq 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2502M0037, best cost 67.5803 + 5457.87 = 5525.45 over 698 frames.
+hi2502M0037 raajaa ke mahala ke pichavaadxae eka bahuta badxaa oora puraanaa suukhaa vruksxa thaa 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2502M0038, best cost 66.1546 + 5394.12 = 5460.27 over 698 frames.
+hi2502M0038 mandiroq kaa vaastushilpa udxaiisaa meq naagra sheilii ke mandiroq ke kaaphii nikatxa hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2502M0039, best cost 67.6992 + 5598.94 = 5666.64 over 698 frames.
+hi2502M0039 bhuumi ke upajaauupana ke aadhaara para siimaabandii kaa stara pacaasa ekadxaq taka hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2502M0040, best cost 78.3177 + 5442.01 = 5520.33 over 698 frames.
+hi2502M0040 isake baada tumhaarii jo bhii icchaa ho usase kaho vaha oora puurii ho jaaegii 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2503M0041, best cost 49.8165 + 5022.03 = 5071.85 over 698 frames.
+hi2503M0041 dhobina jaba sokara utxhatii to dekhatii ki cookaa saapha padxaa hei oora bartana mamqje hue hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2503M0042, best cost 52.7266 + 5136.3 = 5189.02 over 698 frames.
+hi2503M0042 yahaamq se lagabhaga paamqca miila daksxinxa pashcima meq katxaghara gaamqva rahaa hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2503M0043, best cost 74.7303 + 5154.93 = 5229.67 over 698 frames.
+hi2503M0043 meiq doodxaqkara daravaaje se nikala jaanaa caahataa thaa kii kahiiq mutxhabhedxaq na ho jaae hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2503M0044, best cost 64.4736 + 5176.62 = 5241.09 over 698 frames.
+hi2503M0044 taba donoq na jaane kisa deivii preranxaa se eka madhushaalaa ke saamane aa pahumqce 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2503M0045, best cost 58.8313 + 5039.39 = 5098.22 over 698 frames.
+hi2503M0045 mahaaraajaa ne jijnyaasaa puurnxa drusxtxi se mahaaraanii kii ora dekhate hue kahaa 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2503M0046, best cost 54.4697 + 5137.57 = 5192.04 over 698 frames.
+hi2503M0046 turanta usane lutxeroq kii ora ghuumakara kahaa yaha koovaa bilakula jhuutxhaa hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2503M0047, best cost 65.2103 + 5353.84 = 5419.05 over 698 frames.
+hi2503M0047 tuu ekadama jhuutxhii hei setxhanii ne apanii dhaaranxaa para saccaaii kii mohara lagaa dii 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2503M0048, best cost 70.233 + 5304.46 = 5374.69 over 698 frames.
+hi2503M0048 unhoqne desha meq eka uccakotxi kaa saqghatxana khadxaqa kiyaa jo itihaasa meq advitiiya hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2503M0049, best cost 30.6867 + 4752.13 = 4782.82 over 698 frames.
+hi2503M0049 paartxii sattaa ke khilaapha hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2503M0050, best cost 75.6702 + 5077.9 = 5153.57 over 698 frames.
+hi2503M0050 coodharii ne apane upadesha samaapta kiyaa oora apanii jagaha para aa beitxhe 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2503M0051, best cost 51.2845 + 5219.73 = 5271.02 over 698 frames.
+hi2503M0051 dhobina jaba sokara utxhatii to dekhatii ki cookaa saapha padxaa hei oora bartana mamqje hue hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2503M0052, best cost 38.9512 + 4876 = 4914.95 over 698 frames.
+hi2503M0052 yahaamq se lagabhaga paamqca miila daksxinxa pashcima meq katxaghara gaamqva hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2503M0053, best cost 59.4928 + 5050.83 = 5110.33 over 698 frames.
+hi2503M0053 ve aba vahaamq para noo dasa hajaara phutxa kii uumqcaaii para milate heiq 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2503M0054, best cost 80.8706 + 5342.75 = 5423.63 over 698 frames.
+hi2503M0054 kucha samaya pahale kii baata hei kii kisii jagaha eka dhanii oora vyasta vyaapaarii rahataa thaa 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2503M0055, best cost 74.2047 + 5404.46 = 5478.67 over 698 frames.
+hi2503M0055 sabuuta heiq ve do caara pedxaq jo idhara udhara uge hue heiq baaki saba kaatxa dxaale gae 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2503M0056, best cost 72.6565 + 5350.89 = 5423.54 over 698 frames.
+hi2503M0056 to vaha kyoq usa pratisxtxhaa oora sammmaana ko tyaaga de jo usakii bapootii 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2503M0057, best cost 68.1679 + 5267.37 = 5335.54 over 698 frames.
+hi2503M0057 biimaarii ke coothe dina aacaarya cuudxaqamanxi ne buudxhaii ko bheja kara use bulaayaa thaa 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2503M0058, best cost 97.8114 + 5293.88 = 5391.69 over 698 frames.
+hi2503M0058 ve kahane lage diivaanajii aapane meq bhii rasa ke doore ke baare meq kucha socaa hei kyaa 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2503M0059, best cost 77.4018 + 5473.53 = 5550.93 over 698 frames.
+hi2503M0059 apane saqkatxamocana ke makaana kaa uuparii khanxdxa meiq jagatpati mishra mishra ko detaa huumq 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2503M0060, best cost 44.0302 + 5049.41 = 5093.44 over 698 frames.
+hi2503M0060 jo vidyaa ghamaqdxii banaa de usase murkha rahanaa hii acchaa 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2504M0061, best cost 52.9619 + 5327.86 = 5380.83 over 698 frames.
+hi2504M0061 dhobina jaba sokara utxhatii to dekhatii ki cookaa saapha padxaa hei oora bartana mamqje hue hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2504M0062, best cost 50.4445 + 5246.11 = 5296.56 over 698 frames.
+hi2504M0062 yahaamq se lagabhaga paamqca miila daksxinxa pashcima meq meq katxaghara gaamqva hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2504M0063, best cost 35.9733 + 4909.26 = 4945.23 over 698 frames.
+hi2504M0063 puurva yuga meq maanava aalasii nahiiq thaa 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2504M0064, best cost 83.1167 + 5558.06 = 5641.18 over 698 frames.
+hi2504M0064 dhiire suucanaa sadana meq kaaqgresa mukhya sacetaka sacetaka diipacaqda baqdhu ne dii 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2504M0065, best cost 60.6252 + 5183.92 = 5244.55 over 698 frames.
+hi2504M0065 isameq kahaa gayaa hei sabase badxaii aparaadhii to hamaarii sarakaara hii hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2504M0066, best cost 51.9999 + 5129.01 = 5181.01 over 698 frames.
+hi2504M0066 hamaarii sarakaara ne saqvidhaana meq saqkalpa ghosxita nahiiq kiyaa hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2504M0067, best cost 24.3453 + 4818.19 = 4842.54 over 698 frames.
+hi2504M0067 aaja vahaamq paartxii hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2504M0068, best cost 42.7267 + 4827.69 = 4870.42 over 698 frames.
+hi2504M0068 dhiire lagabhaga biisa phutxa uumqcaa hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2504M0069, best cost 48.9147 + 4995.12 = 5044.03 over 698 frames.
+hi2504M0069 maakapaa ke chaha kaaryakartaaoq ko ghaayala kara diyaa gayaa 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2504M0070, best cost 56.1233 + 5305.75 = 5361.88 over 698 frames.
+hi2504M0070 betxara sambandhii isa khoja ke kaaranxa veijnyaanika jagata unakii ora aakrusxtxa huaa 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2504M0071, best cost 53.1324 + 5154.69 = 5207.82 over 698 frames.
+hi2504M0071 dhobina jaba sokara utxhatii to dekhatii ki cookaa saapha padxaa hei oora bartana mamqje hue hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2504M0072, best cost 41.3873 + 5195.41 = 5236.8 over 698 frames.
+hi2504M0072 yahaamq se lagabhaga paamqca miila daksxinxa pashcima meq katxaghara gaamqva hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2504M0073, best cost 51.9553 + 5179.86 = 5231.81 over 698 frames.
+hi2504M0073 yahaamq para aadivaasii lokakalaa ke lagabhaga saba namuune heiq 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2504M0074, best cost 75.5747 + 5262.94 = 5338.52 over 698 frames.
+hi2504M0074 dekho naa mere pahale dina para dina mujhe majabuura kiye jaa rahe heiq 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2504M0075, best cost 51.953 + 4984.21 = 5036.16 over 698 frames.
+hi2504M0075 kapadxe pahanuuqgii para laaqdxrii ise dhulavaakara 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2504M0076, best cost 55.2303 + 5240.42 = 5295.65 over 698 frames.
+hi2504M0076 kyaa shaadii isiilie huyii thii ki saaraa jiivana ghutxa ghutxa kara kaatxaa jaaye 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2504M0077, best cost 24.0795 + 4686.67 = 4710.75 over 698 frames.
+hi2504M0077 yaha dekhaa jaataa hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2504M0078, best cost 26.3393 + 4831.69 = 4858.03 over 698 frames.
+hi2504M0078 meiqne kalara txiivii khariidaa hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2504M0079, best cost 77.1863 + 5388.15 = 5465.33 over 698 frames.
+hi2504M0079 sastii saakha ke upalabdha na hone ke kaaranxa bhaarata meq byaaja kii dara bahuta uumqcii rahatii hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2504M0080, best cost 68.0884 + 5409.6 = 5477.69 over 698 frames.
+hi2504M0080 para jaba suqdarii kisii taraha na maanii to setxhajii apanaa dharma lekara behataashaa bhaage 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2505M0081, best cost 60.2169 + 5744.59 = 5804.81 over 698 frames.
+hi2505M0081 dhobina jaba sokara utxhatii to dekhatii ki cookaa saapha padxaa hei oora bartana mamqje 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2505M0082, best cost 42.5335 + 5267.23 = 5309.76 over 698 frames.
+hi2505M0082 yahaamq se lagabhaga paamqca miila daksxinxa pashcima meq katxaghara gaamqva hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2505M0083, best cost 81.537 + 5494.84 = 5576.37 over 698 frames.
+hi2505M0083 vaha thodxae samaya taka cupa rahaa phira bolaa hamaaraa itanii dukhii mata ho 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2505M0084, best cost 46.1426 + 5478.13 = 5524.27 over 698 frames.
+hi2505M0084 dhanurdhaarinxii ladxaqkii daravaaje ke saamane ghaata lagaae beitxhii thii 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2505M0085, best cost 84.1233 + 5342.59 = 5426.71 over 698 frames.
+hi2505M0085 koii oora upaaya to thaa nahiiq isalie vaha jaana chodxaq jaqgala meq jaa basaa 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2505M0086, best cost 79.2641 + 5491.63 = 5570.9 over 698 frames.
+hi2505M0086 aadhii raata hote kii baaghoq kii dahaadxaq oora bhedxaiyoq kii ciikha sunaayii dene lagatii hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2505M0087, best cost 69.8296 + 5443.06 = 5512.89 over 698 frames.
+hi2505M0087 usane phira vahii pataa baagha ke shava para ragadxaqa oora vaha punarjiivita ho gayaa 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2505M0088, best cost 72.0274 + 5489.12 = 5561.15 over 698 frames.
+hi2505M0088 saqgrahaalaya meq deshabhara se ikatxhtxhii kii gayii kalaa kii amuulya vastueq rakhii gayii heiq 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2505M0089, best cost 26.0271 + 4765.78 = 4791.8 over 698 frames.
+hi2505M0089 paartxii sattaa meq hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2505M0090, best cost 77.9425 + 5480.97 = 5558.91 over 698 frames.
+hi2505M0090 gaamqva ke baalaka baalikaaoq meq isa vilaksxanxa khela ne abhuutapuurva saahasa bhara diyaa 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2505M0091, best cost 54.4429 + 5412.02 = 5466.46 over 698 frames.
+hi2505M0091 dhobina jaba sokara utxhatii to dekhatii ki cookaa saapha padxaa hei oora bartana mamqje hue hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2505M0092, best cost 68.8966 + 5049.96 = 5118.86 over 698 frames.
+hi2505M0092 yahaamq se lagabhaga paamqca miila pashcima daksxinxa meq katxaghara gaamqva hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2505M0093, best cost 51.6273 + 5178.11 = 5229.74 over 698 frames.
+hi2505M0093 ve pradesha kaaqgresa ke alpasaqkhyaka sela ke mukhiyaa heiq 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2505M0094, best cost 52.4618 + 5021.44 = 5073.9 over 698 frames.
+hi2505M0094 puure desha meq isase dxaakasevaa lagabhaga txhappa ho gayii hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2505M0095, best cost 68.1596 + 5359.3 = 5427.46 over 698 frames.
+hi2505M0095 saqbhava hei yaha maamalaa nirnxaya ke lie keqdriiya maqtrii maqdxala ke saamane rakhaa jaae 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2505M0096, best cost 54.8943 + 5135.19 = 5190.08 over 698 frames.
+hi2505M0096 bhagata ke anusaara mahattvapuurnxa kaauqtxaroq para kaama ho rahaa hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2505M0097, best cost 61.8351 + 5262.44 = 5324.28 over 698 frames.
+hi2505M0097 suqdaralaala patxavaa sarakaara ne nae jailoq ke gatxhana kii ghosxanxaa kii thii 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2505M0098, best cost 105.196 + 5384.83 = 5490.03 over 698 frames.
+hi2505M0098 eisaa saqketa hei kii patxasana na ne meq eise ghuse anya tatvoq kaii bhii pahacaana kii thii 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2505M0099, best cost 59.6287 + 5310.31 = 5369.94 over 698 frames.
+hi2505M0099 yasa ke modii stxiilsa pheiktxarii meq janavarii se taalaabaqdii lagii huyii hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2505M0100, best cost 72.0826 + 5469.8 = 5541.88 over 698 frames.
+hi2505M0100 mahaaraanxaa vikramaaditya kaa raaja bhii to eisaa nahiiq thaa ki loga unase prema rakhate 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2508M0101, best cost 47.5893 + 5002.4 = 5049.99 over 698 frames.
+hi2508M0101 dhobina jaba sokara utxhatii to dekhatii ki cookaa saapha padxaa hei oora bartana mamqje hue hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2508M0102, best cost 37.7128 + 4995.9 = 5033.61 over 698 frames.
+hi2508M0102 yahaamq se lagabhaga paamqca miila daksxinxa pashcima meq katxaghara gaamqva hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2508M0103, best cost 50.0511 + 5326.36 = 5376.41 over 698 frames.
+hi2508M0103 yaha maqdxapa lagabhaga dasa phutxa uumqce gola staqbhoq para txikaa hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2508M0104, best cost 62.884 + 5603.38 = 5666.26 over 698 frames.
+hi2508M0104 alabattaa kaii oora apsaraaoq kii muurtiyoq apane puure veibhava ke saatha kadxaii heiq 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2508M0105, best cost 44.5491 + 5200.16 = 5244.71 over 698 frames.
+hi2508M0105 jaiqdagii ika kaamqtxaa hei cubhanaa hii isakii kahaanii hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2508M0106, best cost 36.151 + 4957.64 = 4993.79 over 698 frames.
+hi2508M0106 aalasii manusxya paakhaqdxii hotaa hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2508M0107, best cost 42.9249 + 4976.06 = 5018.99 over 698 frames.
+hi2508M0107 paartxii ko nyaaya rahii hei kyaa 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2508M0108, best cost 40.4299 + 4934.33 = 4974.76 over 698 frames.
+hi2508M0108 bhaarata meq yaha saba saadhana upalabdha hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2508M0109, best cost 20.1719 + 4821.99 = 4842.17 over 698 frames.
+hi2508M0109 uttara spasxtxa hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2508M0110, best cost 63.3033 + 5547.62 = 5610.92 over 698 frames.
+hi2508M0110 cadxdxaa bhagavaan nahiiq the kii unake ika nigaaha dekha lene se amruta barasa jaataa 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2508M0111, best cost 47.9359 + 5058.05 = 5105.99 over 698 frames.
+hi2508M0111 dhobina jaba sokara utxhatii to dekhatii ki cookaa saapha padxaa hei oora bartana mamqje hue hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2508M0112, best cost 35.2977 + 4833.03 = 4868.33 over 698 frames.
+hi2508M0112 yahaamq se lagabhaga paamqca miila daksxinxa pashcima meq katxaghara gaamqva hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2508M0113, best cost 50.5889 + 5318.52 = 5369.11 over 698 frames.
+hi2508M0113 inakaa shilpa sooqdarya bhuuta kaala meq banii muurtiyoq meq milataa hei 
+LOG (lattice-scale[5.3]:main():lattice-scale.cc:90) Done 140 lattices.
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2508M0114, best cost 57.4907 + 5511.22 = 5568.71 over 698 frames.
+hi2508M0114 pradhaana shivaalaya ke baahara lagabhaga biisa phutxa lambaaii kaa gola maqdxapa hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2508M0115, best cost 79.4782 + 5867.88 = 5947.36 over 698 frames.
+hi2508M0115 saata soo varsxa puurva ke lagabhaga vastra udyoga patxasana udyoga oora koyalaa udyoga aarambha huaa 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2508M0116, best cost 72.7174 + 5404.63 = 5477.35 over 698 frames.
+hi2508M0116 usane apane baabaa se kaha diyaa kii meq isa pacaraqgii vaalii se hii vivaaha karuumqgaa 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2508M0117, best cost 29.2847 + 4882.72 = 4912 over 698 frames.
+hi2508M0117 paartxii ko aaqdolana karanaa caahie 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2508M0118, best cost 78.8333 + 5303.58 = 5382.42 over 698 frames.
+hi2508M0118 aaiisiiesaii skuula ke baccoq kaa bhii parinxaama aksara behatara nahiiq hotaa hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2508M0119, best cost 28.2489 + 4910.35 = 4938.6 over 698 frames.
+hi2508M0119 ise maadaka sthaana shrruqgaara kahaa hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2508M0120, best cost 52.5004 + 5284.77 = 5337.27 over 698 frames.
+hi2508M0120 yaha shabda una dinoq iqgleiqdxa ke eka samaacaara patra ne likhe the 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2509M0121, best cost 50.0709 + 4880.26 = 4930.33 over 698 frames.
+hi2509M0121 dhobina jaba sokara utxhatii to dekhatii ki cookaa saapha padxaa hei oora bartana mamqje hue hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2509M0122, best cost 37.5985 + 4720.43 = 4758.03 over 698 frames.
+hi2509M0122 yahaamq se lagabhaga paamqca miila daksxinxa pashcima meq katxaghara gaamqva hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2509M0123, best cost 62.2722 + 5462.45 = 5524.72 over 698 frames.
+hi2509M0123 isake saqsthaana ne kacce lohe oora ispaata kaa utpaadana aarambha kara diyaa hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2509M0124, best cost 52.6574 + 5361.25 = 5413.91 over 698 frames.
+hi2509M0124 dxedxhaq laakha rupayaa prativarsxa yaanii baaraha hajaara paaqca soo rupayaa mahiinaa hogii 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2509M0125, best cost 70.399 + 5242.77 = 5313.17 over 698 frames.
+hi2509M0125 riyaasata kii sukha samruddhi dekha kara unheq mahaaraaja kii kushalataa kaa pataa calegaa hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2509M0126, best cost 47.7458 + 5263.8 = 5311.55 over 698 frames.
+hi2509M0126 hiqdii bhaasxaa eka sashakta praaciina oora samruddha bhaasxaa hei 
+LOG (lattice-add-penalty[5.3]:main():lattice-add-penalty.cc:62) Done adding word insertion penalty to 140 lattices.
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2509M0127, best cost 65.0229 + 5203.46 = 5268.49 over 698 frames.
+hi2509M0127 kyaa vaastava meq hama itane aajaqada heiq ki hama kanaatxa plesa jaa sakate hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2509M0128, best cost 49.1885 + 4933.8 = 4982.99 over 698 frames.
+hi2509M0128 kara diyaa na dostii ke rishte kaa kaqtla hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2509M0129, best cost 52.2576 + 4929.56 = 4981.82 over 698 frames.
+hi2509M0129 dikhaa dii na iqsaana ne dimaagii juunuuna ke shakla hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2509M0130, best cost 71.1442 + 5408.02 = 5479.16 over 698 frames.
+hi2509M0130 girane ke kaaranxa unako badxaii cotxa aayii oora aba ve khadxae bhii nahiiq ho sakate heiq 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2509M0131, best cost 50.2309 + 5042.78 = 5093.01 over 698 frames.
+hi2509M0131 dhobina jaba sokara utxhatii to dekhatii ki cookaa saapha padxaa hei oora bartana mamqje hue hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2509M0132, best cost 36.3897 + 4700.62 = 4737.01 over 698 frames.
+hi2509M0132 yahaamq se lagabhaga paamqca miila daksxinxa pashcima meq katxaghara gaamqva hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2509M0133, best cost 55.7071 + 5232.49 = 5288.2 over 698 frames.
+hi2509M0133 keidii ko jiivita rakhane ke lie usa samaya iishvara kaa badxaqa varadaana thaa 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2509M0134, best cost 54.7058 + 4998.53 = 5053.23 over 698 frames.
+hi2509M0134 unhoqne apanii isa khoja kaa pradarshana iqgleiqdxa meq bhii kiyaa hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2509M0135, best cost 60.2114 + 5443.41 = 5503.62 over 698 frames.
+hi2509M0135 usane paqjaaba kaa adhikaaqsha bhaaga jiitaa oora hinduu raajya kii aadhaarashilaa rakhii 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2509M0136, best cost 68.6993 + 5449.91 = 5518.61 over 698 frames.
+hi2509M0136 jaqraa sii cuuq capadxaq kii to aastiina cadxhaqa kara oora peiqtare badala kara khadxaqa ho jaauumqgaa 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2509M0137, best cost 60.9283 + 5312.12 = 5373.05 over 698 frames.
+hi2509M0137 savere maadhava ne kotxhii meq jaakara dekhaa to usakii caaya txhaqdxii ho gayii thii 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2509M0138, best cost 53.1153 + 5317.99 = 5371.11 over 698 frames.
+hi2509M0138 taaqkhula loga manxipurii jaana jaatiyoq meq shresxtxha yoddhaa maane jaate heiq 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2509M0139, best cost 75.0496 + 5556.67 = 5631.72 over 698 frames.
+hi2509M0139 yahii saccii mitrataa kii kasootxii hei aba se jhuutxhe mitroq para kabhii vishvaasa mata karanaa hei 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:99) For utterance hi2509M0140, best cost 65.1233 + 5540.92 = 5606.04 over 698 frames.
+hi2509M0140 hamaaraa dhyeya eicchika ruupa se sahakaarii khetii karanaa hei na kii dabaava dxaalakara 
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:124) Overall cost per frame is 7.63223 = 0.0850574 [graph] + 7.54717 [acoustic] over 97720 frames.
+LOG (lattice-best-path[5.3]:main():lattice-best-path.cc:128) Done 140 lattices, failed for 0
+# Accounting: time=0 threads=1
+# Ended (code 0) at Sat Dec 23 23:00:02 IST 2017, elapsed time 0 seconds

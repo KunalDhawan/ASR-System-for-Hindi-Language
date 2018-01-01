@@ -1,0 +1,12 @@
+# nnet-train-transitions exp/DNN/0.mdl "ark:gunzip -c exp/tri_ali/ali.*.gz|" exp/DNN/0.mdl 
+# Started at Sat Dec 23 23:15:41 IST 2017
+#
+nnet-train-transitions exp/DNN/0.mdl 'ark:gunzip -c exp/tri_ali/ali.*.gz|' exp/DNN/0.mdl 
+LOG (nnet-train-transitions[5.3]:main():nnet-train-transitions.cc:118) Accumulated transition stats from 898 utterances.
+LOG (nnet-train-transitions[5.3]:MleUpdate():transition-model.cc:517) TransitionModel::Update, objf change is 0.172645 per frame over 626804 frames. 
+LOG (nnet-train-transitions[5.3]:MleUpdate():transition-model.cc:520) 132 probabilities floored, 2539 out of 4556 transition-states skipped due to insuffient data (it is normal to have some skipped.)
+LOG (nnet-train-transitions[5.3]:main():nnet-train-transitions.cc:125) Transition model update: average 0.172645 log-like improvement per frame over 626804 frames.
+LOG (nnet-train-transitions[5.3]:main():nnet-train-transitions.cc:131) Setting priors of pdfs in the model.
+LOG (nnet-train-transitions[5.3]:main():nnet-train-transitions.cc:140) Trained transitions of neural network model and wrote it to exp/DNN/0.mdl
+# Accounting: time=0 threads=1
+# Ended (code 0) at Sat Dec 23 23:15:41 IST 2017, elapsed time 0 seconds

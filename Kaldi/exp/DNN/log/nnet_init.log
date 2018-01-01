@@ -1,0 +1,9 @@
+# nnet-am-init exp/tri_ali/tree data/lang_bigram/topo "nnet-init exp/DNN/nnet.config -|" exp/DNN/0.mdl 
+# Started at Sat Dec 23 23:15:40 IST 2017
+#
+nnet-am-init exp/tri_ali/tree data/lang_bigram/topo 'nnet-init exp/DNN/nnet.config -|' exp/DNN/0.mdl 
+nnet-init exp/DNN/nnet.config - 
+LOG (nnet-init[5.3]:main():nnet-init.cc:69) Initialized raw neural net and wrote it to -
+LOG (nnet-am-init[5.3]:main():nnet-am-init.cc:102) Initialized neural net and wrote it to exp/DNN/0.mdl
+# Accounting: time=1 threads=1
+# Ended (code 0) at Sat Dec 23 23:15:41 IST 2017, elapsed time 1 seconds

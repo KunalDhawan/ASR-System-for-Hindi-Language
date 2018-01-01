@@ -1,0 +1,2 @@
+compute-cmvn-stats --spk2utt=ark:data/train/spk2utt scp:data/train/feats.scp ark,scp:/home/kunal/Kaldi_Workspace/kaldi-master/egs/HindiASR_ver2/mfcc/cmvn_train.ark,/home/kunal/Kaldi_Workspace/kaldi-master/egs/HindiASR_ver2/mfcc/cmvn_train.scp 
+LOG (compute-cmvn-stats[5.3]:main():compute-cmvn-stats.cc:171) Done accumulating CMVN stats for 910 utterances; 0 had errors.

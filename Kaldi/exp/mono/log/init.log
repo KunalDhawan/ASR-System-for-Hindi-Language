@@ -1,0 +1,9 @@
+# gmm-init-mono --shared-phones=data/lang_bigram/phones/sets.int "--train-feats=ark,s,cs:apply-cmvn  --utt2spk=ark:data/train/split4/1/utt2spk scp:data/train/split4/1/cmvn.scp scp:data/train/split4/1/feats.scp ark:- | add-deltas ark:- ark:- | subset-feats --n=10 ark:- ark:-|" data/lang_bigram/topo 39 exp/mono/0.mdl exp/mono/tree 
+# Started at Sat Dec 23 21:42:46 IST 2017
+#
+gmm-init-mono --shared-phones=data/lang_bigram/phones/sets.int '--train-feats=ark,s,cs:apply-cmvn  --utt2spk=ark:data/train/split4/1/utt2spk scp:data/train/split4/1/cmvn.scp scp:data/train/split4/1/feats.scp ark:- | add-deltas ark:- ark:- | subset-feats --n=10 ark:- ark:-|' data/lang_bigram/topo 39 exp/mono/0.mdl exp/mono/tree 
+add-deltas ark:- ark:- 
+apply-cmvn --utt2spk=ark:data/train/split4/1/utt2spk scp:data/train/split4/1/cmvn.scp scp:data/train/split4/1/feats.scp ark:- 
+subset-feats --n=10 ark:- ark:- 
+# Accounting: time=1 threads=1
+# Ended (code 0) at Sat Dec 23 21:42:47 IST 2017, elapsed time 1 seconds

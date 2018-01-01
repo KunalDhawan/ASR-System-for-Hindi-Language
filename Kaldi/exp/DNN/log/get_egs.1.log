@@ -1,0 +1,19 @@
+# nnet-get-egs --left-context=4 --right-context=4 "ark,s,cs:utils/filter_scp.pl --exclude exp/DNN/valid_uttlist data/train/split4/1/feats.scp | apply-cmvn  --utt2spk=ark:data/train/split4/1/utt2spk scp:data/train/split4/1/cmvn.scp scp:- ark:- |" "ark,s,cs:gunzip -c exp/tri_ali/ali.1.gz | ali-to-pdf exp/tri_ali/final.mdl ark:- ark:- | ali-to-post ark:- ark:- |" ark:- | nnet-copy-egs ark:- ark:exp/DNN/egs/egs_orig.1.1.ark ark:exp/DNN/egs/egs_orig.2.1.ark ark:exp/DNN/egs/egs_orig.3.1.ark ark:exp/DNN/egs/egs_orig.4.1.ark ark:exp/DNN/egs/egs_orig.5.1.ark ark:exp/DNN/egs/egs_orig.6.1.ark ark:exp/DNN/egs/egs_orig.7.1.ark ark:exp/DNN/egs/egs_orig.8.1.ark ark:exp/DNN/egs/egs_orig.9.1.ark ark:exp/DNN/egs/egs_orig.10.1.ark 
+# Started at Sat Dec 23 23:15:21 IST 2017
+#
+nnet-get-egs --left-context=4 --right-context=4 'ark,s,cs:utils/filter_scp.pl --exclude exp/DNN/valid_uttlist data/train/split4/1/feats.scp | apply-cmvn  --utt2spk=ark:data/train/split4/1/utt2spk scp:data/train/split4/1/cmvn.scp scp:- ark:- |' 'ark,s,cs:gunzip -c exp/tri_ali/ali.1.gz | ali-to-pdf exp/tri_ali/final.mdl ark:- ark:- | ali-to-post ark:- ark:- |' ark:- 
+apply-cmvn --utt2spk=ark:data/train/split4/1/utt2spk scp:data/train/split4/1/cmvn.scp scp:- ark:- 
+nnet-copy-egs ark:- ark:exp/DNN/egs/egs_orig.1.1.ark ark:exp/DNN/egs/egs_orig.2.1.ark ark:exp/DNN/egs/egs_orig.3.1.ark ark:exp/DNN/egs/egs_orig.4.1.ark ark:exp/DNN/egs/egs_orig.5.1.ark ark:exp/DNN/egs/egs_orig.6.1.ark ark:exp/DNN/egs/egs_orig.7.1.ark ark:exp/DNN/egs/egs_orig.8.1.ark ark:exp/DNN/egs/egs_orig.9.1.ark ark:exp/DNN/egs/egs_orig.10.1.ark 
+ali-to-pdf exp/tri_ali/final.mdl ark:- ark:- 
+ali-to-post ark:- ark:- 
+WARNING (nnet-get-egs[5.3]:main():nnet-get-egs.cc:156) No pdf-level posterior for key hi2501M0098
+WARNING (nnet-get-egs[5.3]:main():nnet-get-egs.cc:156) No pdf-level posterior for key hi2502M0001
+WARNING (nnet-get-egs[5.3]:main():nnet-get-egs.cc:156) No pdf-level posterior for key hi2502M0058
+WARNING (nnet-get-egs[5.3]:main():nnet-get-egs.cc:156) No pdf-level posterior for key hi2502M0116
+LOG (ali-to-pdf[5.3]:main():ali-to-pdf.cc:68) Converted 256 alignments to pdf sequences.
+LOG (ali-to-post[5.3]:main():ali-to-post.cc:73) Converted 256 alignments.
+LOG (apply-cmvn[5.3]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 187 utterances, errors on 0
+LOG (nnet-get-egs[5.3]:main():nnet-get-egs.cc:174) Finished generating examples, successfully processed 183 feature files, wrote 127734 examples,  with 127734 egs in total; 4 files had errors.
+LOG (nnet-copy-egs[5.3]:main():nnet-copy-egs.cc:170) Read 127734 neural-network training examples, wrote 127734
+# Accounting: time=16 threads=1
+# Ended (code 0) at Sat Dec 23 23:15:37 IST 2017, elapsed time 16 seconds

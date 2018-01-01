@@ -1,0 +1,18 @@
+# nnet-get-egs --left-context=4 --right-context=4 "ark,s,cs:utils/filter_scp.pl --exclude exp/DNN/valid_uttlist data/train/split4/3/feats.scp | apply-cmvn  --utt2spk=ark:data/train/split4/3/utt2spk scp:data/train/split4/3/cmvn.scp scp:- ark:- |" "ark,s,cs:gunzip -c exp/tri_ali/ali.3.gz | ali-to-pdf exp/tri_ali/final.mdl ark:- ark:- | ali-to-post ark:- ark:- |" ark:- | nnet-copy-egs ark:- ark:exp/DNN/egs/egs_orig.1.3.ark ark:exp/DNN/egs/egs_orig.2.3.ark ark:exp/DNN/egs/egs_orig.3.3.ark ark:exp/DNN/egs/egs_orig.4.3.ark ark:exp/DNN/egs/egs_orig.5.3.ark ark:exp/DNN/egs/egs_orig.6.3.ark ark:exp/DNN/egs/egs_orig.7.3.ark ark:exp/DNN/egs/egs_orig.8.3.ark ark:exp/DNN/egs/egs_orig.9.3.ark ark:exp/DNN/egs/egs_orig.10.3.ark 
+# Started at Sat Dec 23 23:15:21 IST 2017
+#
+nnet-get-egs --left-context=4 --right-context=4 'ark,s,cs:utils/filter_scp.pl --exclude exp/DNN/valid_uttlist data/train/split4/3/feats.scp | apply-cmvn  --utt2spk=ark:data/train/split4/3/utt2spk scp:data/train/split4/3/cmvn.scp scp:- ark:- |' 'ark,s,cs:gunzip -c exp/tri_ali/ali.3.gz | ali-to-pdf exp/tri_ali/final.mdl ark:- ark:- | ali-to-post ark:- ark:- |' ark:- 
+apply-cmvn --utt2spk=ark:data/train/split4/3/utt2spk scp:data/train/split4/3/cmvn.scp scp:- ark:- 
+nnet-copy-egs ark:- ark:exp/DNN/egs/egs_orig.1.3.ark ark:exp/DNN/egs/egs_orig.2.3.ark ark:exp/DNN/egs/egs_orig.3.3.ark ark:exp/DNN/egs/egs_orig.4.3.ark ark:exp/DNN/egs/egs_orig.5.3.ark ark:exp/DNN/egs/egs_orig.6.3.ark ark:exp/DNN/egs/egs_orig.7.3.ark ark:exp/DNN/egs/egs_orig.8.3.ark ark:exp/DNN/egs/egs_orig.9.3.ark ark:exp/DNN/egs/egs_orig.10.3.ark 
+ali-to-pdf exp/tri_ali/final.mdl ark:- ark:- 
+ali-to-post ark:- ark:- 
+WARNING (nnet-get-egs[5.3]:main():nnet-get-egs.cc:156) No pdf-level posterior for key hi2505M0044
+WARNING (nnet-get-egs[5.3]:main():nnet-get-egs.cc:156) No pdf-level posterior for key hi2505M0101
+WARNING (nnet-get-egs[5.3]:main():nnet-get-egs.cc:156) No pdf-level posterior for key hi2505M0145
+LOG (ali-to-pdf[5.3]:main():ali-to-pdf.cc:68) Converted 253 alignments to pdf sequences.
+LOG (ali-to-post[5.3]:main():ali-to-post.cc:73) Converted 253 alignments.
+LOG (apply-cmvn[5.3]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 179 utterances, errors on 0
+LOG (nnet-get-egs[5.3]:main():nnet-get-egs.cc:174) Finished generating examples, successfully processed 176 feature files, wrote 122848 examples,  with 122848 egs in total; 3 files had errors.
+LOG (nnet-copy-egs[5.3]:main():nnet-copy-egs.cc:170) Read 122848 neural-network training examples, wrote 122848
+# Accounting: time=15 threads=1
+# Ended (code 0) at Sat Dec 23 23:15:36 IST 2017, elapsed time 15 seconds

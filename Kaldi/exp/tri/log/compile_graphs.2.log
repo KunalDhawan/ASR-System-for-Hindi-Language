@@ -1,0 +1,12 @@
+# compile-train-graphs --read-disambig-syms=data/lang_bigram/phones/disambig.int exp/tri/tree exp/tri/1.mdl data/lang_bigram/L.fst "ark:utils/sym2int.pl --map-oov 1 -f 2- data/lang_bigram/words.txt < data/train/split4/2/text |" "ark:|gzip -c >exp/tri/fsts.2.gz" 
+# Started at Sat Dec 23 22:30:27 IST 2017
+#
+compile-train-graphs --read-disambig-syms=data/lang_bigram/phones/disambig.int exp/tri/tree exp/tri/1.mdl data/lang_bigram/L.fst 'ark:utils/sym2int.pl --map-oov 1 -f 2- data/lang_bigram/words.txt < data/train/split4/2/text |' 'ark:|gzip -c >exp/tri/fsts.2.gz' 
+sym2int.pl: replacing gaaqva with 1
+sym2int.pl: replacing gaaqva with 1
+sym2int.pl: replacing gaaqva with 1
+sym2int.pl: replacing gaaqva with 1
+** Replaced 4 instances of OOVs with 1
+LOG (compile-train-graphs[5.3]:main():compile-train-graphs.cc:147) compile-train-graphs: succeeded for 260 graphs, failed for 0
+# Accounting: time=8 threads=1
+# Ended (code 0) at Sat Dec 23 22:30:35 IST 2017, elapsed time 8 seconds

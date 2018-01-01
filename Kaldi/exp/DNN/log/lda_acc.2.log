@@ -1,0 +1,18 @@
+# ali-to-post "ark:gunzip -c exp/tri_ali/ali.2.gz|" ark:- | weight-silence-post 0.0 1:2:3:4:5 exp/tri_ali/final.mdl ark:- ark:- | acc-lda --rand-prune=4.0 exp/tri_ali/final.mdl "ark,s,cs:utils/subset_scp.pl --quiet 2500 data/train/split4/2/feats.scp | apply-cmvn  --utt2spk=ark:data/train/split4/2/utt2spk scp:data/train/split4/2/cmvn.scp scp:- ark:- | splice-feats --left-context=4 --right-context=4 ark:- ark:- |" ark,s,cs:- exp/DNN/lda.2.acc 
+# Started at Sat Dec 23 23:14:58 IST 2017
+#
+acc-lda --rand-prune=4.0 exp/tri_ali/final.mdl 'ark,s,cs:utils/subset_scp.pl --quiet 2500 data/train/split4/2/feats.scp | apply-cmvn  --utt2spk=ark:data/train/split4/2/utt2spk scp:data/train/split4/2/cmvn.scp scp:- ark:- | splice-feats --left-context=4 --right-context=4 ark:- ark:- |' ark,s,cs:- exp/DNN/lda.2.acc 
+ali-to-post 'ark:gunzip -c exp/tri_ali/ali.2.gz|' ark:- 
+weight-silence-post 0.0 1:2:3:4:5 exp/tri_ali/final.mdl ark:- ark:- 
+apply-cmvn --utt2spk=ark:data/train/split4/2/utt2spk scp:data/train/split4/2/cmvn.scp scp:- ark:- 
+splice-feats --left-context=4 --right-context=4 ark:- ark:- 
+WARNING (acc-lda[5.3]:main():acc-lda.cc:77) No posteriors for utterance hi2503M0109
+LOG (acc-lda[5.3]:main():acc-lda.cc:114) Done 100 utterances.
+LOG (acc-lda[5.3]:main():acc-lda.cc:114) Done 200 utterances.
+LOG (ali-to-post[5.3]:main():ali-to-post.cc:73) Converted 259 alignments.
+LOG (weight-silence-post[5.3]:main():weight-silence-post.cc:95) Done 259 posteriors.
+LOG (apply-cmvn[5.3]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 260 utterances, errors on 0
+LOG (acc-lda[5.3]:main():acc-lda.cc:117) Done 259 files, failed for 1
+LOG (acc-lda[5.3]:main():acc-lda.cc:122) Written statistics.
+# Accounting: time=3 threads=1
+# Ended (code 0) at Sat Dec 23 23:15:01 IST 2017, elapsed time 3 seconds

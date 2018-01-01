@@ -1,0 +1,7 @@
+# nnet-shuffle-egs --srand=$[4+(10*0)] ark:exp/DNN/egs/egs_tmp.4.0.ark ark:exp/DNN/egs/egs.4.0.ark 
+# Started at Sat Dec 23 23:15:37 IST 2017
+#
+nnet-shuffle-egs --srand=4 ark:exp/DNN/egs/egs_tmp.4.0.ark ark:exp/DNN/egs/egs.4.0.ark 
+LOG (nnet-shuffle-egs[5.3]:main():nnet-shuffle-egs.cc:102) Shuffled order of 42090 neural-network training examples 
+# Accounting: time=1 threads=1
+# Ended (code 0) at Sat Dec 23 23:15:38 IST 2017, elapsed time 1 seconds

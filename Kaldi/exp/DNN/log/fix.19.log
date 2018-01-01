@@ -1,0 +1,5 @@
+nnet-am-fix exp/DNN/20.mdl exp/DNN/20.mdl 
+LOG (nnet-am-fix[5.3]:FixNnet():nnet-fix.cc:101) For layer 2, decreased parameters for 0 indexes, and increased them for 0 out of a total of 512
+LOG (nnet-am-fix[5.3]:FixNnet():nnet-fix.cc:101) For layer 4, decreased parameters for 0 indexes, and increased them for 0 out of a total of 512
+LOG (nnet-am-fix[5.3]:FixNnet():nnet-fix.cc:101) For layer 6, decreased parameters for 36 indexes, and increased them for 0 out of a total of 512
+LOG (nnet-am-fix[5.3]:main():nnet-am-fix.cc:81) Copied neural net from exp/DNN/20.mdl to exp/DNN/20.mdl

@@ -1,0 +1,294 @@
+# gmm-align-compiled --transition-scale=1.0 --acoustic-scale=0.1 --self-loop-scale=0.1 --beam=10 --retry-beam=40 --careful=false "gmm-boost-silence --boost=1.0 1 exp/mono/18.mdl - |" "ark:gunzip -c exp/mono/fsts.1.gz|" "ark,s,cs:apply-cmvn  --utt2spk=ark:data/train/split4/1/utt2spk scp:data/train/split4/1/cmvn.scp scp:data/train/split4/1/feats.scp ark:- | add-deltas ark:- ark:- |" "ark,t:|gzip -c >exp/mono/ali.1.gz" 
+# Started at Sat Dec 23 21:50:11 IST 2017
+#
+gmm-align-compiled --transition-scale=1.0 --acoustic-scale=0.1 --self-loop-scale=0.1 --beam=10 --retry-beam=40 --careful=false 'gmm-boost-silence --boost=1.0 1 exp/mono/18.mdl - |' 'ark:gunzip -c exp/mono/fsts.1.gz|' 'ark,s,cs:apply-cmvn  --utt2spk=ark:data/train/split4/1/utt2spk scp:data/train/split4/1/cmvn.scp scp:data/train/split4/1/feats.scp ark:- | add-deltas ark:- ark:- |' 'ark,t:|gzip -c >exp/mono/ali.1.gz' 
+gmm-boost-silence --boost=1.0 1 exp/mono/18.mdl - 
+WARNING (gmm-boost-silence[5.3]:main():gmm-boost-silence.cc:82) The pdfs for the silence phones may be shared by other phones (note: this probably does not matter.)
+LOG (gmm-boost-silence[5.3]:main():gmm-boost-silence.cc:93) Boosted weights for 3 pdfs, by factor of 1
+LOG (gmm-boost-silence[5.3]:main():gmm-boost-silence.cc:103) Wrote model to -
+add-deltas ark:- ark:- 
+apply-cmvn --utt2spk=ark:data/train/split4/1/utt2spk scp:data/train/split4/1/cmvn.scp scp:data/train/split4/1/feats.scp ark:- 
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0021
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0022
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0023
+WARNING (gmm-align-compiled[5.3]:AlignUtteranceWrapper():decoder-wrappers.cc:468) Retrying utterance hi2501M0023 with beam 40
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0024
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0025
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0026
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0027
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0028
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0029
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0030
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0031
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0032
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0033
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0034
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0035
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0036
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0037
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0038
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0039
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0040
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0041
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0042
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0043
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0044
+WARNING (gmm-align-compiled[5.3]:AlignUtteranceWrapper():decoder-wrappers.cc:468) Retrying utterance hi2501M0044 with beam 40
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0045
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0046
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0047
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0048
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0049
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0050
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0051
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0052
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0053
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0054
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0055
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0056
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0057
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0058
+WARNING (gmm-align-compiled[5.3]:AlignUtteranceWrapper():decoder-wrappers.cc:468) Retrying utterance hi2501M0058 with beam 40
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0059
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0060
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0061
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0062
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0063
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0064
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0065
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0066
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0067
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0068
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0069
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0070
+WARNING (gmm-align-compiled[5.3]:AlignUtteranceWrapper():decoder-wrappers.cc:468) Retrying utterance hi2501M0070 with beam 40
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0071
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0072
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0073
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0074
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0075
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0076
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0077
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0078
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0079
+WARNING (gmm-align-compiled[5.3]:AlignUtteranceWrapper():decoder-wrappers.cc:468) Retrying utterance hi2501M0079 with beam 40
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0080
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0081
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0082
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0083
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0084
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0085
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0086
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0087
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0088
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0089
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0090
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0091
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0092
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0093
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0094
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0095
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0096
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0097
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0098
+WARNING (gmm-align-compiled[5.3]:AlignUtteranceWrapper():decoder-wrappers.cc:468) Retrying utterance hi2501M0098 with beam 40
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0099
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0100
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0101
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0102
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0103
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0104
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0105
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0106
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0107
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0108
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0109
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0110
+WARNING (gmm-align-compiled[5.3]:AlignUtteranceWrapper():decoder-wrappers.cc:468) Retrying utterance hi2501M0110 with beam 40
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0111
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0112
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0113
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0114
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0115
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0116
+WARNING (gmm-align-compiled[5.3]:AlignUtteranceWrapper():decoder-wrappers.cc:468) Retrying utterance hi2501M0116 with beam 40
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0117
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0118
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0119
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0120
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0121
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0122
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0123
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0124
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0125
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0126
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0127
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0128
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0129
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0130
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0131
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0132
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0133
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0134
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0135
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0136
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0137
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0138
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0139
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0140
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0141
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0142
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0143
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0144
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0145
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0146
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0147
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0148
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0149
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2501M0150
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0001
+WARNING (gmm-align-compiled[5.3]:AlignUtteranceWrapper():decoder-wrappers.cc:468) Retrying utterance hi2502M0001 with beam 40
+WARNING (gmm-align-compiled[5.3]:AlignUtteranceWrapper():decoder-wrappers.cc:477) Did not successfully decode file hi2502M0001, len = 698
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0002
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0003
+WARNING (gmm-align-compiled[5.3]:AlignUtteranceWrapper():decoder-wrappers.cc:468) Retrying utterance hi2502M0003 with beam 40
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0004
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0005
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0006
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0007
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0008
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0009
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0010
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0011
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0012
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0013
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0014
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0015
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0016
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0017
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0018
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0019
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0020
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0041
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0042
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0043
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0044
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0045
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0046
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0047
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0048
+WARNING (gmm-align-compiled[5.3]:AlignUtteranceWrapper():decoder-wrappers.cc:468) Retrying utterance hi2502M0048 with beam 40
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0049
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0050
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0051
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0052
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0053
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0054
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0055
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0056
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0057
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0058
+WARNING (gmm-align-compiled[5.3]:AlignUtteranceWrapper():decoder-wrappers.cc:468) Retrying utterance hi2502M0058 with beam 40
+WARNING (gmm-align-compiled[5.3]:AlignUtteranceWrapper():decoder-wrappers.cc:477) Did not successfully decode file hi2502M0058, len = 698
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0059
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0060
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0061
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0062
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0063
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0064
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0065
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0066
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0067
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0068
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0069
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0070
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0071
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0072
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0073
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0074
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0075
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0076
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0077
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0078
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0079
+WARNING (gmm-align-compiled[5.3]:AlignUtteranceWrapper():decoder-wrappers.cc:468) Retrying utterance hi2502M0079 with beam 40
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0080
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0081
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0082
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0083
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0084
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0085
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0086
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0087
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0088
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0089
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0090
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0091
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0092
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0093
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0094
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0095
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0096
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0097
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0098
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0099
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0100
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0101
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0102
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0103
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0104
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0105
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0106
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0107
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0108
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0109
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0110
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0111
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0112
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0113
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0114
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0115
+WARNING (gmm-align-compiled[5.3]:AlignUtteranceWrapper():decoder-wrappers.cc:468) Retrying utterance hi2502M0115 with beam 40
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0116
+WARNING (gmm-align-compiled[5.3]:AlignUtteranceWrapper():decoder-wrappers.cc:468) Retrying utterance hi2502M0116 with beam 40
+WARNING (gmm-align-compiled[5.3]:AlignUtteranceWrapper():decoder-wrappers.cc:477) Did not successfully decode file hi2502M0116, len = 698
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0117
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0118
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0119
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0120
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0121
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0122
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0123
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0124
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0125
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0126
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0127
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0128
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0129
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0130
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0131
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0132
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0133
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0134
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0135
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0136
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0137
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0138
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0139
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0140
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0141
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0142
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0143
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0144
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0145
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0146
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0147
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0148
+LOG (apply-cmvn[5.3]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 260 utterances, errors on 0
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0149
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:127) hi2502M0150
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:135) Overall log-likelihood per frame is -92.816 over 179386 frames.
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:137) Retried 15 out of 260 utterances.
+LOG (gmm-align-compiled[5.3]:main():gmm-align-compiled.cc:139) Done 257, errors on 3
+# Accounting: time=24 threads=1
+# Ended (code 0) at Sat Dec 23 21:50:35 IST 2017, elapsed time 24 seconds

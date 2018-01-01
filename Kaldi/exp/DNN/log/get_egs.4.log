@@ -1,0 +1,15 @@
+# nnet-get-egs --left-context=4 --right-context=4 "ark,s,cs:utils/filter_scp.pl --exclude exp/DNN/valid_uttlist data/train/split4/4/feats.scp | apply-cmvn  --utt2spk=ark:data/train/split4/4/utt2spk scp:data/train/split4/4/cmvn.scp scp:- ark:- |" "ark,s,cs:gunzip -c exp/tri_ali/ali.4.gz | ali-to-pdf exp/tri_ali/final.mdl ark:- ark:- | ali-to-post ark:- ark:- |" ark:- | nnet-copy-egs ark:- ark:exp/DNN/egs/egs_orig.1.4.ark ark:exp/DNN/egs/egs_orig.2.4.ark ark:exp/DNN/egs/egs_orig.3.4.ark ark:exp/DNN/egs/egs_orig.4.4.ark ark:exp/DNN/egs/egs_orig.5.4.ark ark:exp/DNN/egs/egs_orig.6.4.ark ark:exp/DNN/egs/egs_orig.7.4.ark ark:exp/DNN/egs/egs_orig.8.4.ark ark:exp/DNN/egs/egs_orig.9.4.ark ark:exp/DNN/egs/egs_orig.10.4.ark 
+# Started at Sat Dec 23 23:15:21 IST 2017
+#
+nnet-get-egs --left-context=4 --right-context=4 'ark,s,cs:utils/filter_scp.pl --exclude exp/DNN/valid_uttlist data/train/split4/4/feats.scp | apply-cmvn  --utt2spk=ark:data/train/split4/4/utt2spk scp:data/train/split4/4/cmvn.scp scp:- ark:- |' 'ark,s,cs:gunzip -c exp/tri_ali/ali.4.gz | ali-to-pdf exp/tri_ali/final.mdl ark:- ark:- | ali-to-post ark:- ark:- |' ark:- 
+apply-cmvn --utt2spk=ark:data/train/split4/4/utt2spk scp:data/train/split4/4/cmvn.scp scp:- ark:- 
+nnet-copy-egs ark:- ark:exp/DNN/egs/egs_orig.1.4.ark ark:exp/DNN/egs/egs_orig.2.4.ark ark:exp/DNN/egs/egs_orig.3.4.ark ark:exp/DNN/egs/egs_orig.4.4.ark ark:exp/DNN/egs/egs_orig.5.4.ark ark:exp/DNN/egs/egs_orig.6.4.ark ark:exp/DNN/egs/egs_orig.7.4.ark ark:exp/DNN/egs/egs_orig.8.4.ark ark:exp/DNN/egs/egs_orig.9.4.ark ark:exp/DNN/egs/egs_orig.10.4.ark 
+ali-to-pdf exp/tri_ali/final.mdl ark:- ark:- 
+ali-to-post ark:- ark:- 
+LOG (ali-to-pdf[5.3]:main():ali-to-pdf.cc:68) Converted 130 alignments to pdf sequences.
+LOG (ali-to-post[5.3]:main():ali-to-post.cc:73) Converted 130 alignments.
+LOG (apply-cmvn[5.3]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 79 utterances, errors on 0
+LOG (nnet-get-egs[5.3]:main():nnet-get-egs.cc:174) Finished generating examples, successfully processed 79 feature files, wrote 55142 examples,  with 55142 egs in total; 0 files had errors.
+LOG (nnet-copy-egs[5.3]:main():nnet-copy-egs.cc:170) Read 55142 neural-network training examples, wrote 55142
+# Accounting: time=8 threads=1
+# Ended (code 0) at Sat Dec 23 23:15:29 IST 2017, elapsed time 8 seconds

@@ -1,0 +1,9 @@
+# nnet-am-average exp/DNN/3.1.mdl exp/DNN/3.2.mdl exp/DNN/3.3.mdl exp/DNN/3.4.mdl exp/DNN/3.5.mdl exp/DNN/3.6.mdl exp/DNN/3.7.mdl exp/DNN/3.8.mdl exp/DNN/3.9.mdl exp/DNN/3.10.mdl - | nnet-am-copy --learning-rates=0.010024875929374:0.005012437964687:0.005012437964687 - exp/DNN/3.mdl 
+# Started at Sun Dec 24 00:00:14 IST 2017
+#
+nnet-am-average exp/DNN/3.1.mdl exp/DNN/3.2.mdl exp/DNN/3.3.mdl exp/DNN/3.4.mdl exp/DNN/3.5.mdl exp/DNN/3.6.mdl exp/DNN/3.7.mdl exp/DNN/3.8.mdl exp/DNN/3.9.mdl exp/DNN/3.10.mdl - 
+nnet-am-copy --learning-rates=0.010024875929374:0.005012437964687:0.005012437964687 - exp/DNN/3.mdl 
+LOG (nnet-am-average[5.3]:main():nnet-am-average.cc:252) Averaged parameters of 10 neural nets, and wrote to -
+LOG (nnet-am-copy[5.3]:main():nnet-am-copy.cc:207) Copied neural net from - to exp/DNN/3.mdl
+# Accounting: time=1 threads=1
+# Ended (code 0) at Sun Dec 24 00:00:15 IST 2017, elapsed time 1 seconds
